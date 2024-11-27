@@ -1,8 +1,11 @@
 # System requirements
 
-Outline any technical prerequisites (operating systems, browsers, minimum hardware specs).
+**Web Browser**: Google Chrome, Mozilla Firefox, or Microsoft Edge (latest versions)
 
-\
-&#xNAN;_&#x45;xample_:&#x20;
+**Operating System**: is at least windows 10, MacOS 10.12, Android 8.0 or iOS 12.
 
-"Teleconnect works best on Chrome (version 80+) and requires a minimum internet speed of 5 Mbps for stable video consultations."
+**RAM**: at least 4GB
+
+**CPU**: At least modern dual core processor
+
+**Internet Connection**: at least 5mbps

@@ -1,7 +1,3 @@
 # Installation / Access
 
-Instructions for accessing the software, so not an installation in the IT sense but in the user sense.
-
-_Example:_
-
-How to access the software via a web interface.
+Open your preferred web browser and access MAD through [https://dhis2.uat.icrc.org/dhis-web-commons/security/login.action#/](https://dhis2.uat.icrc.org/dhis-web-commons/security/login.action#/) . You need to secure an account within ICRC and credentials from the IT support group.
