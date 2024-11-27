@@ -16,9 +16,13 @@
 
 ## Core Functionalities
 
-* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry.md)
+* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry/README.md)
+  * [Data entry Primary Health Care (PHC)](core-functionalities/creating-a-new-record-entry/data-entry-primary-health-care-phc.md)
+  * [Data Entry -Physical Rehabilitation Program (PRP)](core-functionalities/creating-a-new-record-entry/data-entry-physical-rehabilitation-program-prp.md)
+  * [Data Entry -Hospital services](core-functionalities/creating-a-new-record-entry/data-entry-hospital-services.md)
 * [Performing Core Actions](core-functionalities/performing-core-actions.md)
-* [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
+* [Advanced Functionalities](core-functionalities/advanced-functionalities/README.md)
+  * [Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)](core-functionalities/advanced-functionalities/capture-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
 * [Data Approval](core-functionalities/data-approval.md)
 
 ## Tips and Best Practices
