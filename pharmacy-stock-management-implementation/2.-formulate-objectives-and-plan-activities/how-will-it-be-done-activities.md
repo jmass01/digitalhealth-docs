@@ -22,12 +22,8 @@
 
 \[1] These objectives should align with ICRC’s health goals and local healthcare priorities and should be SMART:
 
-·         Specific, i.e. distinct and precisely defined;
-
-·         Measurable, i.e. include quantitative and/or qualitative elements that can be measured;
-
-·         Achievable, i.e. realistically attainable, including in the time frame envisaged;
-
-·         Relevant to identified needs and risks;
-
-·         Time-bound, i.e. establish by when the objective is to be achieved or a clear before and after.
+* Specific, i.e. distinct and precisely defined;
+* Measurable, i.e. include quantitative and/or qualitative elements that can be measured;
+* Achievable, i.e. realistically attainable, including in the time frame envisaged;
+* Relevant to identified needs and risks;
+* Time-bound, i.e. establish by when the objective is to be achieved or a clear before and after.

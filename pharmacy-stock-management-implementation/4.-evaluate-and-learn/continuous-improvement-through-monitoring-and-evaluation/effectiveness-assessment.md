@@ -1,3 +1,3 @@
 # Effectiveness Assessment
 
-* Regularly measure key indicators based on the local objectives of the deployment and the service delivery outcomes you hoped to improve (e.g., quality of care gains, efficiency of stock management etc.). If these are not included in the annual digital health survey do query verbally often.
+In addition, measure key indicators based on any local objectives of the deployment and the service delivery outcomes you hoped to improve if these are not included in the digital health survey

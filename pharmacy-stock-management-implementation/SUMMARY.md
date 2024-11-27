@@ -46,7 +46,6 @@
 * [Continuous Improvement through Monitoring and Evaluation](4.-evaluate-and-learn/continuous-improvement-through-monitoring-and-evaluation/README.md)
   * [Annual Digital Health Survey](4.-evaluate-and-learn/continuous-improvement-through-monitoring-and-evaluation/annual-digital-health-survey.md)
   * [Effectiveness Assessment](4.-evaluate-and-learn/continuous-improvement-through-monitoring-and-evaluation/effectiveness-assessment.md)
-  * [Adoption](4.-evaluate-and-learn/continuous-improvement-through-monitoring-and-evaluation/adoption.md)
   * [Feedback and Adaptation](4.-evaluate-and-learn/continuous-improvement-through-monitoring-and-evaluation/feedback-and-adaptation.md)
 * [Exit Strategy and Long-term Planning](4.-evaluate-and-learn/exit-strategy-and-long-term-planning.md)
 
@@ -56,4 +55,4 @@
 
 ## Appendix 2
 
-* [Risk assessment matrix](appendix-2/risk-assessment-matrix.md)
+* [Example PSM result chain](appendix-2/example-psm-result-chain.md)
