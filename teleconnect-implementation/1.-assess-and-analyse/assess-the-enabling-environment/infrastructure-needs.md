@@ -1,0 +1,3 @@
+# Infrastructure Needs
+
+The ICRC TeleConnect solution requires as a minimum access to the internet through a mobile device with a high-quality camera (front and back). It may be that some users have their own device (smartphone), but it is up to the delegation and local procurement around device management to identify whether it is necessary to purchase additional devices. Devices can be shared between health workers, as the telemedicine solution is linked to user activity through login and password. Patient data stored by the tool is deleted 24 hours after a consultation ends. It is stored at ICRC HQ or can be hosted by the MoH if they have the capacity.
