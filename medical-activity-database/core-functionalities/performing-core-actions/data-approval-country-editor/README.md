@@ -4,6 +4,6 @@ description: >-
   Field users and Country editors are involved in the data entry & approval
 ---
 
-# Data Approval
+# Data Approval - Country Editor
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

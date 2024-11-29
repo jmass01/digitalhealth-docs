@@ -28,21 +28,21 @@ You will need to find and select your Organisation Unit in two ways:
 
 In this step, select your data form, the time period and the GO code relevant to your activity. You can also toggle between years, moving a year forward or backward using the 'Prev year' and 'Next year' buttons next to the period entry field.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: ENTER DATA IN THE ROOM**
 
 Start entering data by clicking inside the first cell and typing values in manually.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 Click on check boxes if any.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 Most indicators showcase an explanation of their function. If you click on an indicator, a pop-up window showcases its description.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 The cells will turn green when the data has been automatically saved in the system. The cells will turn red when mandatory fields (identified with a star "\*") have not been filled. Grey fields are those that are completed automatically by the DHIS2 system. In case an invalid value or a value outside an acceptable range is entered, a pop-up window will detail the problem. Click on the cell(s) and correct the data. The cell(s) will turn green once you have entered the correct value. Note: Your browser may sometimes suggest values that are not built into the DHIS2 forms but have been stored in your browser cache from other websites. You can remove these values using the 'Browser Cache Cleaner' on the applications menu. If the problem persists, the following link guides you on how to disable or clear the AutoFill/AutoComplete in your web browser: [How Do I Disable or Clear AutoFill/AutoComplete Information? – iClassPro Support](https://support.iclasspro.com/hc/en-us/articles/218569268-How-Do-I-Disable-or-Clear-AutoFill-AutoComplete-Information)
 
@@ -50,11 +50,11 @@ The cells will turn green when the data has been automatically saved in the syst
 
 A 'Run validation' button is available in each tab. It applies to the entire form not just the screen that is open. Click 'Run validation' once completed ALL tabs in order to check your data.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 “Run validation” checks for completeness of mandatory fields first and for other rules as a second step. It is important to run a validation check to make sure your data is logical and valid, based on rules built into each form. This step ensures that the data you have entered is accurate.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 If all your data is accurate, you will receive a message telling you that the data has passed the validation test once it is complete. If some of the values in your form are inaccurate, you will get a different message telling you that there are errors in your data. It also tells you which values are invalid and which rule needs to be met (e.g. correct data range) for your data to be valid.
 
@@ -62,13 +62,13 @@ If all your data is accurate, you will receive a message telling you that the da
 
 You should correct your data if the validation test detected errors on your form. Click on the cells that have invalid data (shown on the validation test message), remove the incorrect value and retype or reselect the correct value. The new value should meet the requirements of the validation rule shown on the validation test message.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6: SUBMIT DATA FOR APPROVAL**
 
 When you have finished filling in the form and verified the data, don’t forget to complete it. By clicking on the “complete” button, you are confirming that the data has been entered and verified by you as Field User.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once completed, a form is considered as submitted for validation to be further checked by the Country Editor. The Country Editor will do the final verification and will approve data. If, after completing the form you realize some corrections need to be made, click first on “incomplete” and make corrections. Then, click on “complete” button again so that the Country Editor knows that it is ready for approval.
 
@@ -80,6 +80,6 @@ The purpose of importing data into the MAD from an excel file, originates from t
 
 The Health data support team provides you with the excel file to enter data that contains the GO code(s) relevant to your delegation. Open the file, select the time period, GO code and start entering data in all columns.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
 
 Please note that the file may contain several columns, so be sure to enter all necessary data. The mandatory indicators are marked with an asterisk (\*). However, in case you do not compile the report entirely, the system will allow you to upload the file as well. You may continue filling the report online, or offline still using an excel file to upload afterwards. Once finished, save the file on your computer.
