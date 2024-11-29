@@ -31,6 +31,7 @@
     * [DATA APPROVAL  Physical Health Care (PHC)](core-functionalities/performing-core-actions/data-approval-country-editor/data-approval-physical-health-care-phc.md)
 * [Advanced Functionalities](core-functionalities/advanced-functionalities/README.md)
   * [Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)](core-functionalities/advanced-functionalities/capture-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
+  * [Create Maps](core-functionalities/advanced-functionalities/create-maps.md)
 
 ## Tips and Best Practices
 
