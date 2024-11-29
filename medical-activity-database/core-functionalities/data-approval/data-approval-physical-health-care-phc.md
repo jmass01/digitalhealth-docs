@@ -1,34 +1,28 @@
----
-description: >-
-  In order to ensure a better data quality, a data workflow is in place. Both
-  Field users and Country editors are involved in the data entry & approval
----
-
-# Data Approval
+# DATA APPROVAL  Physical Health Care (PHC)
 
 PHC- Approval
 
-1. Click the Apps Menu and choose the Data Approval Classic![](<../.gitbook/assets/image (42) (1).png>)
+1. Click the Apps Menu and choose the Data Approval Classic![](<../../.gitbook/assets/image (42) (1).png>)
 2.  Identify the Data information from the field User
 
     data from the Field User:
 
-![](<../.gitbook/assets/image (43) (1).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 3. Fill out the Information Data Set, Report Period, Report Organisation Unit, and GO code
 
-<figure><img src="../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption><p>Go Code view</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption><p>Go Code view</p></figcaption></figure>
 
 4. After putting all the necessary details, click the Get Data and you should an option above to "Approve" the Data
 
-<figure><img src="../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 You may want to unapprove reports:\
-![](<../.gitbook/assets/image (48) (1).png>)
+![](<../../.gitbook/assets/image (48) (1).png>)
 
 
 

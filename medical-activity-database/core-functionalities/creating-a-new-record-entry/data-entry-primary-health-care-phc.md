@@ -6,11 +6,11 @@ The Data Entry application is used to manually enter routine data on Primary Hea
 
 Here is a list of all data sets/forms relevant to PHC
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 There are some important differences in some data sets in the new MAD compared to the old MAD to take into account. Here below you find a table with a comparison.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 1: Select Organization Unit (OU)**
 
@@ -18,11 +18,11 @@ You will need to find and select your Organisation Unit in two ways:
 
 1. Find the name of the Organisation Unit that you would like to enter data for on the drop-down tree menu. Lower levels will be displayed when you click on the "+" sign next to each Organisation Unit. Click on your Organisation Unit on the menu to highlight it orange. This will enter the 'Organisation Unit' in the respective field of your data entry form. Concerning PHC, after the 1st administration level we have the PHC population level. In the example of the image here below, the Baalbeck – Arsal structure ends with \[POP]. The PHC facility (Aarsal Al Audi Hospital OPD) will be under the population that has been defined in the MAD PHC.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Another quick way to find an Organisation Unit is to use the search box next to the green symbol with the lens above the tree menu. Type in the name or first few letters of your Organisation Unit and select it from the drop-down menu by clicking on it to highlight it orange. This will enter the unit in the Organisation Unit field of your data entry form.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: SELECT DATA FORM, TIME PERIOD AND RELEVANT GO**
 

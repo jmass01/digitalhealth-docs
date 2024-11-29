@@ -11,7 +11,8 @@
 
 ## Navigation and Interface Overview
 
-* [Main interface](navigation-and-interface-overview/main-interface.md)
+* [Dashboard](navigation-and-interface-overview/dashboard/README.md)
+  * [Main Filters](navigation-and-interface-overview/dashboard/main-filters.md)
 * [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
 
 ## Core Functionalities
@@ -23,7 +24,9 @@
 * [Performing Core Actions](core-functionalities/performing-core-actions.md)
 * [Advanced Functionalities](core-functionalities/advanced-functionalities/README.md)
   * [Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)](core-functionalities/advanced-functionalities/capture-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
-* [Data Approval](core-functionalities/data-approval.md)
+* [Data Approval](core-functionalities/data-approval/README.md)
+  * [DATA APPROVAL  Physical Rehabilitation  Program (PRP)](core-functionalities/data-approval/data-approval-physical-rehabilitation-program-prp.md)
+  * [DATA APPROVAL  Physical Health Care (PHC)](core-functionalities/data-approval/data-approval-physical-health-care-phc.md)
 
 ## Tips and Best Practices
 
