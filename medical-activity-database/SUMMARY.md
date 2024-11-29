@@ -13,11 +13,12 @@
 
 * [Dashboard](navigation-and-interface-overview/main-interface.md)
   * [Types of Dashboards](navigation-and-interface-overview/dashboard/types-of-dashboards.md)
-  * [Main functional areas](navigation-and-interface-overview/dashboard/main-functional-areas/README.md)
-    * [Main Filters](navigation-and-interface-overview/dashboard/main-functional-areas/main-filters.md)
-    * [Modifying an Existing Board](navigation-and-interface-overview/dashboard/main-functional-areas/modifying-an-existing-board/README.md)
-      * [Save, find and download a dashboard item](navigation-and-interface-overview/dashboard/main-functional-areas/modifying-an-existing-board/save-find-and-download-a-dashboard-item.md)
-      * [Changing the type of visualization](navigation-and-interface-overview/dashboard/main-functional-areas/modifying-an-existing-board/changing-the-type-of-visualization.md)
+  * [Main Filters](navigation-and-interface-overview/dashboard/main-filters.md)
+  * [Modifying an Existing Board](navigation-and-interface-overview/dashboard/modifying-an-existing-board/README.md)
+    * [Save, find and download a dashboard item](navigation-and-interface-overview/dashboard/modifying-an-existing-board/save-find-and-download-a-dashboard-item.md)
+    * [Changing the type of visualization](navigation-and-interface-overview/dashboard/modifying-an-existing-board/changing-the-type-of-visualization.md)
+* [Other Main functional areas](navigation-and-interface-overview/other-main-functional-areas/README.md)
+  * [Applications](navigation-and-interface-overview/other-main-functional-areas/applications.md)
 
 ## Core Functionalities
 
