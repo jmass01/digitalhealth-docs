@@ -24,4 +24,29 @@ Verify field user capability by clicking the Apps burger menu, and validate 'Dat
 
 2.**Country Editor** - does the Data Approval and validates the information on the form that is filled out by the Field User. They can also unapprove the data submitted by the Field User if corrections apply
 
+How to verify the role of the user:
+
+1. Login to MAD
+2. Click on the user menu&#x20;
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+3. Click on Account
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+4. Click on Full Profile
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+5. Confirm the User Roles
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 3.**Reader** user can only view

@@ -14,7 +14,7 @@ OPEN DASHBOARD APPLICATION&#x20;
 
 Data approval starts from the Dashboards in order to know what is pending approval. There is 1 dashboard called “Approval status” dedicated to the status of reports. It can be used by country editors in order to see what needs to be approved. Open the Dashboard application in a separate tab. You will get the following screen:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Approval status" dashboard, there is 1 row per data set that is subject to approval. For Monthly Reports, the selection of the data set depends on the existence of dormitory in the PRC AND the use of DCMS by the PRC. One data set only will be relevant for each PRC: PRP - PRC Monthly report PRP - PRC Monthly report with dormitory PRP - PRC Monthly report from DCMS PRP - PRC Monthly report with dormitory from DCMS. A table and a graph are provided. In order to know which report is pending approval you need to check the table.
 
@@ -32,21 +32,21 @@ PRP - PRC Monthly report with dormitory from DCMS.
 
 A table and a graph are provided. In order to know which report is pending approval you need to check the table
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>The table indicates the number of reports to validate per Organisation Unit and time period: how many are “draft”, “to validate” and already “approved”</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>The table indicates the number of reports to validate per Organisation Unit and time period: how many are “draft”, “to validate” and already “approved”</p></figcaption></figure>
 
 The graph gives an overview of the status of reports
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the three-dot button to view the table in fullscreen mode
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 From the example provided, as a Country Editor I know there is one report dated January 2022 to approve in the data set PRC Monthly report with dormitory. The Organisation Unit is Barishal center.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before approving data, it is strongly recommended to open an additional DHIS2 tab in Chrome on the app “Data approval” This way you keep the two tabs open: Dashboard and Data approval
 
@@ -60,13 +60,13 @@ In order to ensure a better data quality, a data workflow is in place. Data entr
 
 STEP 3: SELECT DATA SET AND ORGANISATION UNIT
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Select data set (1), the report period (2) together with the Report Organisation Unit (3) and the GO Code (4). Once selection is completed, click on “Get data”. Please note that reports are approved at facility level.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Select data set (1), the report period (2) together with the Report Organisation Unit (3) and the GO Code (4). Once selection is completed, click on “Get data”. Please note that reports are approved at facility level.</p></figcaption></figure>
 
 STEP 4: APPROVE REPORT
 
 If data and information provided are reliable and ready to get approved, click on “Approve”.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 STEP 5: UNAPPROVE REPORT (OPTIONAL)
 
