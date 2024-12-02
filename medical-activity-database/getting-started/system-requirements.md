@@ -1,11 +1,13 @@
 # System requirements
 
-**Web Browser**: Google Chrome, Mozilla Firefox, or Microsoft Edge (latest versions)
+#### System requirements
 
-**Operating System**: is at least windows 10, MacOS 10.12, Android 8.0 or iOS 12.
+Web Browser: Google Chrome, Mozilla Firefox, or Microsoft Edge (latest versions)
 
-**RAM**: at least 4GB
+Operating System: is at least windows 10 , MacOS 10. 12 , Android 8. 0 or iOS 12.
 
-**CPU**: At least modern dual core processor
+RAM: at least 4 GB
 
-**Internet Connection**: at least 5mbps
+CPU: At least modern dual core processor
+
+Internet Connection: at least 5 mbps

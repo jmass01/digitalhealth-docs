@@ -1,18 +1,18 @@
 # Types of Dashboards
 
-According to the health program(s) you belong to, you will get access to predesigned dashboards. Each tab corresponds to a dashboard beginning with the name of the health program concerned. Within each dashboard, there are dashboard items per topic or set of indicators (graphs, tables, etc.). See example:&#x20;
+#### Types of Dashboards
 
-Dashboard FA\&PHEC capacity strengthening:&#x20;
+According to the health program(s) you belong to, you will get access to predesigned dashboards. Each tab corresponds to a dashboard beginning with the name of the health program concerned. Within each dashboard, there are dashboard items per topic or set of indicators (graphs, tables, etc.). See example:
 
-o Dashboard item: trainings. Table&#x20;
+Dashboard FA\&PHEC capacity strengthening:
 
-o Dashboard item: donations. Pie chart&#x20;
+o Dashboard item: trainings. Table
+
+o Dashboard item: donations. Pie chart
 
 o Dashboard item: meetings visits. Line chart
 
 A dashboard may contain different types of data, reports, graphs, etc. See some examples here below. Reports showcasing indicators for a specific time period
-
-
 
 Depending on coordinates that are defined by structures, we can also have graphs and maps.
 

@@ -4,6 +4,8 @@ description: Here are some of the features relevant for all MAD
 
 # Applications
 
+#### Applications
+
 Here the Application view for Field User\
 ![](<../../.gitbook/assets/image (3) (1) (1).png>)\
 \

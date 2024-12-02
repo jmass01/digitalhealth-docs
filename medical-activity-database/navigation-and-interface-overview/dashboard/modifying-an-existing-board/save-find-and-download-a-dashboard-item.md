@@ -1,5 +1,7 @@
 # Save, find and download a dashboard item
 
+#### Save, find and download a dashboard item
+
 a. Saving a dashboard item
 
 You may now want to save the file. Click on “File” on the top bar, and then on “Save as”

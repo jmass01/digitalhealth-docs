@@ -4,13 +4,17 @@ description: How to Modify an Existing Dashboard Item?
 
 # Modifying an Existing Board
 
-Very often you need to extract data and present it in a specific way and layout. The dashboard items available in the MAD may provide exactly what you need, or you may need to apply modifications to obtain the expected results.&#x20;
+#### Modifying an Existing Board
 
-With the steps explained here below, you can work on the already existing items and avoid creating new  ones from scratch.&#x20;
+How to Modify an Existing Dashboard Item?
 
-Let’s say, you want data on permanent, mobile and temporary first aid posts supported, and   the total in Q3 2022, in Pakistan per region.&#x20;
+Very often you need to extract data and present it in a specific way and layout. The dashboard items available in the MAD may provide exactly what you need, or you may need to apply modifications to obtain the expected results.
 
-Which dashboard contains this information? By default, in the new MAD a dashboard called “aggregation of data” is available for every health program. This dashboard contains all he indicators across all data sets.&#x20;
+With the steps explained here below, you can work on the already existing items and avoid creating new ones from scratch.
+
+Letʼs say, you want data on permanent, mobile and temporary first aid posts supported, and the total in Q 3 2022 , in Pakistan per region.
+
+Which dashboard contains this information? By default, in the new MAD a dashboard called “aggregation of data” is available for every health program. This dashboard contains all he indicators across all data sets.
 
 <figure><img src="../../../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,15 +55,15 @@ Attention: in this case do not apply Column totals as the data will be duplicate
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-SOME KEY INFORMATION
+**SOME KEY INFORMATION**
 
 ✓ Data elements are fields where you manually enter data.
 
-✓ Indicators are automatically calculated fields based on data elements.&#x20;
+✓ Indicators are automatically calculated fields based on data elements.
 
-✓ Search by data item name&#x20;
+✓ Search by data item name
 
-When no data element or indicator have been selected, you can type key words to find a specific indicator.&#x20;
+When no data element or indicator have been selected, you can type key words to find a specific indicator.
 
 <figure><img src="../../../.gitbook/assets/image (23) (3).png" alt=""><figcaption></figcaption></figure>
 

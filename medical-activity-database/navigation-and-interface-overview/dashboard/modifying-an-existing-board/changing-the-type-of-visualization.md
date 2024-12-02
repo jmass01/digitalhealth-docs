@@ -6,6 +6,8 @@ description: >-
 
 # Changing the type of visualization
 
+Changing the type of visualization
+
 These features are accessible by opening the report in “Data Visualizer app” at first (image on the left) and then the Pivot table arrow (image here below).
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
