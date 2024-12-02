@@ -19,6 +19,7 @@
     * [Changing the type of visualization](navigation-and-interface-overview/dashboard/modifying-an-existing-board/changing-the-type-of-visualization.md)
 * [Other Main functional areas](navigation-and-interface-overview/other-main-functional-areas/README.md)
   * [Applications](navigation-and-interface-overview/other-main-functional-areas/applications.md)
+  * [DHIS2: Change user settings](navigation-and-interface-overview/other-main-functional-areas/dhis2-change-user-settings.md)
 
 ## Core Functionalities
 

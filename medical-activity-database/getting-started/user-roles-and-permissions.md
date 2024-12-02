@@ -43,7 +43,7 @@ How to verify the role of the user:
 
 5. Confirm the User Roles
 
-<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
