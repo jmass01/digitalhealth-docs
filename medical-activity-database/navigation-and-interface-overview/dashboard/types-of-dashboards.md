@@ -16,13 +16,13 @@ A dashboard may contain different types of data, reports, graphs, etc. See some 
 
 Depending on coordinates that are defined by structures, we can also have graphs and maps.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (3).png>)
 
 
 
 Example of a line chart
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

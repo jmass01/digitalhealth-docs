@@ -15,7 +15,7 @@ Compared to the old MAD, dashboards in DHIS2 are what we used to call “overvie
 
 Once in Dashboards app, here is an example of the landing page. Each dashboard contains a summary providing a description of its content. By clicking on the arrow indicated in the image here above, you expand or reduce the window, and more or fewer dashboards are displayed
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 Important notes:
 
@@ -23,4 +23,4 @@ Important notes:
 2. Facility Level: Hospital \[HOS], Health Center \[HC], Mobile Health Unit \[MHU], Place of Detention \[DET], Physical Rehabilitation Center \[PRC], Government Entity \[GOV], National Society Location \[NSL], FA\&PHEC specific structures \[FAPHEC], MHPSS specific structures \[MHPSS L6].
 3. Service Delivery Point: HSP, PHC, HCD, PRP, FA\&PHEC, MHPSS. In many cases, under one structure there are multiple service delivery points. This is valid for structures where more than one health programs provide support. For instance, a hospital having hospital activities, MHPSS, FA\&PHEC.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (3).png" alt=""><figcaption></figcaption></figure>

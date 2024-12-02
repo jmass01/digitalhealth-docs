@@ -12,7 +12,7 @@ Let’s say, you want data on permanent, mobile and temporary first aid posts su
 
 Which dashboard contains this information? By default, in the new MAD a dashboard called “aggregation of data” is available for every health program. This dashboard contains all he indicators across all data sets.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;To answer the request above, you may select FA\&PHEC aggregation of data. In particular, the table “FA Structures” contains several indicators, among which, the ones under question.
 
@@ -61,7 +61,7 @@ SOME KEY INFORMATION
 
 When no data element or indicator have been selected, you can type key words to find a specific indicator.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (3).png" alt=""><figcaption></figcaption></figure>
 
 Good to know: The first three letters of each indicator, refer to the related Health program.&#x20;
 

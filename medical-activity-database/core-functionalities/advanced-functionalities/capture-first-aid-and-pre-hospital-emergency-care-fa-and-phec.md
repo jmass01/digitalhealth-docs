@@ -7,7 +7,7 @@ The Capture application is used to enter data on FA\&PHEC trainings or meetings/
 
 Here is a summary of all data sets/forms relevant to FA\&PHEC
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 1: SELECT YOUR DATA FORM**
 

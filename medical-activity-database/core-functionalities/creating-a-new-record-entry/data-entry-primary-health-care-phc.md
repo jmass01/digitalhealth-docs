@@ -22,7 +22,7 @@ You will need to find and select your Organisation Unit in two ways:
 
 2. Another quick way to find an Organisation Unit is to use the search box next to the green symbol with the lens above the tree menu. Type in the name or first few letters of your Organisation Unit and select it from the drop-down menu by clicking on it to highlight it orange. This will enter the unit in the Organisation Unit field of your data entry form.
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: SELECT DATA FORM, TIME PERIOD AND RELEVANT GO**
 

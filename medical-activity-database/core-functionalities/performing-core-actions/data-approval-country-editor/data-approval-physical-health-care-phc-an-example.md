@@ -1,6 +1,21 @@
-# DATA APPROVAL  Physical Health Care (PHC)
+---
+description: >-
+  In the these subpages, you'll discover the steps to complete the data approval
+  process. Please note that the examples used refer to PRP, but the same process
+  applies to all Health programs.
+---
 
-PHC- Approval
+# DATA APPROVAL  Physical Health Care (PHC) - an example
+
+
+
+OPEN DASHBOARD APPLICATION&#x20;
+
+Data approval starts from the Dashboards in order to know what is pending approval. There is 1 dashboard called “Approval status/PHC” dedicated to the status of reports. It can be used by country editors in order to see what needs to be approved. Open the Dashboard application in a separate tab. You will get the following screen:
+
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+In the "Approval status / PHC" dashboard, there is 1 row per data set that is subject to approval. A table and a graph are provided. In order to know which report is pending approval you need to check the table.
 
 1. Click the Apps Menu and choose the Data Approval Classic![](<../../../.gitbook/assets/image (42) (1).png>)
 2.  Identify the Data information from the field User
