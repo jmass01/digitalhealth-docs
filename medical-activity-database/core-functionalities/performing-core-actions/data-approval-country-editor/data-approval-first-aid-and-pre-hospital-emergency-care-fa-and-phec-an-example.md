@@ -7,6 +7,8 @@ description: >-
 
 # DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) -an example
 
+#### DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) - an example
+
 STEP 1:&#x20;
 
 OPEN DASHBOARD APPLICATION There is a data approval process linked to aggregated data (monthly and quarterly reports/data sets) and a different data approval process linked to events data (trainings, ICRC visits, immunization campaigns and psychosocial activities). In both cases, data approval starts from the Dashboards in order to know what is pending approval. There are 2 dashboards dedicated to the status of reports used by country editors in order to see what needs to be approved: One refers to the aggregated data sets contained on the Data Entry application and is called “Approval status”. The other one refers to events and is called “FA\&PHEC Event approval”. Open the Dashboard application in a separate tab. You will get the following screen:
@@ -15,9 +17,9 @@ OPEN DASHBOARD APPLICATION There is a data approval process linked to aggregated
 
 In the "Approval status" dashboard, there are 3 rows, one for each data set:
 
-* FA Services,
-* PHEC Services and
-* FA\&PHEC Services. The selection of the data set depends on the activities each Organisation Unit is linked to. For instance, Ambulance Stations monitor only PHEC services, whereas an Emergency Response Team might monitor both FA\&PHEC. A table and a graph are provided. In order to know which report is pending approval you need to check the table.
+* FA^ Services,
+* PHEC^ Services^ and
+* FA\&PHEC^ Services.^ The^ selection^ of^ the^ data^ set^ depends^ on^ the^ activities^ each Organisation Unit is linked to. For instance, Ambulance Stations monitor only PHEC services, whereas an Emergency Response Team might monitor both FA\&PHEC. A table and a graph are provided. In order to know which report is pending approval you need to check the table.
 
 The table indicates the number of reports to validate per Organisation Unit and time period, how many are draft, already approved or not started:
 
