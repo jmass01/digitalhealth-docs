@@ -20,6 +20,8 @@
 * [Other Main functional areas](navigation-and-interface-overview/other-main-functional-areas/README.md)
   * [Applications](navigation-and-interface-overview/other-main-functional-areas/applications.md)
   * [DHIS2: Change user settings](navigation-and-interface-overview/other-main-functional-areas/dhis2-change-user-settings.md)
+  * [Reports](navigation-and-interface-overview/other-main-functional-areas/reports/README.md)
+    * [Data set report](navigation-and-interface-overview/other-main-functional-areas/reports/data-set-report.md)
 
 ## Core Functionalities
 
