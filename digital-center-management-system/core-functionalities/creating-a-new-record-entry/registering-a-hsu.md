@@ -8,7 +8,7 @@ To register a new HSU. You will then be taken to the registration page, where yo
 
 Figure 4: Landing page, where HSUs can be searched for or registered.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * What is a HSU? _Health Service User (HSU) is the term used to describe users of the services_ _offered by health programmes_
 

@@ -11,8 +11,11 @@
 
 ## Navigation and Interface Overview
 
-* [Main interface](navigation-and-interface-overview/main-interface.md)
-* [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
+* [Main interface](navigation-and-interface-overview/main-interface/README.md)
+  * [Dashboards](navigation-and-interface-overview/main-interface/dashboards.md)
+* [Main functional areas](navigation-and-interface-overview/main-functional-areas/README.md)
+  * [Visits](navigation-and-interface-overview/main-functional-areas/visits.md)
+  * [Appointments](navigation-and-interface-overview/main-functional-areas/appointments.md)
 
 ## Core Functionalities
 

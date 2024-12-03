@@ -8,11 +8,11 @@
 
 _Inventory features are mainly managed through the inventory module_&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 As usual the main menu allow us to reach quickly our need, for instance the product list&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Products & Creating a new one**
 
@@ -44,7 +44,7 @@ Internal Reference
 
 It has to be unique, if it is not the following message will prompt&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 It can be the reference of a provider but be aware to stay consistent.
 
@@ -60,5 +60,5 @@ Product can have variants, for instance a foot can have a side, a color, a size 
 
 Smart buttons on product form
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
