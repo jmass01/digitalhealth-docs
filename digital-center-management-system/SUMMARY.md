@@ -16,7 +16,11 @@
 
 ## Core Functionalities
 
-* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry.md)
+* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry/README.md)
+  * [Stock Management](core-functionalities/creating-a-new-record-entry/stock-management/README.md)
+    * [Creating a product](core-functionalities/creating-a-new-record-entry/stock-management/creating-a-product.md)
+    * [Doing Inventory Management](core-functionalities/creating-a-new-record-entry/stock-management/doing-inventory-management.md)
+  * [Registering a HSU](core-functionalities/creating-a-new-record-entry/registering-a-hsu.md)
 * [Performing Core Actions](core-functionalities/performing-core-actions.md)
 * [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
 
