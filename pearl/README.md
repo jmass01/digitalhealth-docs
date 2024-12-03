@@ -22,7 +22,11 @@ This guide is designed for healthcare professionals and case managers involved i
 * **Medical professionals** working in the Hospital Services Program, Physical Rehabilitation Program, Mental Health and Psychological Support, and Healthcare in Detention.
 * **Case managers** who are tasked with entering, reviewing, and maintaining HSU data.
 * **Data entry personnel** who are responsible for ensuring that forms are filled out in accordance with the prescribed data-entry sequence.
-* **Health program administrators** who oversee the clinical data collection process. **4. Key Features**
+* **Health program administrators** who oversee the clinical data collection process.&#x20;
+
+
+
+**4. Key Features**
 
 PEARL’s OpenMRS system offers several key features that streamline the data-entry process and improve clinical efficiency:
 
