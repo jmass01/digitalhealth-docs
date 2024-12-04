@@ -1,9 +1,7 @@
 ---
-description: Define important terms and jargon specific to the solution.
+description: Abbreviations and acronyms
 ---
 
 # Key terms
 
-_Example:_
-
-"Teleconsultation: A virtual consultation between healthcare providers facilitated by video conferencing."
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td>APK    </td><td>Android Package</td></tr><tr><td>BI      </td><td>Business Intelligence</td></tr><tr><td>BSSC    </td><td>Belgrade Shared Service Centre</td></tr><tr><td>DHIS2  </td><td>District Health Information Software 2</td></tr><tr><td>DRY    </td><td>Don't Repeat Yourself</td></tr><tr><td>FAL    </td><td>First Administration Level</td></tr><tr><td>Gb      </td><td>gigabit</td></tr><tr><td>GHz    </td><td>giga hertz</td></tr><tr><td>HeMAP  </td><td>Health Monitoring and Analysis Platform</td></tr><tr><td>ICRC    </td><td>International Committee of the Red Cross</td></tr><tr><td>ICT    </td><td>Information and Communication Technology</td></tr><tr><td>IRIS    </td><td>ICRC Resources Integrated System</td></tr><tr><td>JDE    </td><td>JD Edwards (ICRC logistics ERP system)</td></tr><tr><td>LAN    </td><td>Local Area Network</td></tr><tr><td>MoH    </td><td>Ministry of Health</td></tr><tr><td>OPD    </td><td>Outpatient department</td></tr><tr><td>PSM    </td><td>Pharmacy Stock Management [application]</td></tr><tr><td>RAM    </td><td>Random-access Memory</td></tr><tr><td>RP      </td><td>Recipient Place</td></tr><tr><td>SR      </td><td>Supply Request</td></tr><tr><td>UAT    </td><td>User Acceptance Test</td></tr><tr><td>WLAN    </td><td>Wireless Local Area Network</td></tr></tbody></table>

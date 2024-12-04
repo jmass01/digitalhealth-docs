@@ -22,54 +22,9 @@ The PSM serves as a mobile data collection tool for recording (entering/changing
 
 ## Target audience
 
-The application is based on adherence to specific structures and processes which inform the system design and functionality.&#x20;
 
-* All assisted health care facilities are owned and managed by non-ICRC entities such as state authorities, Ministries of Health (MoH), National Red Cross/Red Crescent societies and communities. 1 Overview of the Pharmacy Stock Management application ICRC Health Unit - 9 - Pharmacy Stock Management application&#x20;
-* Almost all users at the health care facility are non-ICRC staff and neither have an ICRC ICT profile nor an ICRC email address.&#x20;
-* In every health care facility, all medical stocks provided by the ICRC are stored and managed in a single central pharmacy. In addition, other medical stocks donated by other actors may be managed separately inside the same health care facility.&#x20;
-* While the system and application is primarily designed for managing health care goods, any other types of goods such as food, cleaning materials, stationery etc. could also be managed.&#x20;
-* A single (central) pharmacy supplies all wards and services of the health care facility.&#x20;
-* The Imprest System is used in all wards/services and the pharmacy as the sole inventory control system.&#x20;
-* For the medical store managing ICRC supplied stocks, a stock item list is clearly defined, maintained and managed by the responsible ICRC programme manager.&#x20;
-* The system will replace and facilitate certain current processes, but health care facilities are of course free to continue any additional manual or electronic data recording and processing systems (such as using bin card, stock cards, delivery records, tally sheets etc.), especially if these are required under national guidelines and policies.&#x20;
-* All pharmacies have at least daily access to at least a 2G mobile phone network for transmitting and receiving data or (if this is not the case), once a month, the mobile device can be physically taken to an ICRC office with a driving distance of less than one hour for synchronizing data and returning the mobile device to the health care facility.&#x20;
-* Health care facilities using the "advanced" mode will require at least a daily network connection to a WLAN or a 3G mobile phone network at the site of the health care facility for synchronizing data.&#x20;
-* In case of any part of the system failing, pharmacies must be able to "switch" back to a manual (backup) system at any time without in any way impairing the supply of the pharmacy.&#x20;
-* State authorities, health authorities (national, provincial, district level), management of health care facilities as well as pharmacy staff agree to the use of mobile devices for recording, storing, managing and transmitting pharmacy stock data.&#x20;
-* For security reasons, no private mobile devices, either or ICRC or non-ICRC staff, must be used. Instead dedicated mobile devices will be provided by the ICRC and made available to non-ICRC staff at health care facilities permanently or temporarily at any time needed for the purposes of managing medical stocks in the facility.&#x20;
-* Staff at the health care facility are conversant with the use of mobile devices or can be trained (within reasonable time).
 
 ## Key Features
 
-The application is based on adherence to specific structures and processes which inform the system design and functionality.&#x20;
 
-* All assisted health care facilities are owned and managed by non-ICRC entities such as state authorities, Ministries of Health (MoH), National Red Cross/Red Crescent societies and communities. 1 Overview of the Pharmacy Stock Management application ICRC Health Unit - 9 - Pharmacy Stock Management application&#x20;
-* Almost all users at the health care facility are non-ICRC staff and neither have an ICRC ICT profile nor an ICRC email address.&#x20;
-* In every health care facility, all medical stocks provided by the ICRC are stored and managed in a single central pharmacy. In addition, other medical stocks donated by other actors may be managed separately inside the same health care facility.&#x20;
-* While the system and application is primarily designed for managing health care goods, any other types of goods such as food, cleaning materials, stationery etc. could also be managed.&#x20;
-* A single (central) pharmacy supplies all wards and services of the health care facility.&#x20;
-* The Imprest System is used in all wards/services and the pharmacy as the sole inventory control system.&#x20;
-* For the medical store managing ICRC supplied stocks, a stock item list is clearly defined, maintained and managed by the responsible ICRC programme manager.&#x20;
-* The system will replace and facilitate certain current processes, but health care facilities are of course free to continue any additional manual or electronic data recording and processing systems (such as using bin card, stock cards, delivery records, tally sheets etc.), especially if these are required under national guidelines and policies.&#x20;
-* All pharmacies have at least daily access to at least a 2G mobile phone network for transmitting and receiving data or (if this is not the case), once a month, the mobile device can be physically taken to an ICRC office with a driving distance of less than one hour for synchronizing data and returning the mobile device to the health care facility.&#x20;
-* Health care facilities using the "advanced" mode will require at least a daily network connection to a WLAN or a 3G mobile phone network at the site of the health care facility for synchronizing data.&#x20;
-* In case of any part of the system failing, pharmacies must be able to "switch" back to a manual (backup) system at any time without in any way impairing the supply of the pharmacy.&#x20;
-* State authorities, health authorities (national, provincial, district level), management of health care facilities as well as pharmacy staff agree to the use of mobile devices for recording, storing, managing and transmitting pharmacy stock data.&#x20;
-* For security reasons, no private mobile devices, either or ICRC or non-ICRC staff, must be used. Instead dedicated mobile devices will be provided by the ICRC and made available to non-ICRC staff at health care facilities permanently or temporarily at any time needed for the purposes of managing medical stocks in the facility.&#x20;
-* Staff at the health care facility are conversant with the use of mobile devices or can be trained (within reasonable time). 1.3 Overview of processes and use cases by user groups The Pharmacy Stock Management (PSM) application has three specific functionalities which are used by different groups of users:&#x20;
-* Pharmacy stock management at assisted health care facilities in DHIS2. 1 Overview of the Pharmacy Stock Management application ICRC Health Unit - 10 - Pharmacy Stock Management application&#x20;
-* Pharmacy order management in IRIS at ICRC offices and (sub)-Delegations.&#x20;
-* Business Analytics in Tableau at health care facilities and ICRC offices and (sub)-Delegations. 1.3.1 Pharmacy stock management in the DHIS2 mobile device application The application is used by storekeepers of medical stores at ICRC assisted health care facilities. In the great majority of cases, these storekeepers are non-ICRC staff members. "Ward" stands for any facility in any health care facility which holds and manages stocks of any kind which are regularly replenished such as patient wards, dispensaries (OPD), operating theatres, sterilization services, laboratory and blood transfusion services, diagnostic imaging or other services. Processes&#x20;
-* Monthly physical stock count at the pharmacy.&#x20;
-* Receiving and put-away of stocks sent by an ICRC medical warehouse.&#x20;
-* Managing stocks.&#x20;
-* Receiving, recording and managing periodic orders from wards and services.&#x20;
-* Picking, packing and delivering ordered goods to wards and services. Use cases&#x20;
-* "Basic mode": digital recording, storage and transmission of (at least monthly) stock data.&#x20;
-* "Advanced mode": digital recording and transmission of stock issues to wards in real-time.&#x20;
-* Basic business analytics in DHIS2 mobile device application. 1.3.2 Pharmacy order management in IRIS The responsibility for the monthly order lies with ICRC staff (Hospital Administrator, Hospital Project Manager, Programme Manager or other staff assigned by the Health Coordinator) according to the decision of the ICRC Health Coordinator. Processes&#x20;
-* Determine, set, review, analyse (in Tableau) and revise Imprest Levels.&#x20;
-* Analyse stock data.&#x20;
-* In IRIS, review and revise proposed order calculations and place monthly orders ("Supply Request") to ICRC medical distribution centres.&#x20;
-* Consult dashboards and other (self-service) analysis in Tableau for management and monitoring the quality of stock and order management. Use cases&#x20;
-* Preparing monthly pharmacy orders (revising Imprest Level, order calculation and processing).
+
