@@ -6,7 +6,9 @@
 
 * [System requirements](getting-started/system-requirements.md)
 * [Installation / Access](getting-started/installation-access.md)
-* [First Time Login](getting-started/first-time-login.md)
+* [First Time Login](getting-started/first-time-login/README.md)
+  * [Log-in for Health Care in Detention](getting-started/first-time-login/log-in-for-health-care-in-detention.md)
+  * [Log-in for MHPSS](getting-started/first-time-login/log-in-for-mhpss.md)
 * [User Roles and Permissions](getting-started/user-roles-and-permissions.md)
 
 ## Navigation and Interface Overview

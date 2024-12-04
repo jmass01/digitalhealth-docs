@@ -11,6 +11,14 @@ The system is composed of two primary components:
 
 This user guide focuses on providing an overview of **OpenMRS** functionalities for clinical data entry.
 
+**Data-entry sequence**
+
+1. To ensure a suitable data entry sequence, it is advisable to take into account the following guidelines:
+2. HSUs should always have an **assessment form** before being able to ll anything else. A patient can only be admitted via an assessment form. There should be 1 assessment form entered rst.
+3. **Follow up forms** can only be entered after an assessment form has been submitted and before the closure form is submitted.
+4. **Scales forms** can be submitted between the assessment and the closure forms. It is not possible to create a scales encounter without having an assessment form rst.
+5. The **closure form** is the last form submitted for the patient. It is required to be able to readmit the patient subsequently. It is not possible to create a closure encounter without having an assessment form rst. If a patient has a unique session, the date of the closure should be the same as the date of the assessment, and the reason for closure in the closure form 2.1 should be "single session". No other form can be submitted after that, unless the patient is readmitted again.
+
 **2. Purpose of the Guide**
 
 This guide serves as a comprehensive manual for users of the PEARL system, specifically focusing on the **OpenMRS** module. Its purpose is to help users effectively navigate the data-entry and case management processes, ensuring correct and efficient use of the system. The guide will provide step-by-step instructions on how to complete forms, follow the prescribed data-entry sequence, and utilize the system’s features to improve workflow in managing Health Service User data.
