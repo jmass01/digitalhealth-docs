@@ -8,7 +8,7 @@ To register a new HSU. You will then be taken to the registration page, where yo
 
 Figure 4: Landing page, where HSUs can be searched for or registered.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * What is a HSU? _Health Service User (HSU) is the term used to describe users of the services_ _offered by health programmes_
 
@@ -16,7 +16,7 @@ Figure 4: Landing page, where HSUs can be searched for or registered.
 
 Figure 5: Register a HSU
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Click on the ‘Register a HSU’ icon to register a new health service user. This
@@ -31,11 +31,11 @@ identifiable (known) and anonymous (unknown) HSUs.
 
 Figure 6: Registering a new identifiable HSU
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Figure 7: Confirming the registration of a new identifiable HSU
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Demographic information_
 
@@ -47,11 +47,11 @@ _HSU name_ In cases where the name of the patient’s father is used as their la
 
 Figure 8: Registration form – HSU name
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Figure 9: Registration form – HSU gender
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 ‘Unknown’ is selected when a HSU wishes to remain completely
@@ -66,26 +66,26 @@ _Date of birth (DoB)_ Users can enter either the exact date of birth of the HSU 
 
 Figure 10 : Registration form – HSU’s date of birth
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the case of an approximate date of birth, users can enter:
 
 * **Years:** Enter the estimated age of the HSU, i.e. 50 for someone who is approximately 50 years old
 * **Months:** In the case of a child aged less than one year, enter the age of the child in months. The maximum number that can be entered is 11. If a child is 12 months old, enter it as 1 year old
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _NOTE: this number cannot be greater than 12._
 
 * **Combination of estimated years and months:** 18 months can be entered as 1 year and 6 months
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Legacy IDs_
 
 Figure 11: Registration form – HSU legacy ID
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 If other identifiers are used for the HSU – for instance previous ID from
@@ -100,7 +100,7 @@ number etc
 
 Figure 12: Registration form – HSU PMS ID
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 The centre using the PMS prior to the DCMS deployment

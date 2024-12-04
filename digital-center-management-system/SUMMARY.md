@@ -64,11 +64,17 @@
     * [Preparation of Order](core-functionalities/performing-core-actions/manufacturing-the-device-greenlight-quality-check/preparation-of-order.md)
     * [Validate Green Lights](core-functionalities/performing-core-actions/manufacturing-the-device-greenlight-quality-check/validate-green-lights.md)
     * [Perform Quality Checks](core-functionalities/performing-core-actions/manufacturing-the-device-greenlight-quality-check/perform-quality-checks.md)
+  * [Create a Repair Workflow](core-functionalities/performing-core-actions/create-a-repair-workflow/README.md)
+    * [Create a Repair WorkFlow - P\&O](core-functionalities/performing-core-actions/create-a-repair-workflow/create-a-repair-workflow-p-o.md)
+  * [Stock Management for Repair](core-functionalities/performing-core-actions/stock-management-for-repair/README.md)
+    * [Stock Management for Repair - Storekeeper](core-functionalities/performing-core-actions/stock-management-for-repair/stock-management-for-repair-storekeeper.md)
 * [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
   * [Assessment after registration complete initial decision after registration](core-functionalities/advanced-functionalities/assessment-after-registration-complete-initial-decision-after-registration/README.md)
     * [Complete Initial Decision After Registration](core-functionalities/advanced-functionalities/assessment-after-registration-complete-initial-decision-after-registration/complete-initial-decision-after-registration.md)
     * [Interdisciplinary Assessment](core-functionalities/advanced-functionalities/assessment-after-registration-complete-initial-decision-after-registration/interdisciplinary-assessment.md)
   * [PRP Forms & Attachment](core-functionalities/advanced-functionalities/prp-forms-and-attachment.md)
+  * [Dormitory Management](core-functionalities/advanced-functionalities/dormitory-management.md)
+  * [Invoice Management/Sponsor](core-functionalities/advanced-functionalities/invoice-management-sponsor.md)
 
 ## Tips and Best Practices
 
