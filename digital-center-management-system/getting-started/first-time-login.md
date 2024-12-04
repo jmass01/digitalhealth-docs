@@ -20,7 +20,7 @@ Step 1
 
 1. **Click** on the link [http://www.](http://www) dcms-portal.uat.icrc.org^3 to be able to access the system. Once on the landing page select **EMR** to be able to access **Open MRS** platform.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 1 . mailto:sban@komprc.dcmsaccess.org&#x20;
 
@@ -40,7 +40,7 @@ login screen.
 
 **1. Enter** your **username**. e.g sban@komprc.dcmsaccess.org.^4 **2. Enter** your **password**. (The rst time you login your password will be **ICRC@Admin123! 3.** Click _‘_ _**Log In’**_**\*\*\*\*.**
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Step 3
@@ -48,7 +48,7 @@ Select the location (name of the center where you are working) then click on
 “ Done ”.
 ```
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Step 4
@@ -56,7 +56,7 @@ Once you have selected a location, you will be taken to the main landing page.
 For example, here you are logged in as RECEPTIONIST..
 ```
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 **Result**
 
@@ -65,7 +65,7 @@ After selecting a location, you will be taken to a landing page. The widgets (ic
 available on the screen depends on your access level. See below:
 ```
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 ### Logging in
 
@@ -79,7 +79,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 
 _Figure 1 : Login screen_
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Select login location
 
@@ -88,7 +88,7 @@ You will be taken to a first page where you need to select the location (name of
 \
 Figure 2: Landing page, location to be selected
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Landing page (Main Menu)
 
@@ -96,5 +96,5 @@ Once you have selected a location, you will be taken to the main landing page. T
 
 Figure 3: Landing page, log in as a DCMS Admin (large privilege access)
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -6,11 +6,11 @@
 
 On the main inventory dashboards among all the transfers you will have to perform
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 Checking availability will reserve the stock moves linked to this transfer
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 It means despite the transfer is not yet done theses quantities cannot be use in another transfer.
 
@@ -24,13 +24,13 @@ If a manufacturing order is cancelled it might have an impact on your stock quan
 
 If so once the PO / PT has created the return interna transfert
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 And bring back the components to your warehouse, you will have to check and validate the return transfert.
 
 **c. Transfers linked to repairs flows**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 You might have seen to your dashboard transfer linked to Repair flows, depending of the way of your center is managed you might not have to validate this transfert you will only have to validate the related internal transfers for the components needed to do the repair.
 
