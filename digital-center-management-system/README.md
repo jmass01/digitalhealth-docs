@@ -2,19 +2,30 @@
 
 ## Overview
 
-Briefly describe the purpose of the solution. What problem does it solve, and who is the intended user?
+#### 1. 2. What is DCMS?
 
-This should be accompanied with some data or positive user feedback from the field on how the solution has helped others, how it helps service delivery.
+<figure><img src=".gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-\
-&#xNAN;_&#x45;xample:_\
-"Teleconnect is a telemedicine platform designed to facilitate remote consultations between healthcare professionals in field hospitals and specialists worldwide. This user guide provides a comprehensive overview of the platform's features and functionalities."
-
-Examples of how it fits into a clinical/management workflow could be useful.
+DCMS is an open source software offering free licences evolving according to a global community. DCMS is meant to be used independently by our ICRC parners and PRP centers, as well as by other healthcare departments, as long as the tool answers clinicians requirements.
 
 ## Purpose of the guide
 
-Likely to be very similar across solutions (helping users to understand how to install, use and troubleshoot the solution effectively.
+#### 1. 3. Objectives and Measures
+
+<figure><img src=".gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
+**Note**
+
+```
+* Study released by Edmond Lefebvre for the *Economic Analysis Calculation”
+on impact of a digital tool in a medical center in Somalia on Pharmacy Stock
+Management application
+```
+
+```
+** Staff eciency ratio is coming from the PHII eciency ratio which is the
+number of devices divided by the sta people involved.
+```
 
 ## Target audience
 
@@ -22,6 +33,4 @@ Specify the type of users for this guide (e.g., clinicians, pharmacists, admin s
 
 ## Key Features
 
-List the core features or functionalities of the solution.
-
-_Example_: "Key features of Teleconnect include video consultations, patient data sharing, and remote diagnostics."
+<figure><img src=".gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
