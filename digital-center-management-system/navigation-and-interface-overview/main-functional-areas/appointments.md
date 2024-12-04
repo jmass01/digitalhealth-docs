@@ -28,7 +28,7 @@ Hospital Project Manager in WTTC Program has all of the above privileges - so ho
 
 The Appointment scheduling App is available on the Home page
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Services and Service Type
 
@@ -48,7 +48,7 @@ Click on the Appointment Scheduling App on the Home page. Under the Admin tab of
 
 1. Click on the "Add new Service" button on the screen to access the Services Screen
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Adding a new Service
 
@@ -76,11 +76,11 @@ h. **Label Color:** The services can be assigned colors. On the calendar view, a
 
 i. For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65) (1).png" alt=""><figcaption></figcaption></figure>
 
 i. **Service Appointment Type:** i. Service appointment types are the further granular categories under a service. One service may have different types of appointment types under a service For example, Initial assessment, Follow-Up Consultation under Casting service ii. Duration: Each of these types are associated with a particular duration. This will override the service duration iii. Service Appointment types can also be deleted, by clicking on the cross button beside the Service appt. type.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 j. Service Availability :
@@ -102,7 +102,7 @@ iv. Max load for that availability (day)
 
 The screenshot below shows the Service availabilities and the Service Appointment Types defined:
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Creating and Managing Appointments
 
