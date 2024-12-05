@@ -3,7 +3,7 @@
 **1. 2. 1. LOGIN AND SELECT LOCATION**
 
 Select the facility that you have been given access to. Click on the yellow circle. You can also search your facility by typing its initials in the quadrant with the search lens.\
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 **Note**
 
@@ -27,25 +27,25 @@ reporting level/venue, depending on the reporting procedure being followed).
 
 Click "Confirm". You land on the homepage.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1. 2. 2. HOW TO CHANGE LANGUAGE**
 
 Click on the user prole icon to change the language.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the arrow in the white box to choose your preferred language.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1. 2. 3. HOW TO CHANGE LOCATION**
 
 Click on the user prole icon to change the location.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "Change" button to choose from a list o locations.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 

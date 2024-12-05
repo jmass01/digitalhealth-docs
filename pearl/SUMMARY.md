@@ -13,14 +13,28 @@
 
 ## Navigation and Interface Overview
 
-* [Main interface](navigation-and-interface-overview/main-interface.md)
-* [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
+* [Superset](navigation-and-interface-overview/superset/README.md)
+  * [Main interface](navigation-and-interface-overview/superset/main-interface/README.md)
+    * [How to: Main Interface](navigation-and-interface-overview/superset/main-interface/how-to-main-interface.md)
+  * [Main functional areas](navigation-and-interface-overview/superset/main-functional-areas/README.md)
+    * [HOW DOES MHPSS DASHBOARD WORK](navigation-and-interface-overview/superset/main-functional-areas/how-does-mhpss-dashboard-work.md)
+    * [HOW DOES PRP DASHBOARD WORK](navigation-and-interface-overview/superset/main-functional-areas/how-does-prp-dashboard-work.md)
+* [Pearl - OpenMRS - Health Care in Detention](navigation-and-interface-overview/pearl-openmrs-health-care-in-detention.md)
 
 ## Core Functionalities
 
-* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry.md)
-* [Performing Core Actions](core-functionalities/performing-core-actions.md)
-* [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
+* [MHPSS](core-functionalities/mhpss/README.md)
+  * [Creating a New Record / Entry](core-functionalities/mhpss/creating-a-new-record-entry/README.md)
+    * [CREATE A HSU (HEALTH SERVICE USER) PATIENT VIA NORMAL DATA ENTRY](core-functionalities/mhpss/creating-a-new-record-entry/create-a-hsu-health-service-user-patient-via-normal-data-entry.md)
+    * [CREATE A HSU (HEALTH SERVICE USER) PATIENT VIA FAST DATA ENTRY](core-functionalities/mhpss/creating-a-new-record-entry/create-a-hsu-health-service-user-patient-via-fast-data-entry.md)
+    * [CREATE A HSU (HEALTH SERVICE USER) VISIT](core-functionalities/mhpss/creating-a-new-record-entry/create-a-hsu-health-service-user-visit.md)
+  * [Performing Core Actions](core-functionalities/mhpss/performing-core-actions/README.md)
+    * [FILL-IN AN ASSESSMENT FORM](core-functionalities/mhpss/performing-core-actions/fill-in-an-assessment-form.md)
+    * [FILL-IN A FOLLOW-UP FORM](core-functionalities/mhpss/performing-core-actions/fill-in-a-follow-up-form.md)
+    * [FILL-IN A FOLLOW-UP FORM VIA A GROUP SESSION](core-functionalities/mhpss/performing-core-actions/fill-in-a-follow-up-form-via-a-group-session.md)
+    * [FILL-IN A CLOSURE FORM](core-functionalities/mhpss/performing-core-actions/fill-in-a-closure-form.md)
+  * [Advanced Functionalities](core-functionalities/mhpss/advanced-functionalities/README.md)
+    * [THE PATIENT GRIDS](core-functionalities/mhpss/advanced-functionalities/the-patient-grids.md)
 
 ## Tips and Best Practices
 

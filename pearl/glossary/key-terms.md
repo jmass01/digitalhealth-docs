@@ -21,3 +21,5 @@ description: Define important terms and jargon specific to the solution.
 **MAD** Medical Activity Database
 
 **MHPSS** Mental Health and Psychosocial Support
+
+**EMR** electronic medical record
