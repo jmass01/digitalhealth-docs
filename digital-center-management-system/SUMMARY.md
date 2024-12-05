@@ -75,6 +75,18 @@
   * [PRP Forms & Attachment](core-functionalities/advanced-functionalities/prp-forms-and-attachment.md)
   * [Dormitory Management](core-functionalities/advanced-functionalities/dormitory-management.md)
   * [Invoice Management/Sponsor](core-functionalities/advanced-functionalities/invoice-management-sponsor.md)
+  * [Superset](core-functionalities/advanced-functionalities/superset/README.md)
+    * [Overview of the dashboards](core-functionalities/advanced-functionalities/superset/overview-of-the-dashboards.md)
+    * [How to change the language](core-functionalities/advanced-functionalities/superset/how-to-change-the-language.md)
+    * [How to select a specific dashboard](core-functionalities/advanced-functionalities/superset/how-to-select-a-specific-dashboard.md)
+    * [How does MHPSS dashboard work](core-functionalities/advanced-functionalities/superset/how-does-mhpss-dashboard-work.md)
+    * [How does PRP dashboard work](core-functionalities/advanced-functionalities/superset/how-does-prp-dashboard-work.md)
+    * [How do filters work](core-functionalities/advanced-functionalities/superset/how-do-filters-work.md)
+    * [Overview (Place at the start)](core-functionalities/advanced-functionalities/superset/overview-place-at-the-start.md)
+    * [Get through the overview](core-functionalities/advanced-functionalities/superset/get-through-the-overview.md)
+    * [How do filters work](core-functionalities/advanced-functionalities/superset/how-do-filters-work-1.md)
+    * [Overview (Place at the start)](core-functionalities/advanced-functionalities/superset/overview-place-at-the-start-1.md)
+    * [Get through the overview tab](core-functionalities/advanced-functionalities/superset/get-through-the-overview-tab.md)
 
 ## Tips and Best Practices
 

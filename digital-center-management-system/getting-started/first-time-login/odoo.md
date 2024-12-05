@@ -29,7 +29,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 
 **2.** Click on DCMS log in.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Enter your username e.g. po-resp@icrc.org
 
@@ -39,7 +39,7 @@ The first time you login your password will be **ICRC@Admin123!**
 
 **5.** Click "Sign In".
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Accessing Odoo - Via Open MRS**
 
@@ -61,7 +61,7 @@ Once the nancial decision has been made on **OPEN MRS** you can **start the meas
 
 •Club foot treatment record assessment & Cast follow up.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note**
 
@@ -73,11 +73,11 @@ Technical cards lead to where you can request.
 
 **1.** Fill out necessary information in the form about material needed for HSU.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.** Click on "Material Request" when done. This will automatically open ODOO.
 
 You can also access ODOO through openMRS by directly **clicking Material Request** on the dashboard.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

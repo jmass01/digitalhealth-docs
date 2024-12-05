@@ -8,7 +8,7 @@ To register a new HSU. You will then be taken to the registration page, where yo
 
 Figure 4: Landing page, where HSUs can be searched for or registered.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * What is a HSU? _Health Service User (HSU) is the term used to describe users of the services_ _offered by health programmes_
 
@@ -16,7 +16,7 @@ Figure 4: Landing page, where HSUs can be searched for or registered.
 
 Figure 5: Register a HSU
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Click on the ‘Register a HSU’ icon to register a new health service user. This
@@ -31,11 +31,11 @@ identifiable (known) and anonymous (unknown) HSUs.
 
 Figure 6: Registering a new identifiable HSU
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Figure 7: Confirming the registration of a new identifiable HSU
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Demographic information_
 
