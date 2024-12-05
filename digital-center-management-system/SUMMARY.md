@@ -29,7 +29,6 @@
 
 ## Core Functionalities
 
-* [Page](core-functionalities/page.md)
 * [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry/README.md)
   * [Stock Management](core-functionalities/creating-a-new-record-entry/stock-management/README.md)
     * [Creating a product](core-functionalities/creating-a-new-record-entry/stock-management/creating-a-product.md)
@@ -87,6 +86,17 @@
     * [How do filters work](core-functionalities/advanced-functionalities/superset/how-do-filters-work-1.md)
     * [Overview (Place at the start)](core-functionalities/advanced-functionalities/superset/overview-place-at-the-start-1.md)
     * [Get through the overview tab](core-functionalities/advanced-functionalities/superset/get-through-the-overview-tab.md)
+  * [Manufacturing resource planning (MRP)](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/README.md)
+    * [MRP Process](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/mrp-process.md)
+    * [BoM Configuration](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/bom-configuration.md)
+    * [Managing MRP Order](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/managing-mrp-order.md)
+    * [Stock Management](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/stock-management.md)
+    * [Repair process](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/repair-process.md)
+    * [Invoicing Process](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/invoicing-process.md)
+    * [Donation Module](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/donation-module.md)
+    * [Dormitory Module](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/dormitory-module.md)
+    * [Odoo Apps](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/odoo-apps.md)
+    * [Troubleshooting](core-functionalities/advanced-functionalities/manufacturing-resource-planning-mrp/troubleshooting.md)
 
 ## Tips and Best Practices
 
