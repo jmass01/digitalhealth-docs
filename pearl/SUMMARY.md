@@ -9,7 +9,8 @@
 * [First Time Login](getting-started/first-time-login/README.md)
   * [Log-in for Health Care in Detention](getting-started/first-time-login/log-in-for-health-care-in-detention.md)
   * [Log-in for MHPSS](getting-started/first-time-login/log-in-for-mhpss.md)
-* [User Roles and Permissions](getting-started/user-roles-and-permissions.md)
+* [User Roles and Permissions](getting-started/user-roles-and-permissions/README.md)
+  * [HCD - System Administration](getting-started/user-roles-and-permissions/hcd-system-administration.md)
 
 ## Navigation and Interface Overview
 
@@ -19,7 +20,12 @@
   * [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
     * [HOW DOES MHPSS DASHBOARD WORK](navigation-and-interface-overview/superset/main-functional-areas/how-does-mhpss-dashboard-work.md)
     * [HOW DOES PRP DASHBOARD WORK](navigation-and-interface-overview/superset/main-functional-areas/how-does-prp-dashboard-work.md)
-* [HCD Health Care in Detention](navigation-and-interface-overview/hcd-health-care-in-detention.md)
+* [HCD - Health Care in Detention](navigation-and-interface-overview/hcd-health-care-in-detention/README.md)
+  * [Dashboards](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/README.md)
+    * [Program Enrolment](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/program-enrolment.md)
+    * [Registration Summary](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/registration-summary.md)
+    * [Clinical Dashboard Navigatio](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/clinical-dashboard-navigatio.md)
+    * [HCD Dashbaord Navigation](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/hcd-dashbaord-navigation.md)
 
 ## Core Functionalities
 
@@ -35,6 +41,16 @@
     * [FILL-IN A CLOSURE FORM](core-functionalities/mhpss/performing-core-actions/fill-in-a-closure-form.md)
   * [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
     * [THE PATIENT GRIDS](core-functionalities/mhpss/advanced-functionalities/the-patient-grids.md)
+* [HCD - Health Care in Detention](core-functionalities/hcd-health-care-in-detention/README.md)
+  * [Registering & Searching for an HSU](core-functionalities/hcd-health-care-in-detention/registering-and-searching-for-an-hsu.md)
+  * [Visits](core-functionalities/hcd-health-care-in-detention/visits.md)
+  * [HSU Visit Summary](core-functionalities/hcd-health-care-in-detention/hsu-visit-summary.md)
+  * [HCD Program forms](core-functionalities/hcd-health-care-in-detention/hcd-program-forms.md)
+  * [Medication](core-functionalities/hcd-health-care-in-detention/medication.md)
+  * [Lab Results](core-functionalities/hcd-health-care-in-detention/lab-results.md)
+  * [Allergies](core-functionalities/hcd-health-care-in-detention/allergies.md)
+  * [Attachments](core-functionalities/hcd-health-care-in-detention/attachments.md)
+  * [Reports](core-functionalities/hcd-health-care-in-detention/reports.md)
 
 ## Tips and Best Practices
 
