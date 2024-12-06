@@ -16,4 +16,11 @@
 
 The program enrolment dashboard shows all the health programs in which the HSU is registered.
 
-### Figure 22 Program dashboard – This HSU is only enrolled in HCD program
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+#### View existing programs
+
+To access the _Programs dashboard_ , click on ‘ _Programs Dashboard’_ in the _General Actions_ tool box.
+
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+

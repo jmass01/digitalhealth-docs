@@ -24,7 +24,7 @@
   * [Dashboards](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/README.md)
     * [Program Enrolment](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/program-enrolment.md)
     * [Registration Summary](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/registration-summary.md)
-    * [Clinical Dashboard Navigatio](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/clinical-dashboard-navigatio.md)
+    * [Clinical Dashboard Navigation](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/clinical-dashboard-navigation.md)
     * [HCD Dashbaord Navigation](navigation-and-interface-overview/hcd-health-care-in-detention/dashboards/hcd-dashbaord-navigation.md)
 
 ## Core Functionalities

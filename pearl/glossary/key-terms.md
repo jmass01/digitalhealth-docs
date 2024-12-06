@@ -22,4 +22,10 @@ description: Define important terms and jargon specific to the solution.
 
 **MHPSS** Mental Health and Psychosocial Support
 
-**EMR** electronic medical record
+**EMR** electronic medical record\
+\
+earlier the DET (detention) program was referred to as HCD = healthcare in detention and then they changed to HID but the meaning is the same healthcare in detention
+
+HCD = HID = DET
+
+&#x20;
