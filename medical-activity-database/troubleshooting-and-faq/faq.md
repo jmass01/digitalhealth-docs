@@ -1,12 +1,12 @@
 # FAQ
 
-**You have a question about MADs?**
+## **You have a question about MADs?**
 
 On this page, we answer all the most common MAD-related questions and issues. So before you contact the support team, check your question hasn't already been answered! Please contact us if you want to add a question to this list.
 
 Click on a question to open or close its answer!
 
-**FINDING REPORTS**
+### **FINDING REPORTS**
 
 1.My report has been approved, so I can no longer edit it, but there is an error in data. How can I correct it?&#x20;
 
@@ -42,7 +42,7 @@ _If you start filling in a page with data in the Monthly report, but then leave 
 
 
 
-**INDICATORS**
+### **INDICATORS**
 
 4.here can I find a definition of indicators? How do I fill in the Country form or a form for a specific hospital / PRC, etc.?&#x20;
 
@@ -88,7 +88,7 @@ _Should you need assistance with performing these steps, please write to service
 
 
 
-**ACCESS**&#x20;
+### **ACCESS**&#x20;
 
 8\. I have access to a MAD, but I cannot create a report.&#x20;
 
@@ -142,7 +142,7 @@ _Go to Hospital/Detention facility form and try again to add the users, their na
 
 
 
-**GENERATING OVERVIEWS**&#x20;
+### **GENERATING OVERVIEWS**&#x20;
 
 13\. I cannot generate an overview in MAD PHC.&#x20;
 
