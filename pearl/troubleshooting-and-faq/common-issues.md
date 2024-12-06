@@ -1,7 +1,14 @@
 # Common Issues
 
-List common problems users may encounter and their solutions.&#x20;
+Confusions between the difference of the tools:
 
-_Example:_&#x20;
+We should keep a broader picture in mind....&#x20;
 
-"Issue: Video consultation not connecting. Solution: Ensure your internet speed meets the minimum requirement and that your firewall allows access to video conferencing."
+Open MRS is a place where PEARL (that contains programs MHPSS, HID, HOSP) and DCMS (PRP) sit.\
+Superset absorbs all the data coming from OPEN MRS and we can have dashboards on everything\
+\
+Pearl is plugged into superset- It is basically a data visualization tool for open MRS (soon we'll plug DHIS2 in it too)
+
+
+
+Th
