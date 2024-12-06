@@ -3,7 +3,7 @@
 **1. 2. 1. LOGIN AND SELECT LOCATION**
 
 Select the facility that you have been given access to. Click on the yellow circle. You can also search your facility by typing its initials in the quadrant with the search lens.\
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 **Note**
 
