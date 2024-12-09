@@ -1,7 +1,7 @@
 # Common Issues
 
-List common problems users may encounter and their solutions.&#x20;
+Allow browser have correct access to video, audio and pictures.
 
-_Example:_&#x20;
+Issue: Video consultation not connecting.&#x20;
 
-"Issue: Video consultation not connecting. Solution: Ensure your internet speed meets the minimum requirement and that your firewall allows access to video conferencing."
+Solution: Ensure your internet speed meets the minimum requirement and that your firewall allows access to video conferencing.

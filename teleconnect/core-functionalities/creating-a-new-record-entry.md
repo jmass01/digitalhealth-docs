@@ -1,9 +1,3 @@
 # Creating a New Record / Entry
 
-Guide the user through creating new data entries (e.g., patient records in a medical database).
-
-\
-&#xNAN;_&#x45;xample:_
-
-\
-"To create a new patient record in the Medical Activity Database, click the 'Add New Patient' button on the top right."
+[_Creating a New Record_](https://app.gitbook.com/o/llCOVrc7ZrWQ6rzyYOmd/s/O7AeWO5b5Hjx9Md8r8rA/~/changes/3/navigation-and-interface-overview/main-interface/1.1-teleconnect-session-as-a-requester#step-2-create-the-session)
