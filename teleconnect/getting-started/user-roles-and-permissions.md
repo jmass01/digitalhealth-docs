@@ -1,7 +1,7 @@
 # User Roles and Permissions
 
-If applicable, explain the different roles (e.g., admin, user) and their permissions within the system.&#x20;
+## User profiles
 
-_Example:_
-
-&#x20;"There are three roles in Teleconnect: Admin, Doctor, and Nurse. Admins have full access to all functionalities, while doctors and nurses have limited access based on their roles."
+* Admin profile: can manage user’s que access, contact details&#x20;
+* Provider to beneficiary profile: Can set up sessions via a one-time invitation.&#x20;
+* Provider to provider (Tele-Expertise): Can set up calls with TeleConnect users
