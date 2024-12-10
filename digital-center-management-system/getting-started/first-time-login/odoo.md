@@ -1,29 +1,23 @@
 # ODOO
 
-#### Profile Set-up
+## ODOO
+
+### Profile Set-up
 
 1. You must have a username and password for the DCMS system.
 
-TO ACCESS THE TRAINING environment 5 https://dcms-portal.uat.icrc.org^67
+TO ACCESS THE TRAINING environment 5 [_https://dcms-portal.uat.icrc.org_](https://dcms-portal.uat.icrc.org)
 
 2. There must be a working Wi-Fi connection (no internet needed but a Wi-Fi coverage).
 3. Your computer or tablet must have a web browser installed (e.g. Firefox or Chrome).
 
-#### The Home Page - Accessing Odoo
+### The Home Page - Accessing Odoo
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-**1**. **Click** on the link [http://www.](http://www) dcms-portal.uat.icrc.org^8 to be able to access to system. Once on landing page select **ERP** to be able to access **ODOO** platform.
+**1**. **Click** on the link [_https://dcms-portal.uat.icrc.org_](https://dcms-portal.uat.icrc.org) to be able to access to system. Once on landing page select **ERP** to be able to access **ODOO** platform.
 
 **EMR** will lead you to the **Open MRS** platform.
-
-5 . https://dcms-portal.uat.icrc.org/https://dcms-portal.uat.icrc.org/
-
-6 . https://dcms-portal.uat.icrc.org/&#x20;
-
-7 . https://dcms-portal.uat.icrc.org/&#x20;
-
-8 . https://dcms-portal.uat.icrc.org/
 
 Once you have clicked on the link to access the system, you will be taken to the login screen.
 
@@ -41,7 +35,7 @@ The first time you login your password will be **ICRC@Admin123!**
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Accessing Odoo - Via Open MRS**
+## **Accessing Odoo - Via Open MRS**
 
 For New Service:
 
@@ -65,9 +59,9 @@ Once the nancial decision has been made on **OPEN MRS** you can **start the meas
 
 **Note**
 
-```
-* Technical cards lead to ODOO.
-```
+{% hint style="info" %}
+Technical cards lead to ODOO.
+{% endhint %}
 
 Technical cards lead to where you can request.
 

@@ -1,6 +1,6 @@
 # Technical Cards
 
-**2. 9. 2. Technical Cards**
+### **Technical Cards**
 
 <figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 

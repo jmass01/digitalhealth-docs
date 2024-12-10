@@ -1,10 +1,10 @@
 # Dashboards
 
-### Dashboards
+## Dashboards
 
 #### Programme enrolment
 
-**PRP programme enrolment**
+### **PRP programme enrolment**
 
 After registering a new HSU, the user (receptionist) will be taken to the ‘Enrolment’ dashboard. The receptionist will start a visit (see section “Starting a visit”) and document the first form to initiate the PRP workflow. To validate and save the form will automatically enrol the HSU into the PRP program.
 
@@ -14,19 +14,19 @@ The program enrolment dashboard displays in the section “Programs” all the h
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**View existing programmes**
+## **View existing programmes**
 
 To access the programs dashboard, click on ‘ _Programs Dashboard’_ in the ‘ _General Actions’_ toolbox.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Registration summary
+## Registration summary
 
 To access the registration summary, click on ‘ _Registration Summary’_ in the ‘ _General Actions’_ toolbox.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Edit sections – Registration Summary**
+## **Edit sections – Registration Summary**
 
 1. Click on the icon at the top of the widget.
 
@@ -37,11 +37,13 @@ To access the registration summary, click on ‘ _Registration Summary’_ in th
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 ```
 Remark: You can access the same function through the HSU header
 ```
+{% endhint %}
 
-**Edit sections – HSU header**
+## **Edit sections – HSU header**
 
 1. Click on “Edit” on the HSU header
 
@@ -51,7 +53,7 @@ Remark: You can access the same function through the HSU header
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### PRP dashboard navigation
+## PRP dashboard navigation
 
 To access the PRP dashboard, click on ‘ _PRP Dashboard’_ in the ‘ _General Actions’_ toolbox.
 

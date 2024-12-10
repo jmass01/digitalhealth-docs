@@ -1,6 +1,6 @@
 # Initial Decision After Registration
 
-**Initial Decision After Registration**
+## **Initial Decision After Registration**
 
 <figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
@@ -8,7 +8,9 @@
 
 **Note**
 
+{% hint style="info" %}
 ```
 Saving and validating the form Initial Decision after registration will create the
 HUS registration in.
 ```
+{% endhint %}

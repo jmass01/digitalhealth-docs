@@ -1,10 +1,10 @@
 # Creating a product
 
-#### 1\_Stock Management
+## Stock Management
 
 (For storekeeper and other users)
 
-**a. Creating a product**
+### **a. Creating a product**
 
 _Inventory features are mainly managed through the inventory module_&#x20;
 
@@ -14,7 +14,7 @@ As usual the main menu allow us to reach quickly our need, for instance the prod
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Products & Creating a new one**
+### **Products & Creating a new one**
 
 Product is typically what you have in mind when you are thinking of a product (for instance a bolt, plaster ...) but it can be some other type as well such as services (physiotherapy sessions, night spend in dormitory ...)
 

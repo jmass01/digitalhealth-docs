@@ -1,8 +1,8 @@
 # Planning the Scheduled Date for Order
 
-**Planning the Scheduled Date for Order**
+## **Planning the Scheduled Date for Order**
 
-**1. Go to MRP Production.**
+1\. Go to MRP Production.
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,9 +19,7 @@
 
 **Note**
 
-```
-At this stage as an Ortho or Physio / Physio you can plan the start date (i.e., the
-date on which the service user will come for the measurements) and save the
-order. Then the P&O head will validate the production order.
-```
+{% hint style="info" %}
+At this stage as an Ortho or Physio / Physio you can plan the start date (i.e., the date on which the service user will come for the measurements) and save the order. Then the P\&O head will validate the production order.
+{% endhint %}
 

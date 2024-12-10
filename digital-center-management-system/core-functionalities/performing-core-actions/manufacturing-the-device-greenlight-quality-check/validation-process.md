@@ -1,10 +1,10 @@
 # Validation Process
 
-**Validation Process**
+## **Validation Process**
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-**PO Head/PT Head Validation**
+### **PO Head/PT Head Validation**
 
 **1.** Click **Manufacturing** widget.&#x20;
 
@@ -14,7 +14,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-**Request Components for the Storekeeper.**
+### **Request Components for the Storekeeper.**
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 

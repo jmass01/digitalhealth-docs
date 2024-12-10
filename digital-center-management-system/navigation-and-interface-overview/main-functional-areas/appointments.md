@@ -82,20 +82,17 @@ i. **Service Appointment Type:** i. Service appointment types are the further gr
 
 <figure><img src="../../.gitbook/assets/image (66) (1).png" alt=""><figcaption></figcaption></figure>
 
-```
-j. Service Availability :
-i. One can either mention a global availability for a service as mentioned in
-point d above or could specify a more granular availability.
-ii. In case of no availability defined, by default service is available on all days of
-the week at all times. Multiple availability can be tied to one service.
-iii. Example of service availability:
-Physiotherapy session is happening on Monday and Friday from 10 AM to 12
-PM and Wednesday 2 PM to 4 PM. Then the user will have 2 availabilities
-defined:
-For Monday & Friday; with a start and end time of 10 AM to 12 PM
-For Wednesday; with a start and end time of 2 PM to 4 PM
+{% hint style="info" %}
+j. Service Availability :&#x20;
+
+i. One can either mention a global availability for a service as mentioned in point d above or could specify a more granular availability.&#x20;
+
+ii. In case of no availability defined, by default service is available on all days of the week at all times. Multiple availability can be tied to one service.&#x20;
+
+iii. Example of service availability: Physiotherapy session is happening on Monday and Friday from 10 AM to 12 PM and Wednesday 2 PM to 4 PM. Then the user will have 2 availabilities defined: For Monday & Friday; with a start and end time of 10 AM to 12 PM For Wednesday; with a start and end time of 2 PM to 4 PM
+
 iv. Max load for that availability (day)
-```
+{% endhint %}
 
 1. The max number of HSUs that can be scheduled for a service for a defined duration in the day i.e. limit to the no.of appointments that can be booked.
 2. This value will be displayed to the user when they are booking an appointment for the service.
@@ -122,9 +119,9 @@ Click on the Appointment Scheduling App on the Home page. Under the "Manage Appo
 
 The following details are required to create an appointment:
 
-```
+{% hint style="info" %}
 Note: Selecting a Patient, Service/service type and Date is mandatory to create an appointment.
-```
+{% endhint %}
 
 * **Patient** : The Patient can be searched for using Patient name or ID
 * **Service** : The service is selected from the dropdown. This will further filter the appointment types under it.
@@ -133,12 +130,13 @@ Note: Selecting a Patient, Service/service type and Date is mandatory to create 
 * **Date of Appointment:** This will be chosen from a date picker. Only current and future dates are allowed.
 * **Time slot** : Select the time slot for an appointment.
 
-```
-▪ The dropdown will suggest possible slot times based on service availability.
-▪ End time will auto populate based on the duration of the service/ service
-appointment type. Default of 30 mins if no durations are mentioned.
+{% hint style="info" %}
+▪ The dropdown will suggest possible slot times based on service availability.&#x20;
+
+▪ End time will auto populate based on the duration of the service/ service appointment type. Default of 30 mins if no durations are mentioned.&#x20;
+
 ▪ Users can override the suggested times.
-```
+{% endhint %}
 
 * **Providers:** Select the provider for the appointment from the dropdown. Only those providers with provider attribute Available for appointments set to true will be shown. This setting is available in OpenMRS>Administration>Providers>Manage Providers
 * **Location:** By default the location will be Service location. User can change the location as applicable.

@@ -1,6 +1,6 @@
 # Create a BOM (verify components/qty)
 
-**Create a BOM (verify components/qty)**
+## **Create a BOM (verify components/qty)**
 
 1. Click on create BOM
 2. Select BOM Components

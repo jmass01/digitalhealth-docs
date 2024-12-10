@@ -1,12 +1,12 @@
 # Receptionist
 
-**Receptionist**
+## **Receptionist**
 
 **Note**
 
-```
+{% hint style="info" %}
 This section is optional but essential.
-```
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 

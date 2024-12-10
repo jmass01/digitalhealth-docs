@@ -12,12 +12,10 @@
 
 Click on the link below to access the system.
 
-```
-● URL: According to the server and the location
-```
+{% hint style="info" %}
+URL: According to the server and the location
+{% endhint %}
 
-```
-Some of the actions described in this guide can only be performed by users with
-specific privileges. Should you need additional privileges, please refer to the section
-entitled ‘Updating users’ privileges’
-```
+{% hint style="info" %}
+Some of the actions described in this guide can only be performed by users with specific privileges. Should you need additional privileges, please refer to the section entitled ‘Updating users’ privileges’
+{% endhint %}

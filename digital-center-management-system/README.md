@@ -16,16 +16,13 @@ DCMS is an open source software offering free licences evolving according to a g
 
 **Note**
 
-```
-* Study released by Edmond Lefebvre for the *Economic Analysis Calculation”
-on impact of a digital tool in a medical center in Somalia on Pharmacy Stock
-Management application
-```
+{% hint style="info" %}
+Study released by Edmond Lefebvre for the \*Economic Analysis Calculation” on impact of a digital tool in a medical center in Somalia on Pharmacy Stock Management application
+{% endhint %}
 
-```
-** Staff eciency ratio is coming from the PHII eciency ratio which is the
-number of devices divided by the sta people involved.
-```
+{% hint style="info" %}
+\*\* Staff eciency ratio is coming from the PHII eciency ratio which is the number of devices divided by the sta people involved.
+{% endhint %}
 
 ## Target audience
 

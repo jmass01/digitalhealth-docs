@@ -1,6 +1,6 @@
 # Doing Inventory Management
 
-**a.Doing an inventory adjustment**
+## **Doing an inventory adjustment**
 
 An inventory adjustment can be performed either on the product level for an isolate adjustment
 

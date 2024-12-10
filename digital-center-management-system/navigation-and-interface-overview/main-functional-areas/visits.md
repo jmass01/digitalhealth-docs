@@ -1,10 +1,8 @@
 # Visits
 
-Visits
+## Visits
 
-#### New visit
-
-**Starting a visit**
+### **Starting a visit**
 
 1. To start a visit and to start accessing a form to be able to enter data at the point of care, click on _‘Start Visit’_ on the right-hand side.
 2. Click ‘ _Confirm’_.
@@ -12,13 +10,13 @@ Visits
 
 <figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Ending a visit**
+### **Ending a visit**
 
 After you have completed all the forms related to this visit and the Episode of Service is considered to be closed, click on ‘ _End visit’_ on the right-hand side of the clinical dashboard / PRP dashboard.
 
 <figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Adding a past visit
+### Adding a past visit
 
 1. To enter data retrospectively, click on ‘ _Add Past Visit’_.
 2. Select a date.
@@ -32,9 +30,9 @@ You will be taken to the _‘Visit Summary’_ page, where you can fill in the r
 
 <figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### HSU visit summary
+## HSU visit summary
 
-#### Viewing the HSU’s visit summary
+### Viewing the HSU’s visit summary
 
 In the ‘ _PRP Dashboard’_ , in the ‘ _Recent Visits’_ widget, click on the date of the visit you wish to access.
 
@@ -47,9 +45,9 @@ You will be taken to the ‘ _Visit Summary’_ page for this date.
 
 <figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
-```
-Then the visit summary page then appears, displaying the following information:
-```
+{% hint style="info" %}
+Then the visit summary page then appears, displaying the following information:&#x20;
+{% endhint %}
 
 1. List of visits.
 2. List of forms accessible (for past and active visit).
@@ -65,9 +63,9 @@ Then the visit summary page then appears, displaying the following information:
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Editing the HSU visit summary
+## Editing the HSU visit summary
 
-**Editing an encounter (one form)**
+### **Editing an encounter (one form)**
 
 The possibility to edit a form depend if it was validated or not before saving it: If the form is saved without checking the box “Validated by”, it is still editable but does not impact the workflow process. It is in draft
 
@@ -75,7 +73,7 @@ Click on the icon next to the form you wish to edit
 
 <figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Editing a visit**
+### **Editing a visit**
 
 1. Click ‘ _Edit date’_.
 2. Select the relevant date and click ‘ _Confirm’_.
@@ -84,16 +82,19 @@ Click on the icon next to the form you wish to edit
 
 Two different scenarios are possible:
 
-```
-o you will be able to edit the date;
+{% hint style="info" %}
+o you will be able to edit the date;&#x20;
+
 o in the example below, the 25 th October visit date needs to be changed to 18 th October;
-```
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 ```
-o 18 August is now displayed.
+18 August is now displayed.
 ```
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -107,23 +108,23 @@ once the two visits have been merged it will be possible to click on _‘Edit da
 
 <figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Printing a HSU visit summary
+## Printing a HSU visit summary
 
 1. Click on the icon next to the form you wish to print.
 2. Click _‘Print’_ at the top of the form.
 
 <figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Deleting a HSU visit summary
+## Deleting a HSU visit summary
 
-**Deleting an encounter (one form)**
+### **Deleting an encounter (one form)**
 
 1. Click the **X** icon next to the form you wish to delete.
 2. Click ‘ _Yes’_.
 
 <figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Deleting a visit (all forms)**
+## **Deleting a visit (all forms)**
 
 1. Click ‘ _Delete visit’_ in the top right-hand corner.
 2. Click ‘ _Yes’_.

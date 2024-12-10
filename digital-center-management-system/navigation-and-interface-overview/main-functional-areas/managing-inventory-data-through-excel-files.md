@@ -1,6 +1,6 @@
 # Managing Inventory data through excel files
 
-### Managing inventory data through excel files
+## Managing inventory data through excel files
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 

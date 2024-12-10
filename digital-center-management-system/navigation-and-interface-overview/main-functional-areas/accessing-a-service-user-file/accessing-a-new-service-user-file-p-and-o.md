@@ -1,6 +1,6 @@
 # Accessing a New Service User File - P\&O
 
-**Accessing a New Service User File - P\&O**
+## **Accessing a New Service User File - P\&O**
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,8 +24,7 @@ You automatically land on the Inbox page.
 
 **Note**
 
-```
-*When you make a hardware request from the EMR (OPEN MRS) you arrive in
-Odoo on the list of service users. Then you need to nd your SU.
-```
+{% hint style="info" %}
+When you make a hardware request from the EMR (OPEN MRS) you arrive in Odoo on the list of service users. Then you need to nd your SU.
+{% endhint %}
 

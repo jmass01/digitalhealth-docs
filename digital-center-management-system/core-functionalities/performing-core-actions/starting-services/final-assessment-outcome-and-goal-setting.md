@@ -1,13 +1,12 @@
 # Final Assessment Outcome and Goal Setting
 
-**Final Assessment Outcome and Goal Setting**
+## **Final Assessment Outcome and Goal Setting**
 
 <figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
-```
-Once the service is nished the HSU receives an appointment for the IDT to
-validate the delivery of the services.
-```
+{% hint style="info" %}
+Once the service is nished the HSU receives an appointment for the IDT to validate the delivery of the services.
+{% endhint %}
 
 **1. Click on Final Assessment outcome and Goal Setting** in the Interdisciplinary Assessment Only widget.
 
@@ -19,7 +18,7 @@ validate the delivery of the services.
 
 <figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-**Example of nished EoS.**
+**Example of finished EoS.**
 
 <figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 

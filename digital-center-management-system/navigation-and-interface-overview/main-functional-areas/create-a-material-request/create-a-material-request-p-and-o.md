@@ -1,6 +1,6 @@
 # Create a Material Request - P & O
 
-**Create a Material Request - P & O**
+### **Create a Material Request - P & O**
 
 <figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -8,7 +8,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on create
+2. Click on create
 
 <figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,11 +22,9 @@
 
 **Note**
 
-```
-All prosthetics come in three colors: Terra Brown, Olive and Beige.
-If you are ordering more than one prosthetics make sure that they are all the
-same color.
-```
+{% hint style="info" %}
+All prosthetics come in three colors: Terra Brown, Olive and Beige. If you are ordering more than one prosthetics make sure that they are all the same color.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
