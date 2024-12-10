@@ -1,8 +1,6 @@
 # Data Entry -Hospital services
 
-### Data entry
-
-### Hospital Services
+## Data Entry Hospital Services
 
 ## TUTORIAL
 
@@ -56,13 +54,9 @@ Start entering data by clicking inside the white cells and typing values in manu
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-```
-Most indicators showcase an
-explanation of their function. If
-you click on an indicator, a pop-
-up window displays its
-description.
-```
+{% hint style="info" %}
+Most indicators showcase an explanation of their function. If you click on an indicator, a pop- up window displays its description.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,16 +84,9 @@ A 'Run validation' button is available in each tab. It applies to the entire for
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-```
-If all data is accurate, a validation result
-message will be displayed.
-If some of the values in the form are
-inaccurate, a different message will alert you
-about errors in the data, by identifying values
-that are invalid and rules that need to be met
-(e.g. correct data range) to finally validate
-data.
-```
+{% hint style="info" %}
+If all data is accurate, a validation result message will be displayed. If some of the values in the form are inaccurate, a different message will alert you about errors in the data, by identifying values that are invalid and rules that need to be met (e.g. correct data range) to finally validate data.
+{% endhint %}
 
 
 

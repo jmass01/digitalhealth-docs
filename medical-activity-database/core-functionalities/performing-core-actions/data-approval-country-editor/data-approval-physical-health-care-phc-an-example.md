@@ -7,9 +7,9 @@ description: >-
 
 # DATA APPROVAL  Physical Health Care (PHC) - an example
 
-#### DATA APPROVAL Physical Health Care (PHC) - an example
+## DATA APPROVAL Physical Health Care (PHC) - an example
 
-OPEN DASHBOARD APPLICATION&#x20;
+### OPEN DASHBOARD APPLICATION&#x20;
 
 Data approval starts from the Dashboards in order to know what is pending approval. There is 1 dashboard called “Approval status/PHC” dedicated to the status of reports. It can be used by country editors in order to see what needs to be approved. Open the Dashboard application in a separate tab. You will get the following screen:
 
@@ -45,4 +45,6 @@ In order to know the author of the report and take contact with, you need to ope
 
 Once in Data Entry, select the Organisation Unit, the data set as well as the period of the report that you unapproved. At the bottom of the report you find the email address of the person who completed the report.
 
+{% hint style="info" %}
 Note: When you apply changes, it may take a few hours to refresh and get the status report change in Dashboard.
+{% endhint %}

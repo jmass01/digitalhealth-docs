@@ -1,14 +1,14 @@
 # Main Filters
 
-Main Filters
+## Main Filters
 
-Main Filters: Period and Organisational Unit
+### Main Filters: Period and Organisational Unit
 
 Selection of Period All the dashboards have been configurated for a period and at organisation unit level. However, you can modify these by using the filters as indicated below. Open “Add filter” and click on “Period”..
 
 <figure><img src="../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 
-**Selection of organization unit**
+### **Selection of organization unit**
 
 By default, most of the dashboards are configurated to display data at the highest level of your access. For example, if you have access to country data the dashboards will present data aggregated for the entire country. When you are interested in data coming from more specific organisation units such as, first administration level(s), population(s), structure(s), you can apply the filters as indicated below. Open “Add filter” and click on “Organisation Unit”.
 

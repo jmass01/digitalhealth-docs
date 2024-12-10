@@ -8,34 +8,66 @@ description: Define important terms and jargon specific to the solution.
 
 Define important terms and jargon specific to the solution.
 
-### MAD: Medical Activity database
+### MAD:&#x20;
 
-### PHC: Primary health care
+Medical Activity database
 
-### HF: Health Facilities
+### PHC:&#x20;
 
-### MHU: Mobile Health Unit
+Primary health care
 
-### PRP: Physical Rehabilitation Program
+### HF:&#x20;
 
-### MHPS: Mental Health and Pyschosocial support
+Health Facilities
 
-### Booster dose: Extra administration of vaccine after a previous dose. It can be the second dose or more.
+### MHU:&#x20;
 
-### Case: A case is an individual with a particular disease / health problem: New cases/old cases should be considered according to the National HIS Health information system).
+Mobile Health Unit
 
-### Data: Observations that can either be quantitative (numerical) or qualitative (categorical, often involving attitudes, perceptions and intentions) which can be collected specifically for a study /evaluation or utilized from existing data often.
+### PRP:&#x20;
 
-### Demographic information: Personal characteristics of a person or group (e.g., age, sex, race/ethnicity, residence, and occupation) demographic information is used in descriptive epidemiology to characterize patients or populations.
+Physical Rehabilitation Program
 
-### Epidemic: It is the occurrence of more cases of disease than expected in a given area or among a specific group of people over a particular period of time.
+### MHPS:&#x20;
 
-### Indicator: Quantitative or qualitative factor or variable giving simple and reliable basis for assessing or measuring achievement, change or performance.
+Mental Health and Pyschosocial support
 
-### Monitoring: Continuous and systematic process of recording, collecting, measuring, analysing and communicating information to support management.
+### Booster dose:&#x20;
 
-### Catchment population: A group of people who are intended to benefit directly or indirectly from an ICRC initiative. The term is used synonymously with intended beneficiaries.
+Extra administration of vaccine after a previous dose. It can be the second dose or more.
 
-### Prevalence: Number or proportion of cases/events/conditions in a population.
+### Case:&#x20;
 
-### Proportion: Type of ratio in which the numerator is included in the denominator. Can be expressed in rate or percentage.
+A case is an individual with a particular disease / health problem: New cases/old cases should be considered according to the National HIS Health information system).
+
+### Data:&#x20;
+
+Observations that can either be quantitative (numerical) or qualitative (categorical, often involving attitudes, perceptions and intentions) which can be collected specifically for a study /evaluation or utilized from existing data often.
+
+### Demographic information:&#x20;
+
+Personal characteristics of a person or group (e.g., age, sex, race/ethnicity, residence, and occupation) demographic information is used in descriptive epidemiology to characterize patients or populations.
+
+### Epidemic:&#x20;
+
+It is the occurrence of more cases of disease than expected in a given area or among a specific group of people over a particular period of time.
+
+### Indicator:&#x20;
+
+Quantitative or qualitative factor or variable giving simple and reliable basis for assessing or measuring achievement, change or performance.
+
+### Monitoring:&#x20;
+
+Continuous and systematic process of recording, collecting, measuring, analysing and communicating information to support management.
+
+### Catchment population:&#x20;
+
+A group of people who are intended to benefit directly or indirectly from an ICRC initiative. The term is used synonymously with intended beneficiaries.
+
+### Prevalence:
+
+Number or proportion of cases/events/conditions in a population.
+
+### Proportion:&#x20;
+
+Type of ratio in which the numerator is included in the denominator. Can be expressed in rate or percentage.

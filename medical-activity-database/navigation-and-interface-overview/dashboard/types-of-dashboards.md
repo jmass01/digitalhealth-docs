@@ -1,6 +1,6 @@
 # Types of Dashboards
 
-#### Types of Dashboards
+## Types of Dashboards
 
 According to the health program(s) you belong to, you will get access to predesigned dashboards. Each tab corresponds to a dashboard beginning with the name of the health program concerned. Within each dashboard, there are dashboard items per topic or set of indicators (graphs, tables, etc.). See example:
 

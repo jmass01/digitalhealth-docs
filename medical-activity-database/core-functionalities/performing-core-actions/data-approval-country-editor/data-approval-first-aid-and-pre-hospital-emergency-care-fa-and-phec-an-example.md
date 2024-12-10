@@ -7,11 +7,11 @@ description: >-
 
 # DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) -an example
 
-#### DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) - an example
+## DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) - an example
 
-STEP 1:&#x20;
+### STEP 1: OPEN DASHBOARD APPLICATION
 
-OPEN DASHBOARD APPLICATION There is a data approval process linked to aggregated data (monthly and quarterly reports/data sets) and a different data approval process linked to events data (trainings, ICRC visits, immunization campaigns and psychosocial activities). In both cases, data approval starts from the Dashboards in order to know what is pending approval. There are 2 dashboards dedicated to the status of reports used by country editors in order to see what needs to be approved: One refers to the aggregated data sets contained on the Data Entry application and is called “Approval status”. The other one refers to events and is called “FA\&PHEC Event approval”. Open the Dashboard application in a separate tab. You will get the following screen:
+&#x20;There is a data approval process linked to aggregated data (monthly and quarterly reports/data sets) and a different data approval process linked to events data (trainings, ICRC visits, immunization campaigns and psychosocial activities). In both cases, data approval starts from the Dashboards in order to know what is pending approval. There are 2 dashboards dedicated to the status of reports used by country editors in order to see what needs to be approved: One refers to the aggregated data sets contained on the Data Entry application and is called “Approval status”. The other one refers to events and is called “FA\&PHEC Event approval”. Open the Dashboard application in a separate tab. You will get the following screen:
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,13 +39,15 @@ From the example provided, as a Country Editor I know there is one report dated 
 
 Before approving data it is strongly recommended to open an additional DHIS2 tab in Chrome on the app “Data approval” This way you keep the two tabs open: Dashboard and Data approval.
 
-STEP 2:&#x20;
+### STEP 2: OPEN DATA APPROVAL APPLICATION
 
-OPEN DATA APPROVAL APPLICATION In order to ensure a better data quality, a data workflow is in place. Data entry implies a participatory process. Field users and country editors are both involved in the data entry & approval in regard to the activities that are being monitored. You are now ready to search the report to approve. In a separate tab, open the “Data approval cLASSIC” application
+In order to ensure a better data quality, a data workflow is in place. Data entry implies a participatory process. Field users and country editors are both involved in the data entry & approval in regard to the activities that are being monitored. You are now ready to search the report to approve. In a separate tab, open the “Data approval cLASSIC” application
 
 ![](<../../../.gitbook/assets/image (42) (1).png>)
 
-STEP 3: SELECT DATA SET AND ORGANISATION UNIT Select data set, the report period together with the Report Organisation Unit. Once selection is completed, click on “get data”.
+### STEP 3: SELECT DATA SET AND ORGANISATION UNIT&#x20;
+
+Select data set, the report period together with the Report Organisation Unit. Once selection is completed, click on “get data”.
 
 For FA\&PHEC the monthly reports are approved at the level of the structure. So, you need to select the structure that is 1 level higher than the service delivery point.&#x20;
 
@@ -55,11 +57,13 @@ It is at this level that you select the Organisation Unit in the Data Approval a
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-STEP 4: APPROVE REPORT If data and information provided are reliable and ready to get approved, click on “Approve”.
+### STEP 4: APPROVE REPORT
+
+If data and information provided are reliable and ready to get approved, click on “Approve”.
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-STEP 5: UNAPPROVE REPORT
+### STEP 5: UNAPPROVE REPORT
 
 You may want to unapprove a report. Click on “Unapprove”.
 
@@ -78,4 +82,6 @@ Once in Data Entry, select the Organisation Unit, the data set as well as the pe
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 Note: When you apply changes, it may take a few hours to refresh and get the status report change in Dashboard.
+{% endhint %}

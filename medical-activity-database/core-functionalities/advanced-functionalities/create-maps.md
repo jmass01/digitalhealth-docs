@@ -4,11 +4,11 @@
 
 A table can be opened as Map. There are two ways to obtain a map:
 
-**View** as Map from Dashboards
+### **View** as Map from Dashboards
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-**Open** as a Map from the Data Visualizer app
+### **Open** as a Map from the Data Visualizer app
 
 Let’s start from opening the report that you previously saved under the name \[FA] Structures 2022. Click on the top-left corner to open the section with formats.
 
@@ -28,11 +28,9 @@ You will get the following map. It showcases all first aid posts by geographic a
 
 <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
-```
-It is possible to add a layer for a further
-analysis purpose. Click on “Add layer” on
-the top-left corner.
-```
+{% hint style="info" %}
+It is possible to add a layer for a further analysis purpose. Click on “Add layer” on the top-left corner.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,11 +38,9 @@ Several options are available. Let’s select the layer “Thematic”.
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
-```
-As shown in the images here below, you are
-now asked to apply several selections in
-terms of data
-```
+{% hint style="info" %}
+As shown in the images here below, you are now asked to apply several selections in terms of data
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,20 +52,13 @@ In terms of org units
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-```
-It may be necessary to narrow down the view and analysis
-at country level.
-On that purpose, let’s focus on a specific country and
-select Lebanon (left side image here below), along with the
-Facility level (right side of the image).
-Once all selections completed, click on “Add layer”.
-```
+{% hint style="info" %}
+It may be necessary to narrow down the view and analysis at country level. On that purpose, let’s focus on a specific country and select Lebanon (left side image here below), along with the Facility level (right side of the image). Once all selections completed, click on “Add layer”.
+{% endhint %}
 
+### You will get the following new map showing all
 
-
-## You will get the following new map showing all
-
-## ambulance posts in Lebanon.
+ambulance posts in Lebanon.
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 

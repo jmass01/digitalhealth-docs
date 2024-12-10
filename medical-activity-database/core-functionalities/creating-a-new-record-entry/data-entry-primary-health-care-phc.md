@@ -1,10 +1,6 @@
 # Data entry Primary Health Care (PHC)
 
-### Data entry
-
-### Primary Health
-
-### Care (PHC)
+## Data entry Primary Health Care (PHC)
 
 ## TUTORIAL
 
@@ -12,18 +8,17 @@ Health Unit – Data & Analytics
 
 ### INTRODUCTION
 
-```
+{% hint style="info" %}
 The Data Entry application is used to manually enter routine data on Primary Health Care activities.
-```
+{% endhint %}
 
 Here is a list of all data sets/forms relevant to PHC
 
 <figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
-There are some important differences in some data sets in the new MAD compared to the old MAD
-to take into account. Here below you find a table with a comparison.
-```
+{% hint style="info" %}
+There are some important differences in some data sets in the new MAD compared to the old MAD to take into account. Here below you find a table with a comparison.
+{% endhint %}
 
 **Data sets Who enters data**
 
@@ -72,23 +67,15 @@ PHC Other Immunization and Preventive
 activities
 ```
 
-```
-Immunization campaigns and preventive commodities are no
-longer part of the regular monthly reports but will be recorded
-through a separate data set called “Other Immunization and
-Preventive activities”. This data set will be used whenever a
-campaign occurs. It can be recorded at different levels: Country,
-District/First Admin Level, Population
-```
+{% hint style="info" %}
+Immunization campaigns and preventive commodities are no longer part of the regular monthly reports but will be recorded through a separate data set called “Other Immunization and Preventive activities”. This data set will be used whenever a campaign occurs. It can be recorded at different levels: Country, District/First Admin Level, Population
+{% endhint %}
 
 COVID vaccination support: within the adhoc monthly report at facility level
 
-```
-PHC COVID-19 Immunization campaign The COVID-19 vaccination support will no longer be recorded as
-part of the adhoc support.
-In the new MAD a COVID- 19 dedicated data set is available at
-country level.
-```
+{% hint style="info" %}
+PHC COVID-19 Immunization campaign The COVID-19 vaccination support will no longer be recorded as part of the adhoc support. In the new MAD a COVID- 19 dedicated data set is available at country level.
+{% endhint %}
 
 Vaccination targets fixed at five years old globally and monitored in the monthly reports
 
@@ -97,14 +84,9 @@ Country specific vaccination targets are
 defined in the PHC Country form
 ```
 
-```
-In the old MAD vaccination targets were fixed at five years old
-globally.
-In the new MAD each country can select in the country form
-what is the target group for every child vaccine (Polio, MMR,
-DPT) and monitor in the dashboards vaccination coverage for
-the relevant target groups.
-```
+{% hint style="info" %}
+In the old MAD vaccination targets were fixed at five years old globally. In the new MAD each country can select in the country form what is the target group for every child vaccine (Polio, MMR, DPT) and monitor in the dashboards vaccination coverage for the relevant target groups.
+{% endhint %}
 
 ### STEP 1: SELECT ORGANISATION UNIT (OU)
 
@@ -132,19 +114,15 @@ Start entering data by clicking inside the first cell and typing values in manua
 
 <figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
+{% hint style="info" %}
 Click on check boxes if any.
-```
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
-Most indicators showcase an
-explanation of their
-function. If you click on an
-indicator, a pop-up window
-showcases its description.
-```
+{% hint style="info" %}
+Most indicators showcase an explanation of their function. If you click on an indicator, a pop-up window showcases its description.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -170,17 +148,9 @@ A 'Run validation' button is available in each tab. It applies to the entire for
 
 <figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
-If all your data is accurate, you will receive a
-message telling you that the data has passed
-the validation test once it is complete. If
-some of the values in your form are
-inaccurate, you will get a different message
-telling you that there are errors in your data.
-It also tells you which values are invalid and
-which rule needs to be met (e.g. correct data
-range) for your data to be valid.
-```
+{% hint style="info" %}
+If all your data is accurate, you will receive a message telling you that the data has passed the validation test once it is complete. If some of the values in your form are inaccurate, you will get a different message telling you that there are errors in your data. It also tells you which values are invalid and which rule needs to be met (e.g. correct data range) for your data to be valid.
+{% endhint %}
 
 ### STEP 5: CORRECT DATA
 
@@ -194,20 +164,9 @@ When you have finished filling in the form and verified the data, don’t forget
 
 <figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
-Once completed, a
-form is considered as
-submitted for
-validation to be further
-checked by the Country
-Editor. The Country
-Editor will do the final
-verification and will
-```
-
-approve data. If, after completing the form you realize some corrections need to be made, click first on “incomplete” and make corrections. Then, click on “complete” button again so that the Country Editor knows that it is ready for approval.
-
-
+{% hint style="info" %}
+Once completed, a form is considered as submitted for validation to be further checked by the Country Editor. The Country Editor will do the final verification and will approve data. If, after completing the form you realize some corrections need to be made, click first on “incomplete” and make corrections. Then, click on “complete” button again so that the Country Editor knows that it is ready for approval.
+{% endhint %}
 
 ### STEP 7: HOW TO IMPORT DATA
 

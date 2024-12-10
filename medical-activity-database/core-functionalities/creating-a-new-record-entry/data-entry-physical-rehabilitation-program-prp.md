@@ -1,12 +1,6 @@
 # Data Entry -Physical Rehabilitation Program (PRP)
 
-## DATA ENTRY
-
-### Physical Rehabilitation
-
-### Program (PRP)
-
-### ------------
+## DATA Entry Physical Rehabilitation Program (PRP)
 
 ## TUTORIAL
 
@@ -33,10 +27,6 @@ Another quick way to find an Organisation Unit is to use the search box next to 
 ### STEP 2: SELECT YOUR DATA FORM, TIME PERIOD AND RELEVANT GO
 
 Examples are provided in the following pages.
-
-```
--------------------------------
-```
 
 The **country form** is completed on a yearly basis at the level of the country. GO code selection is required.
 
@@ -77,13 +67,15 @@ Start entering data by clicking inside the first cell and selecting data from th
 
 <figure><img src="../../.gitbook/assets/image (30) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
+{% hint style="info" %}
 Click on check boxes.
-```
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 _Note: Your browser may sometimes suggest values that are not built into the DHIS2 forms but have been stored in your browser cache from other websites. You can remove these values using the 'Browser Cache Cleaner' on the applications menu._
+{% endhint %}
 
 The cells will turn green when the data has been automatically saved in the system.
 
@@ -103,20 +95,9 @@ A 'Run validation' button is available in each tab. It applies to the entire for
 
 <figure><img src="../../.gitbook/assets/image (32) (2).png" alt=""><figcaption></figcaption></figure>
 
-```
-“Run validation” checks for completeness of mandatory fields first and for other rules as a second
-step. It is important to run a validation check to make sure your data is logical and valid, based on
-rules built into each form. This step ensures that the data you have entered is accurate.
-If all your data is accurate, you will receive a
-message telling you that the data has passed
-the validation test once it is complete. If
-some of the values in your form are
-inaccurate, you will get a different message
-telling you that there are errors in your data.
-It also tells you which values are invalid and
-which rule needs to be met (e.g. correct data
-range) for your data to be valid.
-```
+{% hint style="info" %}
+“Run validation” checks for completeness of mandatory fields first and for other rules as a second step. It is important to run a validation check to make sure your data is logical and valid, based on rules built into each form. This step ensures that the data you have entered is accurate. If all your data is accurate, you will receive a message telling you that the data has passed the validation test once it is complete. If some of the values in your form are inaccurate, you will get a different messagetelling you that there are errors in your data. It also tells you which values are invalid and which rule needs to be met (e.g. correct datarange) for your data to be valid.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (33) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,20 +113,9 @@ When you have finished filling in the form and verified the data, don’t forget
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-```
-Once completed, a
-form is considered as
-submitted for
-validation to be further
-checked by the Country
-Editor. The Country
-Editor will do the final
-verification and will
-```
-
-approve data. If, after completing the form you realize some corrections need to be made, click first on “incomplete” and make corrections. Then, click on “complete” button again so that the Country Editor knows that it is ready for approval.
-
-
+{% hint style="info" %}
+Once completed, a form is considered assubmitted for validation to be furtherchecked by the Country Editor. The Country Editor will do the final verification and will approve data. If, after completing the form you realize some corrections need to be made, click first on “incomplete” and make corrections. Then, click on “complete” button again so that the Country Editor knows that it is ready for approval.
+{% endhint %}
 
 ### STEP 7: HOW TO IMPORT DATA
 

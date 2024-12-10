@@ -1,10 +1,10 @@
 # User Roles and Permissions
 
-#### User Roles and Permissions
+## User Roles and Permissions
 
-MAD has 3 key roles, and this is the Field user, Country editor, Reader
+### MAD has 3 key roles, and this is the Field user, Country editor, Reader
 
-1 .Field User can perform data entry on the following PHC forms which is the Population report, HF monthly report, MHU monthly report, Adhoc Facility support, Adhoc Central support, Other Immunization and preventive activities and Covid- 19 Immunization campaign.
+1 . Field User can perform data entry on the following PHC forms which is the Population report, HF monthly report, MHU monthly report, Adhoc Facility support, Adhoc Central support, Other Immunization and preventive activities and Covid- 19 Immunization campaign.
 
 To verify if the user is field user, click on user menu
 
@@ -16,7 +16,7 @@ Then click on the 'Account' link
 
 Click on the full profile tab, and verify in user roles it has 'Data Entry'
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 Verify field user capability by clicking the Apps burger menu, and validate 'Data entry' is displayed
 
@@ -31,11 +31,7 @@ How to verify the role of the user:
 1. Login to MAD
 2. Click on the user menu
 
-
-
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on Account
 

@@ -1,24 +1,18 @@
 # Data Entry - First Aid & Pre-Hospital Emergency care
 
-## DATA ENTRY
-
-### First Aid & Pre-Hospital
-
-### Emergency Care
-
-### (FA\&PHEC)
-
-### ------------
+## Data Entry First Aid & Pre-Hospital Emergency Care (FA\&PHEC)
 
 ## TUTORIAL
 
-INTRODUCTION
+### INTRODUCTION
 
 The Data Entry application is used to manually enter routine data on FA\&PHEC services, which have been recorded for one Organisation Unit on a monthly basis using a specific data set. The country form is completed on a yearly basis. Please note that FA\&PHEC trainings as well as meetings/visits are monitored through the [https://dhis2.uat.icrc.org/dhis/dhis-web-capture/index.html](https://dhis2.uat.icrc.org/dhis/dhis-web-capture/index.html)
 
+{% hint style="info" %}
 ```
 Here is a summary of all data sets/forms relevant to FA&PHEC
 ```
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +44,9 @@ Select a period for which to register data. The available periods are determined
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 _**Note**_ _: Not all data sets are available for all Organisation Units. Make sure to enter data for the right Organisation Unit and the right period of time. If data has already been submitted for the period that you have selected, it will appear automatically in the form._
+{% endhint %}
 
 You can also toggle between years, moving a year forward or backward using the 'Prev year' and 'Next year' buttons next to the period entry field.
 
@@ -68,7 +64,9 @@ Click on check boxes\*\*.\*\*
 
 The cells will turn green when the data has been automatically saved in the system. The cells will turn red when mandatory fields (identified with a star "\*") have not been filled. Grey fields are those that are completed automatically by the DHIS2 system. In case an invalid value or a value outside an acceptable range is entered, a pop-up window will detail the problem.Click on the cell(s) and correct the data. The cell(s) will turn green once you have entered the correct value.
 
+{% hint style="info" %}
 _**Note**_ _: Your browser may sometimes suggest values that are not built into the DHIS2 forms but have been stored in your browser cache from other websites. You can remove these values using the 'Browser Cache Cleaner' on the applications menu._
+{% endhint %}
 
 
 
@@ -84,12 +82,9 @@ If all your data is accurate, you will receive a message telling you that the da
 
 ### STEP 6: CORRECT YOUR DATA
 
-```
-You should correct your data if the validation test detected errors on your form. Click on the cells
-that have invalid data (shown on the validation test message), remove the incorrect value and retype
-or reselect the correct value. The new value should meet the requirements of the validation rule
-shown on the validation test message.
-```
+{% hint style="info" %}
+You should correct your data if the validation test detected errors on your form. Click on the cells that have invalid data (shown on the validation test message), remove the incorrect value and retype or reselect the correct value. The new value should meet the requirements of the validation rule shown on the validation test message.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 

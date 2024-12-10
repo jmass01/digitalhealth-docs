@@ -1,8 +1,8 @@
 # Save, find and download a dashboard item
 
-#### Save, find and download a dashboard item
+## Save, find and download a dashboard item
 
-a. Saving a dashboard item
+### a. Saving a dashboard item
 
 You may now want to save the file. Click on “File” on the top bar, and then on “Save as”
 
@@ -12,7 +12,7 @@ The image here below provides an example. You give a name to your report (for in
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-b. Finding a dashboard item
+### b. Finding a dashboard item
 
 Click on “File” and then on “Open”.
 
@@ -28,7 +28,7 @@ If the filter “Created by Only you” is applied, you get the following result
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-c. Dowloading a dashboard item
+### c. Dowloading a dashboard item
 
 Your report can be downloaded in different formats. In order to download your report in excel for instance, click on “Download” on the top bar and then on Excel (.xls)
 

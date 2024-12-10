@@ -1,19 +1,10 @@
 # Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)
 
-CAPTURE
+## Capture First Aid & Pre-Hospital Emergency Care (FA\&PHEC)
 
-### First Aid & Pre-Hospital
+## TUTORIAL
 
-### Emergency Care
-
-### (FA\&PHEC)
-
-### ------------
-
-TUTORIAL\
-\
-INTRODUCTION
-------------
+### INTRODUCTION
 
 The Capture application is used to enter data on FA\&PHEC trainings or meetings/visits. For instance, during one month several trainings can take place. Each of them will be recorded in the Capture app as an individual event.&#x20;
 
@@ -29,7 +20,9 @@ In the 'Program' section find the name of your program in the drop-down list of 
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 _Note: At this point, you may see a 'Registered events' summary table. This table and its functionality will be discussed later in this tutorial._(**Capture feature is only relevant for FAPHEC and DET)**
+{% endhint %}
 
 ### STEP 2: SELECT YOUR ORGANISATION UNIT
 
@@ -37,24 +30,18 @@ Find the name of the Organisation Unit that you want to enter data for on the dr
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 _Note: At this point, you may see a message under Program saying 'Some programs are being filtered'. This indicates that not all programs/forms may be available for every Organisation Unit._
+{% endhint %}
 
+{% hint style="info" %}
 ```
-Another quick way
-to find an
-Organisation Unit is
-to use the search
-box above the drop-
+Another quick way to find an Organisation Unit is to use the searchbox above the drop-
 down tree menu.
-Start typing the
-Organisation Unit
-name where is says
-'Search' and click on
-the Organisation
-Unit from the drop-
-down list to enter it
-into your form.
+Start typing the Organisation Unit name where is says 'Search' and click on the Organisation
+Unit from the drop-down list to enter it into your form.
 ```
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
@@ -76,9 +63,9 @@ Greyed-out entries are those calculated automatically by DHIS2 system. You do no
 
 If you type in a value that is not valid or is outside the acceptable value range, you will get a warning message below the cell telling you what an error has been made. You need to correct these values before submitting your form.
 
+{% hint style="info" %}
 _Note: DHIS2 may take some time to calculate the values. Please click 3 - 4 times outside the form to force DHIS2 to calculate these entries._
-
-
+{% endhint %}
 
 ### STEP 4: MARK FORM AS COMPLETE
 
@@ -90,18 +77,15 @@ Leave the box unchecked if you need to come back to fill in missing data, or if 
 
 ### STEP 5: SAVE AND SUBMIT FORM
 
-```
-If you are satisfied that your data form is complete or if you need to leave to find missing data, you
-can save your progress and exit. Click on 'Save and exit' and DHIS2 will take you back to the summary
-table.
-```
+{% hint style="info" %}
+If you are satisfied that your data form is complete or if you need to leave to find missing data, you can save your progress and exit. Click on 'Save and exit' and DHIS2 will take you back to the summary table.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-```
-Alternatively, if you want to submit the data and continue filling more data form for the same
-location and form, click 'Save and add new' from the drop-down menu.
-```
+{% hint style="info" %}
+Alternatively, if you want to submit the data and continue filling more data form for the same location and form, click 'Save and add new' from the drop-down menu.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
@@ -117,14 +101,9 @@ and selecting data columns from the list (2).
 
 <figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-```
-By clicking on the cog icon you can also
-rearrange the order of the columns by
-clicking on the three line icon next to the
-data category that you would like to
-move (3), and dragging it to its new
-position among the other categories.
-```
+{% hint style="info" %}
+By clicking on the cog icon you can also rearrange the order of the columns by clicking on the three line icon next to the data category that you would like to move (3), and dragging it to its new position among the other categories.
+{% endhint %}
 
 Remember to click 'Save' if you have made any changes to your summary table that you would like to keep.
 
