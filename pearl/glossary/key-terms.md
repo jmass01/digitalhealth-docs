@@ -4,25 +4,43 @@ description: Define important terms and jargon specific to the solution.
 
 # Key terms
 
-### Acronyms
+## Acronyms
 
-**DHIS2** District Health Information System 2
+**DHIS2**&#x20;
 
-**DoB** Date of Birth
+District Health Information System 2
 
-**HCD** Health Care in Detention
+### **DoB**&#x20;
 
-**HIS** Health Information System
+Date of Birth
 
-**HSU** Health Service User
+### **HCD**&#x20;
 
-**ICRC** International Committee of the Red Cross
+Health Care in Detention
 
-**MAD** Medical Activity Database
+### **HIS**&#x20;
 
-**MHPSS** Mental Health and Psychosocial Support
+Health Information System
 
-**EMR** electronic medical record\
+### **HSU**&#x20;
+
+Health Service User
+
+### **ICRC**&#x20;
+
+International Committee of the Red Cross
+
+### **MAD**&#x20;
+
+Medical Activity Database
+
+### **MHPSS**&#x20;
+
+Mental Health and Psychosocial Support
+
+### **EMR**&#x20;
+
+electronic medical record\
 \
 earlier the DET (detention) program was referred to as HCD = healthcare in detention and then they changed to HID but the meaning is the same healthcare in detention
 

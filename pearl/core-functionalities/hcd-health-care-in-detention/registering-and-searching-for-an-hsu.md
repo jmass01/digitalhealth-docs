@@ -8,17 +8,15 @@ In the Landing Page (Main Menu), you will see two icons that allow you to regist
 
 * What is an HSU? _Health Service User (HSU) is used to label users of the services offered by_ _health programs._
 
-#### Registering a New HSU
+### Registering a New HSU
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-```
-Click on the icon ‘ Register a HSU’ to register a new health service user.
-This will take you to the registration page that allows you to register
-identifiable HSU or anonymous (unknown) HSU.
-```
+{% hint style="info" %}
+Click on the icon ‘ Register a HSU’ to register a new health service user. This will take you to the registration page that allows you to register identifiable HSU or anonymous (unknown) HSU.
+{% endhint %}
 
-**Identifiable HSU**
+### **Identifiable HSU**
 
 1. Patients whose information is not anonymized will need to enter the mandatory items in red as they are required. Finally click on ‘ _Confirm’_ on the left-hand side bar.
 2. Click on ‘Confirm’ again
@@ -54,11 +52,9 @@ Gender is a mandatory field regardless of whether the HSU wishes to disclose his
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-```
-‘ Unknown ’ is used for when an HSU wishes to remain completely
-anonymous or when the practitioner is not able to ask the
-question to verify.
-```
+{% hint style="info" %}
+‘ Unknown ’ is used for when an HSU wishes to remain completely anonymous or when the practitioner is not able to ask the question to verify.
+{% endhint %}
 
 _Date of Birth_ Users can enter the exact date of birth of the HSU or an estimate:
 
@@ -97,14 +93,13 @@ _Address_ This is an optional field. We are working on getting these fields popu
 * Admin level 1: State/Province = list all the states/provinces from the country selected
 * Admin level 2/3/4: City/Village = list all the city/village/district from the Admin1 selected
 
-```
-o The admin levels 2 – 3 will depend on the granularity of the admin levels provided to
-us
-```
+{% hint style="info" %}
+The admin levels 2 – 3 will depend on the granularity of the admin levels provided to us
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
-**Anonymous HSU**
+### **Anonymous HSU**
 
 If the HSU need to be registered anonymously or if the information cannot be verified, then thick the box ‘ _Unidentified patient’_ and select _‘Unknown’_ for the gender
 
@@ -125,10 +120,10 @@ You will be taken to the screen shot below:
 
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
-**By ID Number**
+### **By ID Number**
 
 You can type the HSU ID number in the search bar to find an existing HSU.
 
-**By HSU Name**
+### **By HSU Name**
 
 You can type the HSU name in the search bar to find an existing HSU.

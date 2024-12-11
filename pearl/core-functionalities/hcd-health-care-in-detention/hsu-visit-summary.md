@@ -1,8 +1,8 @@
 # HSU Visit Summary
 
-### HSU Visit Summary
+## HSU Visit Summary
 
-#### Viewing HSU visit summary
+### Viewing HSU visit summary
 
 In the _HCD Dashboard_ , in the ‘ _Recent visits’_ widget, click on the date of the visit you want to access
 
@@ -25,9 +25,9 @@ The visit summary page is displayed:
 
 <figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-### Figure 38 Visit summary - Encounter details
+## Figure 38 Visit summary - Encounter details
 
-#### Editing HSU visit summary
+### Editing HSU visit summary
 
 **Editing an encounter (one form)**
 
@@ -37,7 +37,7 @@ The visit summary page is displayed:
 
 2. Complete the form and click ‘ _Save’_ as described in the next section HCD Program Forms
 
-**Editing a visit**
+### **Editing a visit**
 
 1. Click on ‘ _Edit date’_
 2. Select the relevant date and click on ‘ _Confirm’_
@@ -76,23 +76,23 @@ o Then the date is edited and then it allowed to choose another date and it is s
 
 <figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
-#### Printing HSU visit summary
+### Printing HSU visit summary
 
 1. Click on the ![](<../../.gitbook/assets/image (141).png>) icon next to the form you want to print
 2. Click on ‘Print’ at the top of the form
 
 <figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-#### Deleting HSU visit summary
+## Deleting HSU visit summary
 
-**Deleting an encounter (one form)**
+### **Deleting an encounter (one form)**
 
 1. Click on the **X** icon next to the form you want to delete
 2. Click on ‘ _Yes’_
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
-**Deleting a visit (all forms)**
+### **Deleting a visit (all forms)**
 
 1. Click on ‘ _Delete visit’_ on the top right corner
 2. Click on ‘ _Yes’_

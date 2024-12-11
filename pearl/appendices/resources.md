@@ -4,6 +4,8 @@ description: Include links to additional resources, help articles, or videos.
 
 # Resources
 
+## Resources
+
 [Superset User guide](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_36)
 
 [Pearl Wiki Page](https://collab.ext.icrc.org/sites/TS_ASSIST/WIKIHealthUnit/Pages/Pearl.aspx)
@@ -17,24 +19,22 @@ description: Include links to additional resources, help articles, or videos.
 &#x20;[Health request - ICRC - Services Portal](https://smt.ext.icrc.org/esc?id=sc_cat_item\&sys_id=58ca0a0a6da5f9105040cd7540391b7f)
 
 \
-\
-Video Resources
+`Video` Resources
+-----------------
 
-uperset:\
-How to change the language: [https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_37](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_37)
+### Superset: How to change the language: [https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_37](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_37)
 
-How to select a specific dashboard:\
-[https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_38](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_38)\
-\
-HOW DOES MHPSS DASHBOARD WORK
+### How to select a specific dashboard: [https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_38](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_38) 
+
+### HOW DOES MHPSS DASHBOARD WORK
 
 [https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_39](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_39)
 
-How does filters work- PRP
+### How does filters work- PRP
 
 [https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_42](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_42)
 
-PRP Dashboard
+### PRP Dashboard
 
 [https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$8:\_section2\_44](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$8:_section2_44)
 

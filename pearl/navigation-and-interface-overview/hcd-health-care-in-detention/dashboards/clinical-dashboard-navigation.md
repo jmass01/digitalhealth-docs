@@ -1,6 +1,6 @@
 # Clinical Dashboard Navigation
 
-#### Clinical dashboard navigation
+## Clinical dashboard navigation
 
 To access the _Clinical Dashboard_ , click on ‘ _Clinical Dashboard’_ in the _General Actions_ tool box.
 

@@ -1,35 +1,25 @@
 # CREATE A HSU (HEALTH SERVICE USER) PATIENT VIA NORMAL DATA ENTRY
 
-#### CREATE A HSU (HEALTH SERVICE USER)
+## CREATE A HSU (HEALTH SERVICE USER)
 
 \
 
 
 🖋 **Note**
 
-```
-In order to create a HSU patient at point of care, you will need to click on the
-patient registration icon on the top-right menu. This will open the patient
-registration page that requires to provide basic information, contact,
-relationships, languages details as well as HSU person of contact.
-```
+{% hint style="info" %}
+In order to create a HSU patient at point of care, you will need to click on the patient registration icon on the top-right menu. This will open the patient registration page that requires to provide basic information, contact, relationships, languages details as well as HSU person of contact.
+{% endhint %}
 
 ⚠ **Warning**
 
-```
-In the patient registration page elds are marked optional unless required.
-Gender and date of birth (age).
-In case you do not dispose of such information, make your best estimation. I.e.,
-estimate age in years and/or months.
-```
+{% hint style="info" %}
+In the patient registration page elds are marked optional unless required. Gender and date of birth (age). In case you do not dispose of such information, make your best estimation. I.e., estimate age in years and/or months.
+{% endhint %}
 
 Click this icon to start.
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
-```
-7
-```
 
 You are now required to ll-in all information required. Start from the Patient's name and family name.
 

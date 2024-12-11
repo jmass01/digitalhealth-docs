@@ -1,14 +1,14 @@
 # Registration Summary
 
-#### Registration summary
+## Registration summary
 
-**Section widgets**
+### **Section widgets**
 
 To access the _Registration Summary_ , click on ‘ _Registration Summary’_ in the _General Actions_ tool box
 
 <figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-**Edit sections**
+### **Edit sections**
 
 1. Click on the ![](<../../../.gitbook/assets/image (98).png>)icon at the top of the widget&#x20;
 

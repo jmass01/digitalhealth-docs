@@ -1,6 +1,6 @@
 # HCD Dashbaord Navigation
 
-#### HCD dashboard navigation
+## HCD dashboard navigation
 
 To access the HCD _Dashboard_ , click on ‘HCD _Dashboard’_ in the _General Actions_ tool box.
 

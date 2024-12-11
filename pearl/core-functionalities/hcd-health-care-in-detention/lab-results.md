@@ -1,8 +1,8 @@
 # Lab Results
 
-### Lab results
+## Lab results
 
-#### Entering lab results
+### Entering lab results
 
 1. You can access the laboratory results by clicking on ‘ _Laboratory results’_ in the _Current Visit_ _Actions_ tool box or by accessing the _Visit Summary_.
 

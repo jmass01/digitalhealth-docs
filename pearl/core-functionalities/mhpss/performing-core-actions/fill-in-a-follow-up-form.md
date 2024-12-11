@@ -4,19 +4,13 @@
 
 🗩 **Advice**
 
-```
-The Follow-up form has to be completed for every visit after the rst one,
-making sure right up to the nal visit.
-Click on the 9-dot image on the top-right corner and then on Fast Data Entry
-tab. You can nd the Follow-up form in three dierent ways:
--in the top-search bar by typing "Follow-up form".
--in the Fast Data Entry landing page containing all forms, by
-searching it within the list.
--in the ICRC Forms page by searching it within the list.
-```
+{% hint style="info" %}
+The Follow-up form has to be completed for every visit after the rst one, making sure right up to the nal visit. Click on the 9-dot image on the top-right corner and then on Fast Data Entry tab. You can nd the Follow-up form in three dierent ways: -in the top-search bar by typing "Follow-up form". -in the Fast Data Entry landing page containing all forms, by searching it within the list. -in the ICRC Forms page by searching it within the list.
+{% endhint %}
 
 ⚠ **Warning**
 
+{% hint style="info" %}
 ```
 If you search for "Follow-up form" in the top-search bar, don't forget the
 hyphen in follow-up as it is an exact match search.
@@ -24,6 +18,7 @@ The Follow-up form contains several categories that include mandatory as well
 as non-mandatory elds. Make sure you ll all mandatory elds which are
 identied with an "*".
 ```
+{% endhint %}
 
 Search the follow-up form by applying one of the three different ways. Click "Fill Form.
 

@@ -1,13 +1,12 @@
 # FILL-IN AN ASSESSMENT FORM
 
-#### FILL-IN AN ASSESSMENT FORM
+## FILL-IN AN ASSESSMENT FORM
 
 ⚠ **Advice**
 
-```
-The Assessment form is built from merging previous Admission form and
-Baseline form, with the purpose to remove repetitive questionnaires.
-```
+{% hint style="info" %}
+The Assessment form is built from merging previous Admission form and Baseline form, with the purpose to remove repetitive questionnaires.
+{% endhint %}
 
 ```
 Click on the App Menu (9-dot image on the top-right corner)
@@ -23,11 +22,9 @@ in the ICRC Forms page.
 
 ⚠ **Warning**
 
-```
-The Assessment form contains several categories that include mandatory as well
-as non-mandatory elds. Make sure you ll all mandatory elds which are
-identied with an "*".
-```
+{% hint style="info" %}
+The Assessment form contains several categories that include mandatory as well as non-mandatory elds. Make sure you ll all mandatory elds which are identied with an "\*".
+{% endhint %}
 
 Open each of the following categories to discover content:
 

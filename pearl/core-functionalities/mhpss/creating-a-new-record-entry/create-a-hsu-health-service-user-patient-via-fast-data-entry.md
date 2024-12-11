@@ -1,21 +1,16 @@
 # CREATE A HSU (HEALTH SERVICE USER) PATIENT VIA FAST DATA ENTRY
 
-CREATE A HSU (HEALTH SERVICE USER)
+## CREATE A HSU (HEALTH SERVICE USER)
 
-PATIENT VIA FAST DATA ENTRY
+### PATIENT VIA FAST DATA ENTRY
 
 
 
 🗩 **Advice**
 
-```
-Fast Data Entry is one of the app. available enabling you to have a single point of
-entry to enter data retroactively for individual patient or groups of patients. You
-are beneting from limiting the number of pages and clicks to enter data for
-single/multiple patients.
-In order to create an HSU patient via Fast Data Entry you are requested to start
-from lling an Assessment form according to the following procedure:
-```
+{% hint style="info" %}
+Fast Data Entry is one of the app. available enabling you to have a single point of entry to enter data retroactively for individual patient or groups of patients. You are beneting from limiting the number of pages and clicks to enter data for single/multiple patients. In order to create an HSU patient via Fast Data Entry you are requested to start from lling an Assessment form according to the following procedure:
+{% endhint %}
 
 Click on the app menu, on the 9-dot image at the top-right corner.
 

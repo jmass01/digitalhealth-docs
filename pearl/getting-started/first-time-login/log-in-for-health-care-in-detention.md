@@ -1,8 +1,8 @@
 # Log-in for Health Care in Detention
 
-### Logging in
+## Logging in
 
-#### Enter user name and password
+### Enter user name and password
 
 Once you clicked on the valid web address, you will be taken to the login screen shown below:
 
@@ -14,7 +14,7 @@ Once you clicked on the valid web address, you will be taken to the login screen
 
 You will be taken to a page to select a location as shown in the next section.
 
-#### Select login location
+### Select login location
 
 1. Select the location of where the consultation occurred for the patient(s) you are entering
 2. Click on ‘ _Done’_

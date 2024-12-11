@@ -4,21 +4,15 @@ FILL-IN A CLOSURE FORM
 
 🗩 **Advice**
 
-```
-Search for "Closure form" by applying one of the three following ways:
--in the top-search bar by typing "Follow-up form".
--in the Fast Data Entry landing page containing all forms, by
-searching it within the list.
--in the ICRC Forms page by searching it within the list.
-```
+{% hint style="info" %}
+Search for "Closure form" by applying one of the three following ways: -in the top-search bar by typing "Follow-up form". -in the Fast Data Entry landing page containing all forms, by searching it within the list. -in the ICRC Forms page by searching it within the list.
+{% endhint %}
 
 ⚠ **Warning**
 
-```
-The Closure form contains several categories that include mandatory as well as
-non-mandatory elds. Make sure you ll all mandatory elds which are
-identied with an "*".
-```
+{% hint style="info" %}
+The Closure form contains several categories that include mandatory as well as non-mandatory elds. Make sure you ll all mandatory elds which are identied with an "\*".
+{% endhint %}
 
 Click "Fill Form". You land to the patient selection page.
 

@@ -1,10 +1,10 @@
 # Visits
 
-### Visits
+## Visits
 
 #### New visit
 
-**Starting a visit**
+### **Starting a visit**
 
 1. To start a visit done at the date the data is entered, click on _‘Start a visit’_ on the right-hand side.
 2. Click ‘ _Confirm’_
@@ -12,13 +12,13 @@
 
 <figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
-**Ending a visit**
+### **Ending a visit**
 
 On the Clinical Dashboard of the HSU, right-hand side, click on ‘ _End visit’_ after you completed all the forms related to this visit.
 
 <figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
-#### Adding a past visit.
+### Adding a past visit.
 
 1. To enter data retroactively, click on ‘ _Add past visit’_
 2. Select a date

@@ -1,6 +1,6 @@
 # CREATE A HSU (HEALTH SERVICE USER) VISIT
 
-#### CREATE A HSU (HEALTH SERVICE USER) VISIT
+## CREATE A HSU (HEALTH SERVICE USER) VISIT
 
 In order to start a visit, search for the HSU you previously created. Type the name of the HSU in the top-search bar.
 
@@ -28,9 +28,7 @@ Click "Start a visit"
 
 🗩 **Advice**
 
-```
-Besides the creation of a new visit, you have other options available allowing you
-to edit visits, add past visits, etc. The list here below provides all possible options
-in relation to HSUs.
-```
+{% hint style="info" %}
+Besides the creation of a new visit, you have other options available allowing you to edit visits, add past visits, etc. The list here below provides all possible options in relation to HSUs.
+{% endhint %}
 
