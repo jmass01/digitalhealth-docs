@@ -5,7 +5,9 @@
 ## Getting Started
 
 * [System requirements](getting-started/system-requirements.md)
-* [Installation / Access](getting-started/installation-access.md)
+* [Installation / Access](getting-started/installation-access/README.md)
+  * [DHIS2 configuration for using the Android App](getting-started/installation-access/dhis2-configuration-for-using-the-android-app.md)
+  * [Installing the new DHIS 2 Capture App](getting-started/installation-access/installing-the-new-dhis-2-capture-app.md)
 * [First Time Login](getting-started/first-time-login.md)
 * [User Roles and Permissions](getting-started/user-roles-and-permissions.md)
 
