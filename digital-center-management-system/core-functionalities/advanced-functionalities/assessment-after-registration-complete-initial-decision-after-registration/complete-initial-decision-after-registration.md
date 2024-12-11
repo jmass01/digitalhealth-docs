@@ -1,8 +1,8 @@
 # Complete Initial Decision After Registration
 
-#### Decision After Registration
+## Decision After Registration
 
-**2. 6. 1. Complete Initial Decision After Registration**
+### **Complete Initial Decision After Registration**
 
 After the Receptionist registers a HSU you need to start a visit then you open initial decision after registration form. This allows the patient to be enrolled in respective programs.
 
@@ -18,11 +18,13 @@ This will lead you to a form that needs to be lled. 1. First section will ask fo
 
 <figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-**2. Select New Services (service delivery workow).**
+2\. Select New Services (service delivery workow).
 
 <figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 **Note**
 
+{% hint style="info" %}
 Saving and validating the form Initial Decision after registration will create the HUS registration in
+{% endhint %}
 

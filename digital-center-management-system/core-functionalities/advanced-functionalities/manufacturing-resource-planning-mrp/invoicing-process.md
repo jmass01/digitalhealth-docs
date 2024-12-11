@@ -1,6 +1,6 @@
 # Invoicing Process
 
-### Managing Expense on SU level
+## Managing Expense on SU level
 
 On the SU form there is multiple ways
 

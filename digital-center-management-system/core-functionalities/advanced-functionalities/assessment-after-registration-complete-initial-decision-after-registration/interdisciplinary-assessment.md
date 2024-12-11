@@ -1,12 +1,12 @@
 # Interdisciplinary Assessment
 
-**2. 6. 2. Interdisciplinary Assessment**
+## **Interdisciplinary Assessment**
 
 <figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 Once the HSU is registered the Interdisciplinary team needs to assess the HSU.
 
-To access the interdisciplinary assessment you must :
+### To access the interdisciplinary assessment you must :
 
 1. Go to an active HSU page.
 2. Click on ‘PRP - Forms Dashboard’.
@@ -18,13 +18,19 @@ First assessment to do is the **Initial Assessment.**
 
 <figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
-**Initial Assessment - Outcome and Goal Setting**
+### **Initial Assessment - Outcome and Goal Setting**
 
 The second assessment to do is the **Initial Assessment Outcome and Goal setting.**
 
-**Four options:**
+### **Four options:**
 
-**1. Plan services** – Continue workow. **2. Referral** – Document referral form with Orthopedic consultation or stump revision. Episode of service automatically closed. **3. Refer to additional examination** – No change in workow status. Decision can be changed when Hsu comes back with result. Document referral form. **4. Not eligible for services** – Episode of Service closed.
+**1. Plan services** – Continue workow.&#x20;
+
+**2. Referral** – Document referral form with Orthopedic consultation or stump revision. Episode of service automatically closed.&#x20;
+
+**3. Refer to additional examination** – No change in workow status. Decision can be changed when Hsu comes back with result. Document referral form.&#x20;
+
+**4. Not eligible for services** – Episode of Service closed.
 
 <figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 

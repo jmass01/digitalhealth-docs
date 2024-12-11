@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Configuration level
+## Configuration level
 
 ### BoM Configuration
 
@@ -8,39 +8,37 @@ Configuration level
 
 <figure><img src="../../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-```
-Or unarchived it.
-Go to the product list, Add a filter with the archived one
-```
+{% hint style="info" %}
+Or unarchived it. Go to the product list, Add a filter with the archived one
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
-```
+{% hint style="info" %}
 Open the product form, then on Action click “Unarchive”.
-```
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
-```
-The product is now Active, and you can return to your BoM Template to
-reconfigurate it.
-```
+{% hint style="info" %}
+The product is now Active, and you can return to your BoM Template to reconfigurate it.
+{% endhint %}
 
 * The colour that you selected is not available for some specific product. You can either delete the product from the BoM Template by clicking the trash bin at the end of the line and adding a new line with the right product if nesscesary.
 
 <figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
-```
-Or select an other colour on the BoM Configuration.
-Or Go to the product to add the colour if it’s existing. Example for Foot stach 2.0
-Foot
-```
+{% hint style="info" %}
+Or select an other colour on the BoM Configuration. Or Go to the product to add the colour if it’s existing. Example for Foot stach 2.0 Foot
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
-```
+
+
+{% hint style="info" %}
 Add the Variant on the product (on the product itself, not the product Variant)
-```
+{% endhint %}
 
 ### Odoo chat blocking the view.
 

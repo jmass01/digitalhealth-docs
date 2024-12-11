@@ -1,5 +1,7 @@
 # Odoo Apps
 
+## Odoo Apps
+
 ### Create new odoo DB
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # BoM Configuration
 
-### BoM Configuration
+## BoM Configuration
 
 ### Creating the BoM Configuration
 

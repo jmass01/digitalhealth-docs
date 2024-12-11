@@ -1,20 +1,20 @@
 # MRP Process
 
-### MRP Process
+## MRP Process
 
 MRP Template
 
-Pre-Configured Template (WIP)
+### Pre-Configured Template (WIP)
 
 By default, there is 31 Configuration templates.
 
 Each template needs to be modified and approved by the user to be selectable on a BoM request.
 
-Pre-Configured product (WIP)
+### Pre-Configured product (WIP)
 
 By default, there is 179 pre-configured product.
 
-How to create a new BoM Configuration Template
+### How to create a new BoM Configuration Template
 
 To configure a Bill of Materials (BoM) in the Odoo Manufacturing module, start by navigating to "Settings" > "BoM Config Template". Click on "Create" to begin the process.
 

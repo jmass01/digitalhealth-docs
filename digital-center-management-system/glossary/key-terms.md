@@ -4,6 +4,8 @@ description: Define important terms and jargon specific to the solution.
 
 # Key terms
 
+## Key terms
+
 ### _DCMS_&#x20;
 
 Digital Center Management System

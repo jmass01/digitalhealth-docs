@@ -20,14 +20,9 @@ Lot number
 
 <figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
-```
-Product categories
-Product categories play a crucial role in organizing and
-managing inventory effectively.
-Product categories help determine how inventory is valued.
-Each category can be assigned a specific valuation method
-such as Standard Price or FIFO (First In, First Out),
-```
+{% hint style="info" %}
+Product categories Product categories play a crucial role in organizing and managing inventory effectively. Product categories help determine how inventory is valued. Each category can be assigned a specific valuation method such as Standard Price or FIFO (First In, First Out),
+{% endhint %}
 
 impacting how the cost of goods sold (COGS) and inventory valuation are calculated.
 
@@ -98,22 +93,13 @@ In Odoo, the cost method for inventory valuation is managed at the Product categ
 3. Standard Price: o Standard Price uses a fixed cost per unit for a product, regardless of the actual cost of purchasing or manufacturing it. This method simplifies accounting and cost calculation, as it assumes a constant cost per unit for all transactions until the standard cost is updated.
 4. Average Cost (AVCO - Average Cost or Weighted Average Cost):
 
-```
-o AVCO calculates the cost of goods sold and the value of ending inventory by
-averaging the costs of all units available for sale or use during the period. This
-method smooths out cost fluctuations and is suitable for businesses that want a
-stable and predictable cost base.
-```
+{% hint style="info" %}
+o AVCO calculates the cost of goods sold and the value of ending inventory by averaging the costs of all units available for sale or use during the period. This method smooths out cost fluctuations and is suitable for businesses that want a stable and predictable cost base.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 Check the Inventory Valuation (WIP)
-
-###
-
-
-
-
 
 The repaired is now done and the stock was updated.
 
@@ -123,9 +109,9 @@ Qc control
 
 When the repair had been ended if the QC (quality control) is enabled. It will create a quality check to this reparation. By default the step that need to be check is hardcoded to be :
 
-```
+{% hint style="info" %}
 Alignment is correct in all three planes (frontal, sagittal and transversal)
-```
+{% endhint %}
 
 * All screws and fixtures are secure
 * Device has no sharp edges and is comfortable to wear

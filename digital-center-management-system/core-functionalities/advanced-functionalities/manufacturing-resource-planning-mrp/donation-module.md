@@ -1,6 +1,6 @@
 # Donation Module
 
-### Setting up a Sponsor.
+## Setting up a Sponsor.
 
 Go to the Module “Donation”, if it’s the first setup of Donation, the user need to go to “Configuration” > “Sponsor Agreements” then create a new sponsor agreements
 
@@ -29,7 +29,6 @@ There is multiple way to apply the rules.
 * By product variant, only expense for a very specific product variant( By example sponring only left side ) Find a better example
 * By product categ, only expense with the product categories selected will be invoiced to the sponsor
 * By SU, If a center is using to do 1v1 sponsoring
-*
 
 Type of amount can be percentage or fixed amount
 

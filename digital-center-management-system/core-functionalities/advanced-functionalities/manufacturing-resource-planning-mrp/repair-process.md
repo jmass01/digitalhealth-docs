@@ -1,6 +1,6 @@
 # Repair process
 
-### Repair process
+## Repair process
 
 Get the product to repair (TRM)
 
@@ -90,11 +90,11 @@ The repaired is now done and the stock was updated.
 
 Qc control
 
-When the repair had been ended if the QC (quality control) is enabled. It will create a quality check to this reparation. By default the step that need to be check is hardcoded to be :
+When the repair had been ended if the QC (quality control) is enabled. It will create a quality check to this reparation. By default the step that need to be check is hardcoded to be&#x20;
 
-```
+{% hint style="info" %}
 Alignment is correct in all three planes (frontal, sagittal and transversal)
-```
+{% endhint %}
 
 * All screws and fixtures are secure
 * Device has no sharp edges and is comfortable to wear

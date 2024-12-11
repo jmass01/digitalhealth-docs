@@ -1,6 +1,6 @@
 # PRP Forms & Attachment
 
-### PRP programme forms
+## PRP programme forms
 
 To access the PRP form you need to go to the “PRP form dashboard”
 
@@ -24,7 +24,7 @@ For example, if trying to document Assessment Outcome and Goal Setting when serv
 
 <figure><img src="../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
-**For Service delivery,**
+### **For Service delivery,**
 
 The following forms have to be filled in, validate and save. The forms in Bold are mandatory to support
 
@@ -52,7 +52,7 @@ Remark 2: Decision initial Assessment Outcome and Goal setting.
 3. Refer to additional examination – No change in workflow status. Decision can be changed when HSU comes back with result. Document referral form
 4. Not eligible for services – Episode of service closed
 
-**- For Follow up**
+### **- For Follow up**
 
 * **Initial Decision After Registration – Decision MIA** – Receptionist
 * **Service Follow up Assessment** – Follow up in charge
@@ -68,7 +68,7 @@ Remark 2: Decision initial Assessment Outcome and Goal setting.
 
 <figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Adding attachments
+### Adding attachments
 
 1. On the PRP dashboard, click on the icon next to _‘Attachments’_.
 2. To select a file: a. click and drag the file from your computer to the ‘ _File_ ’ area or b. click anywhere in the ‘ _File’_ area. This will redirect to your computer’s file storage system. Navigate to the desired file and click ‘ _Open’_ ; c. enter a file name in the ‘ _Caption’_ text box.
@@ -107,10 +107,6 @@ Exception to the “validated by rule”: Financing Decision ( Editing ):
 **Exception to the “validated by rule”: Technical cards**
 
 * Date below the validated \* stay **Editable** even after form validated and saved
-
-```
-```
-
 * Date picker: Allow to document dates in a form but is not recorded as the encounter date (the day the form was done)
 
 For example, on the technical cards:

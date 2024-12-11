@@ -4,9 +4,9 @@ For the one who knew Odoo V1, there is no more “Dormitory module”.
 
 All the admission is done via the SU Module now.
 
-**First Configuration.**
+## **First Configuration.**
 
-**Create Caregiver :**
+### **Create Caregiver :**
 
 On the SU form there is a Checkbox “Has a caregiver”, If this is checked a new Tabs will appear “Caregiver(s)”
 
@@ -16,7 +16,7 @@ We will need the Name and gender of this caregiver, You can put the relationship
 
 <figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
-**Create Admission :**
+### **Create Admission :**
 
 Either from the SU form or on the Admission list we can create an Admission
 

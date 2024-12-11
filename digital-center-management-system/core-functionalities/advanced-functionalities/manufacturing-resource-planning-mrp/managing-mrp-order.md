@@ -1,5 +1,7 @@
 # Managing MRP Order
 
+## Managing MRP Order
+
 ### Create the MRP Order
 
 Once you have finalized the components to be consumed and defined the operations in the BoM configuration, you can proceed to create a Manufacturing Order by clicking the "Create MRP Order" button located on the top ribbon.
@@ -61,13 +63,9 @@ There are multiple ways to progress this order:
 
 <figure><img src="../../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
-```
-Once the quantities are correctly populated, click on "Validate". After
-validation, the system will ask if you want to create a backorder for any
-remaining products not yet delivered. If you want to deliver or pick up these
-components later, create a backorder. If you do not want to deliver the
-remaining products, select “No backorder”.
-```
+{% hint style="info" %}
+Once the quantities are correctly populated, click on "Validate". After validation, the system will ask if you want to create a backorder for any remaining products not yet delivered. If you want to deliver or pick up these components later, create a backorder. If you do not want to deliver the remaining products, select “No backorder”.
+{% endhint %}
 
 This step is mostly the same for Every stock move, only the Stock location / Destination change.
 
@@ -137,10 +135,9 @@ To validate a Manufacturing Order (MO), click on the “Mark Done” button. Sev
 
 <figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
-```
-To assign a Lot/serial number, return to the MO, create a new Lot manually or
-click the + button to add the serial number, and re-validate the record.
-```
+{% hint style="info" %}
+To assign a Lot/serial number, return to the MO, create a new Lot manually or click the + button to add the serial number, and re-validate the record.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 

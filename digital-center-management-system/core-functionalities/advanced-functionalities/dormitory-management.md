@@ -1,6 +1,6 @@
 # Dormitory Management
 
-#### Dormitory Management
+## Dormitory Management
 
 **1.** Go to the relevant SU page.&#x20;
 
@@ -28,16 +28,17 @@
 
 **Note**
 
+{% hint style="info" %}
 ```
 If there is an overlapping such as not enough beds in ward go to "Manage
 Overlapping".
 ```
+{% endhint %}
 
 **Advice**
 
-```
-Go to Facility Management on the header of the page for all information related
-to your facilities.
-```
+{% hint style="info" %}
+Go to Facility Management on the header of the page for all information related to your facilities.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
