@@ -23,19 +23,19 @@ In the "Approval status" dashboard, there are 3 rows, one for each data set:
 
 The table indicates the number of reports to validate per Organisation Unit and time period, how many are draft, already approved or not started:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 The graph gives an overview of the status of reports:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the three-dot button to view the table in fullscreen mode.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 From the example provided, as a Country Editor I know there is one report dated January 2022 to approve in FA Services data set. The Organisation Unit is Borno NRCS office.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before approving data it is strongly recommended to open an additional DHIS2 tab in Chrome on the app “Data approval” This way you keep the two tabs open: Dashboard and Data approval.
 
@@ -55,19 +55,19 @@ This can be suffixed by “FAPHEC” but it can also be a hospital, a health cen
 
 It is at this level that you select the Organisation Unit in the Data Approval app and you approve the monthly reports.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 4: APPROVE REPORT
 
 If data and information provided are reliable and ready to get approved, click on “Approve”.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 5: UNAPPROVE REPORT
 
 You may want to unapprove a report. Click on “Unapprove”.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -75,12 +75,12 @@ You may want to unapprove a report. Click on “Unapprove”.
 
 In order to know the author of the report and take contact with, it is necessary to search the email address. Open a new tab and click on “Data Entry”.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 Once in Data Entry, select the Organisation Unit, the data set as well as the period of the report that you unapproved. At the bottom of the report you find the name of the person who completed the report.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note: When you apply changes, it may take a few hours to refresh and get the status report change in Dashboard.

@@ -4,17 +4,17 @@
 
 ### **Step1 : CLICK ON THE APPLICATION MENU AND SELECT REPORTS**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: SELECT 'DATA SET REPORT'
 
 
 
-<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: SELECT WHICH ORGANIZATION UNIT YOU NEED
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4: SELECT WHICH DATA SET  AND SELECT GO CODE IF APPLICABLE
 
