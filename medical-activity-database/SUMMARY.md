@@ -43,6 +43,7 @@
   * [Capture](core-functionalities/advanced-functionalities/capture/README.md)
     * [Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)](core-functionalities/advanced-functionalities/capture/capture-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
     * [Capture Health in Detention (HiD)](core-functionalities/advanced-functionalities/capture/capture-health-in-detention-hid.md)
+* [Clear Cache](core-functionalities/clear-cache.md)
 
 ## Tips and Best Practices
 
