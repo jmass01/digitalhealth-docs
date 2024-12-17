@@ -10,7 +10,7 @@ You may now want to save the file. Click on “File” on the top bar, and then 
 
 The image here below provides an example. You give a name to your report (for instance: \[FA] Structures 2022.) and a description if you wish. Click on “Save” once finished. Your report and its format will be always available to you.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### b. Finding a dashboard item
 

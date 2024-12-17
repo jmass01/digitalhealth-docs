@@ -8,7 +8,7 @@ The Data Entry application is used to manually enter routine data on MHPSS activ
 
 Concerning the data sets that are relevant to MHPSS, the table here below provides a list of them and, for each one, the specific level at which they are found in DHIS2 Organisation Unit hierarchy and the periodicity for each of them.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 1: SELECT ORGANISATION UNIT (OU)
 
@@ -16,25 +16,25 @@ There are two possible ways to find and select your Organisation Unit:
 
 1. Find the name of the Organisation Unit that you would like to enter data for on the drop-down tree menu. Lower levels will be displayed when you click on the "+" sign next to each Organisation Unit, which turns "-" once clicked. Concerning MHPSS, let’s find and select _Aarsal Alrahma Hospital - \[MHPSS]._ Click on your Organisation Unit on the menu to highlight it orange. This will enter the 'Organisation Unit' in the respective field of your data entry form.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Another quick way to find an Organisation Unit is to use the search box next to the green symbol with the lens above the tree menu. Type in the name or first few letters of your Organisation Unit and select it from the drop-down menu by clicking on it to highlight it orange. This will enter the unit in the Organisation Unit field of your data entry form.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 2: SELECT DATA SET, TIME PERIOD AND RELEVANT GO
 
 In this step, select your data set, the time period and the GO code, as well as the target group relevant to your activity. You can also toggle between years, moving a year forward or backward using the 'Prev year' and 'Next year' buttons next to the period entry field.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 3: ENTER DATA IN THE FORM
 
 Start entering data by clicking inside the white cells and typing values in manually. Click on check boxes if any.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Most indicators showcase an explanation of their function. If you click on an indicator, a popup window displays its description.
 
@@ -57,11 +57,11 @@ Note: Your browser may sometimes suggest values that are not built into the DHIS
 
 A 'Run validation' button is available in each tab. It applies to the entire form not just to the screen that is open. Click 'Run validation' once completed ALL tabs contained in the data set.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 “Run validation” checks for completeness of mandatory fields first and for other rules as a second step. It is important to run a validation check to make sure your data is logical and valid, based on rules built into each form. This step ensures that the data you have entered is accurate.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 If all data is accurate, a validation result
@@ -83,13 +83,13 @@ If the validation test detects errors on the form, a validation result message d
 
 Click on the cells that have invalid data, remove the incorrect value and retype or reselect the correct value. The new value should meet the requirements of the validation rule shown on the validation test message.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 6: SUBMIT DATA FOR APPROVAL
 
 Once all fields filled and data verified, don’t forget to complete the form! By clicking on the “complete” button, you are confirming that the data has been entered and verified by yourself as Field User.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Once completed, a
@@ -104,4 +104,4 @@ proceed with the data approval.
 
 However, in case some corrections need to be made after completing the form, click on “incomplete” and make corrections. Then, click on “complete” again so that the Country Editor knows that it is ready for approval.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>

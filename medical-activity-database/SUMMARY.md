@@ -32,14 +32,17 @@
   * [Data Entry - First Aid & Pre-Hospital Emergency care (FA\&PHEC)](core-functionalities/creating-a-new-record-entry/data-entry-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
   * [Data Entry Health in Detention (HID)](core-functionalities/creating-a-new-record-entry/data-entry-health-in-detention-hid.md)
   * [Data entry Mental health and Psychosocial support (MHPSS)](core-functionalities/creating-a-new-record-entry/data-entry-mental-health-and-psychosocial-support-mhpss.md)
-* [Performing Core Actions](core-functionalities/performing-core-actions/README.md)
-  * [Data Approval - Country Editor](core-functionalities/performing-core-actions/data-approval-country-editor/README.md)
-    * [DATA APPROVAL  Physical Rehabilitation  Program (PRP) -an example](core-functionalities/performing-core-actions/data-approval-country-editor/data-approval-physical-rehabilitation-program-prp-an-example.md)
-    * [DATA APPROVAL  Physical Health Care (PHC) - an example](core-functionalities/performing-core-actions/data-approval-country-editor/data-approval-physical-health-care-phc-an-example.md)
-    * [DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) -an example](core-functionalities/performing-core-actions/data-approval-country-editor/data-approval-first-aid-and-pre-hospital-emergency-care-fa-and-phec-an-example.md)
+* [Performing Core Actions- Country Editor](core-functionalities/performing-core-actions-country-editor/README.md)
+  * [Data Approval - Country Editor](core-functionalities/performing-core-actions-country-editor/data-approval-country-editor/README.md)
+    * [DATA APPROVAL  Physical Rehabilitation  Program (PRP) -an example](core-functionalities/performing-core-actions-country-editor/data-approval-country-editor/data-approval-physical-rehabilitation-program-prp-an-example.md)
+    * [DATA APPROVAL  Physical Health Care (PHC) - an example](core-functionalities/performing-core-actions-country-editor/data-approval-country-editor/data-approval-physical-health-care-phc-an-example.md)
+    * [DATA APPROVAL First Aid & Pre-Hospital Emergency Care (FA\&PHEC) -an example](core-functionalities/performing-core-actions-country-editor/data-approval-country-editor/data-approval-first-aid-and-pre-hospital-emergency-care-fa-and-phec-an-example.md)
+    * [DATA APPROVAL Health in Detention -Capture](core-functionalities/performing-core-actions-country-editor/data-approval-country-editor/data-approval-health-in-detention-capture.md)
 * [Advanced Functionalities](core-functionalities/advanced-functionalities/README.md)
-  * [Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)](core-functionalities/advanced-functionalities/capture-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
   * [Create Maps](core-functionalities/advanced-functionalities/create-maps.md)
+  * [Capture](core-functionalities/advanced-functionalities/capture/README.md)
+    * [Capture First Aid & Pre-Hospital Emergency Care (FA & PHEC)](core-functionalities/advanced-functionalities/capture/capture-first-aid-and-pre-hospital-emergency-care-fa-and-phec.md)
+    * [Capture Health in Detention (HiD)](core-functionalities/advanced-functionalities/capture/capture-health-in-detention-hid.md)
 
 ## Tips and Best Practices
 
