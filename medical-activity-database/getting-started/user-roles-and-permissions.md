@@ -8,11 +8,9 @@
 
 To verify if the user is field user, click on user menu
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Then click on the 'Account' link
-
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 Click on the full profile tab, and verify in user roles it has 'Data Entry'
 

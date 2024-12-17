@@ -15,7 +15,7 @@ The Data Entry application is used to manually enter routine data on PRP service
 
 Data approval starts from the Dashboards in order to know what is pending approval. There is 1 dashboard called “Approval status/PRP” dedicated to the status of reports. It can be used by country editors in order to see what needs to be approved. Open the Dashboard application in a separate tab. You will get the following screen:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Approval status / PRP" dashboard, there is 1 row per data set that is subject to approval. For Monthly Reports, the selection of the data set depends on the existence of dormitory in the PRC AND the use of DCMS by the PRC. One data set only will be relevant for each PRC PRP PRC Monthly report PRP PRC Monthly report with dormitory PRP PRC Monthly report from DCMS PRP PRC Monthly
 
@@ -35,7 +35,7 @@ A table and a graph are provided.&#x20;
 
 In order to know which report is pending approval you need to check the table
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>The table indicates the number of reports to validate per Organisation Unit and time period: how many are “draft”, “to validate” and already “approved”</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The table indicates the number of reports to validate per Organisation Unit and time period: how many are “draft”, “to validate” and already “approved”</p></figcaption></figure>
 
 The graph gives an overview of the status of reports
 

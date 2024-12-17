@@ -11,7 +11,7 @@ Here the Application view for Field User\
 \
 \
 Here is the view for Country Editor:\
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)\
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)\
 
 
 Here are some informations regarding these applications:

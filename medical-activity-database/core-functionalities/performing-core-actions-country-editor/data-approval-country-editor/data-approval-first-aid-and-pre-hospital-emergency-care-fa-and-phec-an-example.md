@@ -13,7 +13,7 @@ description: >-
 
 &#x20;There is a data approval process linked to aggregated data (monthly and quarterly reports/data sets) and a different data approval process linked to events data (trainings, ICRC visits, immunization campaigns and psychosocial activities). In both cases, data approval starts from the Dashboards in order to know what is pending approval. There are 2 dashboards dedicated to the status of reports used by country editors in order to see what needs to be approved: One refers to the aggregated data sets contained on the Data Entry application and is called “Approval status”. The other one refers to events and is called “FA\&PHEC Event approval”. Open the Dashboard application in a separate tab. You will get the following screen:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Approval status" dashboard, there are 3 rows, one for each data set:
 

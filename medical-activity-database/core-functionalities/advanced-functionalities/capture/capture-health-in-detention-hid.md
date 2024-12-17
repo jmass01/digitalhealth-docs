@@ -21,7 +21,7 @@ Service Delivery Point - [HID]
 
 In the 'Program' section find the name of your program in the drop-down list of data collection forms. Programs may be filtered according to the Organisation Unit you refer to - not all programs/forms are available at every Organisation Unit. Click on your program to add it to your data collection form.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Note: At this point, you may see a 'Registered events' summary table. This table and its functionality will be discussed later in this tutorial._
 
