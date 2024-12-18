@@ -24,7 +24,7 @@
 
 ## Troubleshooting and FAQ
 
-* [Common Issues and FAQ](troubleshooting-and-faq/common-issues-and-faq.md)
+* [Common Issues and FAQ](troubleshooting-and-faq/common-issues.md)
 
 ## Glossary
 

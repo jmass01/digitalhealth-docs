@@ -1,4 +1,4 @@
-# Common Issues
+# Common Issues and FAQ
 
 Issue: I seem to be in the session, but I cannot connect to the call.
 
