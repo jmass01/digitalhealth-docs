@@ -1,6 +1,6 @@
 # Main functional areas
 
-## Features in work-flow:&#x20;
+## Features in a health use-case work-flow:&#x20;
 
 * Scheduling call requests (planned with patient or expert)&#x20;
 * Call centre approach for experts to answer call from queues (unplanned)&#x20;
