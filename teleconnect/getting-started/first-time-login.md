@@ -1,7 +1,6 @@
 # First Time Login
 
-Guide users on how to log in for the first time and set up their account.
+How to log in for the first time:
 
-_Example_:&#x20;
+You should have received an email confirming your ICRC user credentials. Follow any instructions in that email.
 
-"Log in using the credentials provided by the IT department. Upon the first login, you will be prompted to change your password."
