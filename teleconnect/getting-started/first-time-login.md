@@ -1,6 +1,8 @@
 # First Time Login
 
-Normally the TeleConnect website should adapt to the browser language of the user. If that language is not available in TeleConnect, English is the default language.
+Normally the TeleConnect website should adapt to the browser language of the user. If not, select your language from the drop-down list.
+
+English is the default language in case your language is not included.
 
 The URL to access TeleConnect may be different according to your role:
 
