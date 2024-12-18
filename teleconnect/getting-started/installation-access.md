@@ -1,7 +1,7 @@
 ---
 description: >-
   A request can be made through Service now to have access to TeleConnect or the
-  focal point for the implementation. The TeleConnect product owner in Geneva
+  focal point for the implementation . The TeleConnect product owner in Geneva
   will contact you to discuss your deployment.
 ---
 
