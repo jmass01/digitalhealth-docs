@@ -6,11 +6,11 @@ A new tool is now available for use transversally: TeleConnect . This tool provi
 
 ## Purpose of the guide
 
-
+This guide should enable the use of TeleConnect, showing users how to use its main features.
 
 ## Target audience
 
-
+TeleConnect can be used to support confidential communications across any ICRC métier and any ICRC or national society-supported service or facility. This guide is aimed at any internal or external user of TeleConnect, including health workers, beneficiaries, protection delegates and national society colleagues.
 
 ## Key Features
 
