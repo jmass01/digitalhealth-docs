@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [System requirements](getting-started/system-requirements.md)
-* [Installation / Access](getting-started/installation-access.md)
+* [Connectivity requirements](getting-started/connectivity-requirements.md)
+* [Accessing and deploying TeleConnect](getting-started/accessing-and-deploying-teleconnect.md)
 * [First Time Login](getting-started/first-time-login.md)
 * [User Roles and Permissions](getting-started/user-roles-and-permissions.md)
 
