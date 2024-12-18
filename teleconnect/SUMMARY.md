@@ -11,8 +11,8 @@
 
 ## Navigation and Interface Overview
 
-* [Main interface](navigation-and-interface-overview/main-interface/README.md)
-  * [1.1 Teleconnect session As a Requester](navigation-and-interface-overview/main-interface/1.1-teleconnect-session-as-a-requester.md)
+* [Main interface](navigation-and-interface-overview/main-interface.md)
+  * [1.1 Teleconnect session As a Scheduler](navigation-and-interface-overview/main-interface/1.1-teleconnect-session-as-a-scheduler.md)
   * [1.2 Teleconnect session As a Service user](navigation-and-interface-overview/main-interface/1.2-teleconnect-session-as-a-service-user.md)
   * [2.1 Teleconnect in health As a TeleExpertise requester](navigation-and-interface-overview/main-interface/2.1-teleconnect-in-health-as-a-teleexpertise-requester.md)
   * [2.2 Teleconnect in health As an Expert doctor](navigation-and-interface-overview/main-interface/2.2-teleconnect-in-health-as-an-expert-doctor.md)

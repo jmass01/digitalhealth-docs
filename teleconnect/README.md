@@ -2,7 +2,9 @@
 
 ## Overview
 
-A new tool is now available for use transversally: TeleConnect . This tool provides a confidential and secure communication channel that can be used in many cases, e.g., connecting missing persons, for telemedicine or for other confidential communications. Through TeleConnect you can manage sessions with beneficiaries , as well as requestan expert's advice when necessary, or connect to colleagues to discuss a benefi ciary case for example. Compared to some tools that you might be using today in emergency contexts (Signal, WhatsApp, etc.), TeleConnect provides a better protection for sensitive data.
+A new tool is now available for use transversally: TeleConnect .&#x20;
+
+This tool provides a confidential and secure communication channel that can be used in many cases, e.g., connecting missing persons, for telemedicine or for other confidential communications. Through TeleConnect you can manage sessions with beneficiaries , as well as request an expert's advice when necessary, or connect to colleagues to discuss a benefi ciary case for example. Compared to some tools that you might be using today in emergency contexts (Signal, WhatsApp, etc.), TeleConnect provides a better protection for sensitive data.
 
 ## Purpose of the guide
 
