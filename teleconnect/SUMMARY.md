@@ -18,12 +18,6 @@
   * [2.2 Teleconnect in health As an Expert doctor](navigation-and-interface-overview/main-interface/2.2-teleconnect-in-health-as-an-expert-doctor.md)
 * [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
 
-## Core Functionalities
-
-* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry.md)
-* [Performing Core Actions](core-functionalities/performing-core-actions.md)
-* [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
-
 ## Tips and Best Practices
 
 * [Usage tips](tips-and-best-practices/usage-tips.md)
