@@ -4,7 +4,7 @@
 
 ### INTRODUCTION
 
-The Data Entry application is used to manually enter routine data on MHPSS activities\*\*.\*\*
+The Data Entry application is used to manually enter routine data on MHPSS activities
 
 Concerning the data sets that are relevant to MHPSS, the table here below provides a list of them and, for each one, the specific level at which they are found in DHIS2 Organisation Unit hierarchy and the periodicity for each of them.
 

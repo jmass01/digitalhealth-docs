@@ -1,5 +1,7 @@
 # Capture Health in Detention (HiD)
 
+## Capture Health in Detention (HiD)
+
 The Capture application is used to enter data on HiD meetings/visits. For instance, during one month several visits can take place. Each of them will be recorded in the Capture app as an individual event.
 
 ```
@@ -84,9 +86,9 @@ Both options save the current form to DHIS2, whether it has been completed or no
 
 ### STEP 6: VIEW AND FORMAT SUMMARY TABLE
 
-```
+{% hint style="info" %}
 You can select which data columns you want to see on the table by clicking on the cog icon (1)
-```
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

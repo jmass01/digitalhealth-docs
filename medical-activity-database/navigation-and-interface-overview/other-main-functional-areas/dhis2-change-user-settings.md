@@ -2,7 +2,7 @@
 
 ## DHIS 2 : Change user settings
 
-Access the platform link:https://dhis 2 .uat.icrc.org/dhis/dhis-web-dashboard/ Sign- in with your Microsoft account.
+Access the platform link: [_https://dhis2.uat.icrc.org/dhis/dhis-web-dashboard/_](https://dhis2.uat.icrc.org/dhis/dhis-web-dashboard/) Sign- in with your Microsoft account.
 
 <figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
