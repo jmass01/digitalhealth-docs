@@ -21,12 +21,16 @@
   * [Digital Health and Data Policy Compliance](1.-assess-and-analyse/assess-the-enabling-environment/digital-health-and-data-policy-compliance.md)
   * [Infrastructure Needs](1.-assess-and-analyse/assess-the-enabling-environment/infrastructure-needs.md)
   * [Sustainability considerations](1.-assess-and-analyse/assess-the-enabling-environment/sustainability-considerations.md)
-* [Organizational and Change Management needs](1.-assess-and-analyse/organizational-and-change-management-needs/README.md)
-  * [Stakeholder Engagement](1.-assess-and-analyse/organizational-and-change-management-needs/stakeholder-engagement.md)
-  * [User Capacity and Competency](1.-assess-and-analyse/organizational-and-change-management-needs/user-capacity-and-competency.md)
-  * [Fit within the current system](1.-assess-and-analyse/organizational-and-change-management-needs/fit-within-the-current-system.md)
-  * [User acceptance and adoption](1.-assess-and-analyse/organizational-and-change-management-needs/user-acceptance-and-adoption.md)
-  * [Risk Assessment](1.-assess-and-analyse/organizational-and-change-management-needs/risk-assessment.md)
+  * [Pharmacy stock management](1.-assess-and-analyse/assess-the-enabling-environment/pharmacy-stock-management.md)
+
+***
+
+* [Organizational and Change Management needs](organizational-and-change-management-needs/README.md)
+  * [Stakeholder Engagement](organizational-and-change-management-needs/stakeholder-engagement.md)
+  * [User Capacity and Competency](organizational-and-change-management-needs/user-capacity-and-competency.md)
+  * [Fit within the current system](organizational-and-change-management-needs/fit-within-the-current-system.md)
+  * [User acceptance and adoption](organizational-and-change-management-needs/user-acceptance-and-adoption.md)
+  * [Risk Assessment](organizational-and-change-management-needs/risk-assessment.md)
 
 ## 2. Formulate Objectives and Plan Activities
 
