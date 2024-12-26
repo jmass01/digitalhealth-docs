@@ -9,7 +9,7 @@ Select the facility that you have been given access to. Click on the yellow circ
 
 **Note**
 
-{% hint style="info" %}
+{% hint style="success" %}
 You will be able to see only the locations that are assigned to you. Locations are either a facility/place of consultation or an area (i.e. district, area covered by a delegation or sub-delegation). If you only have access to one location, you will automatically be redirected to the main page.
 {% endhint %}
 
@@ -19,7 +19,7 @@ You will be able to see only the locations that are assigned to you. Locations a
 
 **Warning**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Please make sure to select the location where the consultation took place (or reporting level/venue, depending on the reporting procedure being followed).
 {% endhint %}
 

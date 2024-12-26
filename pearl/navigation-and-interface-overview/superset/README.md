@@ -24,12 +24,12 @@ Link to Superset dashboard: [MHPSS Dashboard (icrc.org)](https://pearl-dashboard
 
 Important Links:
 
-4 . https://superset.apache.org/&#x20;
+4 . [https://superset.apache.org/ ](https://superset.apache.org/)
 
-5 . https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$0&#x20;
+5 .[ https://icrc.scenari.eu/public/DigitOps/DCMS\_Manual/#$0 ](https://icrc.scenari.eu/public/DigitOps/DCMS_Manual/#$0)
 
-6 . https://pearl-dashboards.ext.icrc.org/superset/dashboard/mhpss/&#x20;
+6 . [https://pearl-dashboards.ext.icrc.org/superset/dashboard/mhpss/ ](https://pearl-dashboards.ext.icrc.org/superset/dashboard/mhpss/)
 
-7 . MHPSS Dashboard (icrc.org)&#x20;
+7 . MHPSS Dashboard ([icrc.org](https://app.gitbook.com/u/xHVpy08y7BUjMMEvCQ2X7fWUxe43))&#x20;
 
-8 . https://pearl-dashboards.ext.icrc.org/superset/dashboard/mhpss/
+8 . [https://pearl-dashboards.ext.icrc.org/superset/dashboard/mhpss/](https://pearl-dashboards.ext.icrc.org/superset/dashboard/mhpss/)

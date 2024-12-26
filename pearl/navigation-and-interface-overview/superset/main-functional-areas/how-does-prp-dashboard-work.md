@@ -35,8 +35,6 @@ Gender \[1:54]
 
 Once you have selected your filters click on «  Apply Filters  » that's found on the bottom left corner of your screen.
 
-
-
 ### **1. 2. OVERVIEW (PLACE AT THE START)**
 
 Step 1&#x20;
@@ -53,13 +51,13 @@ This will be the home page when you click on “Dashboards”. Click on “MHPSS
 
 Step 3&#x20;
 
-Once you click on MHPSS dashboard, you will land on this page and can view data in dierent forms. If you scroll down on the page, you will be able to view more graphs and charts. To apply filters such as a dierent region, country, or facility, click on the arrow under the named row. Once you have applied lters of your choice, click “Apply filters”.
+Once you click on MHPSS dashboard, you will land on this page and can view data in different forms. If you scroll down on the page, you will be able to view more graphs and charts. To apply filters such as a different region, country, or facility, click on the arrow under the named row. Once you have applied lters of your choice, click “Apply filters”.
 
 <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 Step 4&#x20;
 
-To move away from the overview page, you can click on several dierent options from the top row such as Demographic, Clinical data, Distress scales, etc. to view specic versions of data.
+To move away from the overview page, you can click on several different options from the top row such as Demographic, Clinical data, Distress scales, etc. to view specific versions of data.
 
 <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
