@@ -6,7 +6,7 @@ CommentWeb Browser: Google Chrome, Mozilla Firefox, or Microsoft Edge (latest ve
 
 Operating System: is at least windows 10 , MacOS 10. 12 , Android 8. 0 or iOS 12.Comment
 
-RAM: at least 4 GBComment
+RAM: at least 4 GB
 
 CPU: At least modern dual core processorComment
 

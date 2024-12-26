@@ -9,6 +9,3 @@ Superset absorbs all the data coming from OPEN MRS and we can have dashboards on
 \
 Pearl is plugged into superset- It is basically a data visualization tool for open MRS (soon we'll plug DHIS2 in it too)
 
-
-
-Th

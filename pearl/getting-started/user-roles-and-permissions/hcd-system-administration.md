@@ -1,6 +1,6 @@
 # HCD - System Administration
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Some of the actions described in this guide can only be done by users with specific privileges. Should you need additional privileges please refer to the section ‘Updating users privileges’
 {% endhint %}
 

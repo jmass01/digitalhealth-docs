@@ -16,8 +16,14 @@ URL: [https://pearl.ext.icrc.org/openmrs/referenceapplication/login.page](https:
 Old Pearl:\
 URL: [https://old-pearl.uat.icrc.org/openmrs/referenceapplication/login.page](https://old-pearl.uat.icrc.org/openmrs/referenceapplication/login.page)
 
+
+
+**Note**
+
+{% hint style="info" %}
 ```
-Some of the actions described in this guide can only be done by users with specific
-privileges. Should you need additional privileges please refer to the section
-‘Updating users privileges’
+Some of the actions described in this guide can only be done by 
+users with specific
 ```
+{% endhint %}
+

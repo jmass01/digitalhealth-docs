@@ -4,7 +4,7 @@
 
 ⚠ **Advice**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 The Assessment form is built from merging previous Admission form and Baseline form, with the purpose to remove repetitive questionnaires.
 {% endhint %}
 
@@ -22,7 +22,7 @@ in the ICRC Forms page.
 
 ⚠ **Warning**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 The Assessment form contains several categories that include mandatory as well as non-mandatory elds. Make sure you ll all mandatory elds which are identied with an "\*".
 {% endhint %}
 

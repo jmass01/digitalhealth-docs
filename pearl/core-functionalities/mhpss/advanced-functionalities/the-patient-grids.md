@@ -4,7 +4,7 @@
 
 🗩 **Advice**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 A patient grid allows users to create a ltered list to view data for all or specic forms similar to an Excel spreadsheet and to export data to excel (csv or xlsx format). In this way you will be able to follow the evolution of patient data per form as well as download raw data for data analysis. Finally, patients' grids can be shared with colleagues.
 {% endhint %}
 

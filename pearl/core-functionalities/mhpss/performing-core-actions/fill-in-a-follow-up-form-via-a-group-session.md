@@ -4,13 +4,13 @@ FILL-IN A FOLLOW-UP FORM VIA A GROUP SESSION
 
 🗩 **Advice**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Search for "Follow-up form" by applying one of the three following ways: in the top-search bar by typing "Follow-up form". -in the Fast Data Entry landing page containing all forms, by searching it within the list. in the ICRC Forms page by searching it within the list. You are now ready to start a group session.
 {% endhint %}
 
 ⚠ **Warning**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 If you search for "Follow-up form" in the top-search bar, don't forget the hyphen in follow-up as it is an exact match search. The Follow-up form contains several categories that include mandatory as well as non-mandatory elds. Make sure you ll all mandatory elds which are identied with an "\*".
 {% endhint %}
 
