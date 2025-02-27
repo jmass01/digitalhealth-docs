@@ -8,7 +8,7 @@ This tool provides a confidential and secure communication channel that can be u
 
 ## Purpose of the guide
 
-This guide should enable the use of TeleConnect, showing users how to use its main features.
+This guide should enable the use of TeleConnect, showing users how to use it main features.
 
 ## Target audience
 
