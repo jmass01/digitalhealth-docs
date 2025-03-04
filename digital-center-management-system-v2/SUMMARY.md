@@ -10,5 +10,6 @@
 ## 🙆‍♂️ Odoo&#x20;
 
 * [Materials request](odoo/materials-request/README.md)
-  * [How to create a new BoM Configuration Template](odoo/materials-request/how-to-create-a-new-bom-configuration-template.md)
   * [Creating the BoM Configuration](odoo/materials-request/creating-the-bom-configuration.md)
+  * [Create the MRP Order](odoo/materials-request/create-the-mrp-order.md)
+  * [How to create a new BoM Configuration Template](odoo/materials-request/how-to-create-a-new-bom-configuration-template.md)

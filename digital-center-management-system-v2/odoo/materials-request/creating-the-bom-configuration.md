@@ -12,7 +12,7 @@ Begin the creation by selecting the BoM template appropriate for this configurat
 
 Note : To create or approve a BoM Template refer to the Section MRP Template
 
-![](file:///C:/Users/A079902/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+
 
 Next, select the attributes of the prosthesis. Each Template as different attribute to select.
 
