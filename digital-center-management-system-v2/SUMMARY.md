@@ -2,4 +2,13 @@
 
 * [DCMS v2](README.md)
 * [Introduction](introduction.md)
-* [INTRODUCTION](https://app.gitbook.com/o/llCOVrc7ZrWQ6rzyYOmd/s/Dug50W2lRuIIbdNtAZj1/)
+
+## OpenMRS&#x20;
+
+* [Page 1](openmrs/page-1.md)
+
+## 🙆‍♂️ Odoo&#x20;
+
+* [Materials request](odoo/materials-request/README.md)
+  * [How to create a new BoM Configuration Template](odoo/materials-request/how-to-create-a-new-bom-configuration-template.md)
+  * [Creating the BoM Configuration](odoo/materials-request/creating-the-bom-configuration.md)
