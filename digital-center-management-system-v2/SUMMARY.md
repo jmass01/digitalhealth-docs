@@ -2,6 +2,7 @@
 
 * [DCMS v2](README.md)
 * [Introduction](introduction.md)
+* [Acronym](acronym.md)
 
 ## OpenMRS&#x20;
 
@@ -10,7 +11,6 @@
 
 ## 🙆‍♂️ Odoo&#x20;
 
-* [Acronym](odoo/acronym.md)
 * [Service User Management](odoo/service-user-management.md)
 * [Materials request (MRP)](odoo/materials-request-mrp/README.md)
   * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/how-to-create-a-new-bom-configuration-template.md)
@@ -21,3 +21,4 @@
 * [Invoicing](odoo/invoicing.md)
 * [Sponsorship](odoo/sponsorship.md)
 * [Stock Management](odoo/stock-management.md)
+* [Page 2](odoo/page-2.md)
