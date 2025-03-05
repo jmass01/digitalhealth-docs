@@ -40,3 +40,7 @@
   * [OpenMRS](troubleshooting-and-faq/common-issues/openmrs.md)
 * [Known Issues](troubleshooting-and-faq/known-issues.md)
 * [FAQ](troubleshooting-and-faq/faq.md)
+
+## 📖 Appendices
+
+* [Official Odoo Documentation](https://www.odoo.com/documentation/14.0/applications.html)
