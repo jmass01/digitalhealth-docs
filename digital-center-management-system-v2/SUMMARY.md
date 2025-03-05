@@ -6,6 +6,7 @@
 ## OpenMRS&#x20;
 
 * [Page 1](openmrs/page-1.md)
+* [Receptionist](openmrs/receptionist.md)
 
 ## 🙆‍♂️ Odoo&#x20;
 
