@@ -21,6 +21,9 @@
 * [Invoicing](odoo/invoicing.md)
 * [Sponsorship](odoo/sponsorship.md)
 * [Stock Management](odoo/stock-management.md)
+* [HR](odoo/hr/README.md)
+  * [Manage employee](odoo/hr/manage-employee.md)
+  * [Attendance](odoo/hr/attendance.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
