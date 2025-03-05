@@ -2,7 +2,7 @@
 
 * [DCMS v2](README.md)
 * [Introduction](introduction.md)
-* [Acronym](acronym.md)
+* [Acronym](odoo/acronym.md)
 
 ## OpenMRS&#x20;
 
@@ -21,4 +21,15 @@
 * [Invoicing](odoo/invoicing.md)
 * [Sponsorship](odoo/sponsorship.md)
 * [Stock Management](odoo/stock-management.md)
-* [Page 2](odoo/page-2.md)
+
+## 📢 TIPS AND BEST PRACTICE
+
+* [📢 TIPS AND BEST PRACTICE](tips-and-best-practice/tips-and-best-practice.md)
+
+## 🎯 Troubleshooting and FAQ&#x20;
+
+* [Common Issues](troubleshooting-and-faq/common-issues/README.md)
+  * [Odoo](troubleshooting-and-faq/common-issues/odoo.md)
+  * [OpenMRS](troubleshooting-and-faq/common-issues/openmrs.md)
+* [Known Issues](troubleshooting-and-faq/known-issues.md)
+* [FAQ](troubleshooting-and-faq/faq.md)
