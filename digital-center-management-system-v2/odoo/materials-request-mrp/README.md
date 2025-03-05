@@ -1,4 +1,4 @@
-# Materials request
+# Materials request (MRP)
 
 In this section, we will explain the flow of the Manufacturing Resource Planning (MRP) process in Odoo, specifically for handling a service user requests for medical devices such as prostheses, orthotic, crutches, wheelchairs, walking aids or other materials.
 
@@ -29,4 +29,4 @@ MRP Process Flow
 * Go to the service user form.
 * Check for an open delivery and complete the delivery process.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

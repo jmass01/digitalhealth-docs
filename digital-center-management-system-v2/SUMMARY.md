@@ -24,7 +24,7 @@
 
 ## 📢 TIPS AND BEST PRACTICE
 
-* [📢 TIPS AND BEST PRACTICE](tips-and-best-practice/tips-and-best-practice.md)
+* [Usage tips](tips-and-best-practice/usage-tips.md)
 
 ## 🎯 Troubleshooting and FAQ&#x20;
 
