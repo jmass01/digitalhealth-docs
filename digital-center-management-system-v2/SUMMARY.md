@@ -14,6 +14,7 @@
 * [Getting started](odoo/getting-started/README.md)
   * [Accessing Odoo](odoo/getting-started/accessing-odoo.md)
   * [Landing Page Widget](odoo/getting-started/landing-page-widget.md)
+  * [Explanation of the interface (WIP)](odoo/getting-started/explanation-of-the-interface-wip.md)
 * [Service User Management](odoo/service-user-management.md)
 * [Materials request (MRP)](odoo/materials-request-mrp/README.md)
   * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/how-to-create-a-new-bom-configuration-template.md)
