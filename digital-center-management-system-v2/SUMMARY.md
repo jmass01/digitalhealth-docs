@@ -20,14 +20,18 @@
   * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/how-to-create-a-new-bom-configuration-template.md)
   * [Creating the BoM Configuration](odoo/materials-request-mrp/creating-the-bom-configuration.md)
   * [Create the MRP Order](odoo/materials-request-mrp/create-the-mrp-order.md)
-* [Dormitory management](odoo/dormitory-management.md)
+* [Dormitory management](odoo/dormitory-management/README.md)
+  * [Admission Center management](odoo/dormitory-management/admission-center-management.md)
+  * [Create an admission](odoo/dormitory-management/create-an-admission.md)
 * [Repair Process](odoo/repair-process.md)
-* [Invoicing](odoo/invoicing.md)
+* [Invoicing](odoo/invoicing/README.md)
+  * [Managing Open invoice (WIP)](odoo/invoicing/managing-open-invoice-wip.md)
 * [Sponsorship](odoo/sponsorship.md)
 * [Stock Management](odoo/stock-management.md)
 * [HR](odoo/hr/README.md)
   * [Manage employee](odoo/hr/manage-employee.md)
   * [Attendance](odoo/hr/attendance.md)
+* [Hidden information](odoo/hidden-information.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
@@ -40,6 +44,7 @@
   * [OpenMRS](troubleshooting-and-faq/common-issues/openmrs.md)
 * [Known Issues](troubleshooting-and-faq/known-issues.md)
 * [FAQ](troubleshooting-and-faq/faq.md)
+* [Backlog of error and resolution](troubleshooting-and-faq/backlog-of-error-and-resolution.md)
 
 ## 📖 Appendices
 
