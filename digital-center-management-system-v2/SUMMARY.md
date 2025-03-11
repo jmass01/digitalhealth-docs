@@ -23,6 +23,8 @@
 * [Dormitory management](odoo/dormitory-management/README.md)
   * [Admission Center management](odoo/dormitory-management/admission-center-management.md)
   * [Create an admission](odoo/dormitory-management/create-an-admission.md)
+  * [Discharge a Patient](odoo/dormitory-management/discharge-a-patient.md)
+  * [Generate an Expense](odoo/dormitory-management/generate-an-expense.md)
 * [Repair Process](odoo/repair-process.md)
 * [Invoicing](odoo/invoicing/README.md)
   * [Managing Open invoice (WIP)](odoo/invoicing/managing-open-invoice-wip.md)
@@ -31,7 +33,6 @@
 * [HR](odoo/hr/README.md)
   * [Manage employee](odoo/hr/manage-employee.md)
   * [Attendance](odoo/hr/attendance.md)
-* [Hidden information](odoo/hidden-information.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
