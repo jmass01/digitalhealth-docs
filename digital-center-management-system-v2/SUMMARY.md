@@ -1,13 +1,20 @@
 # Table of contents
 
 * [DCMS v2](README.md)
-* [Introduction](introduction.md)
-* [Acronym](odoo/acronym.md)
+* [INTRODUCTION](introduction/README.md)
+  * [What is the DCMS?](introduction/what-is-the-dcms.md)
+  * [Getting Started ](introduction/getting-started.md)
+  * [Acronym](introduction/acronym.md)
 
 ## OpenMRS&#x20;
 
-* [Page 1](openmrs/page-1.md)
-* [Receptionist](openmrs/receptionist.md)
+* [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
+  * [Untitled](openmrs/dcms-openmrs/untitled.md)
+  * [ROLES AND PRIVILEGES](openmrs/dcms-openmrs/roles-and-privileges/README.md)
+    * [Receptionist](openmrs/dcms-openmrs/roles-and-privileges/receptionist.md)
+    * [Untitled](openmrs/dcms-openmrs/roles-and-privileges/untitled.md)
+    * [Page 2](openmrs/dcms-openmrs/roles-and-privileges/page-2.md)
+  * [WORKFLOW](openmrs/dcms-openmrs/workflow.md)
 
 ## 🙆‍♂️ Odoo&#x20;
 
