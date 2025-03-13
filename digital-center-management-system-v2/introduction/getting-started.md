@@ -2,8 +2,12 @@
 
 ### Prerequisites for accessing the system
 
-1. You must have a username and password for the OpenMRS system.
-2. There must be a working Wi-Fi connection (no internet needed but a Wi-Fi coverage).
+1. You must have a username and password for the OpenMRS system.&#x20;
+2. The credential are provided by Belgrade (BSCC), send a request in service now or to service desk by email.
+3. There must be a working Wi-Fi connection (no internet needed but a Wi-Fi coverage).
+4. Your computer or tablet must have a web browser installed (e.g. Edge or Chrome).
+
+<figure><img src="../.gitbook/assets/image (39).png" alt="" width="88"><figcaption><p>Chrome </p></figcaption></figure>
 
 ### Accessing the system
 

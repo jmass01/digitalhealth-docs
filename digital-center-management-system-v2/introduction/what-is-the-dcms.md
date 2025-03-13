@@ -10,9 +10,17 @@ description: Definition
 
 The Digital Centre Management System (DCMS) is a unique solution, developed for the Physical Rehabilitation Program within the Program Humanitarian Impact Investment (PHII), transversely with Pearl, to Support Rehabilitation Centres to function in a more efficient and autonomous way. &#x20;
 
-It consists of two digital tools: an Electronic Medical Record (EMR – “OpenMrs”) and an Enterprise Resource Planning (ERP – “Odoo”) that will improve quality of services and the global Physical Rehabilitation Centre’s management by providing the partners with a sustainable tool they can use independently and will enable them with the technology needed for that purpose. Through the EMR application, you will have an appointment module that enables you to give an appointment to the Health Service users and DCMS users. An additional application has been added recently called the “SuperSet” to optimize the data collection. &#x20;
+It consists of two digital tools: an Electronic Medical Record (EMR – “OpenMrs”) and an Enterprise Resource Planning (ERP – “Odoo”) that will improve quality of services and the global Physical Rehabilitation Centre’s management by providing the partners with a sustainable tool they can use independently and will enable them with the technology needed for that purpose. Through the EMR application, you will have an appointment module that enables you to give an appointment to the Health Service users and the clinicians. An additional application has been added recently called the “SuperSet” to optimize the data collection. &#x20;
 
-DCMS is meant to be used independently by our ICRC partners and PRP centers, as well as by other healthcare departments, as long as the tool answers clinicians requirements.
+DCMS is meant to be used independently by our ICRC partners and Physical Rehabilitation Programmes centers, as well as by other healthcare departments, as long as the tool answers clinicians requirements.
+
+This comprehensive tool based on standardized process and workflow will support the efficiency measure for both clinical and resource management of the centers.
+
+#### Enhanced Information Management for Health Services
+
+The Electronic Medical Record (EMR) system facilitates the collection of information at the point of care. It covers details of Health Service Users (HSU), service delivery methods such as physiotherapy and assistive technology, as well as referrals, assessments, evaluations, follow-ups, and repairs, adhering to international standards like the International Classification of Function.
+
+The Enterprise Resource Planning (ERP) system manages various operational aspects including procurement, manufacturing, invoicing, maintenance, human resources, and dormitory services. Together, both systems enhance the efficiency of PR services through comprehensive and disaggregated data collection.
 
 
 
