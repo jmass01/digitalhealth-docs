@@ -12,7 +12,7 @@
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
   * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows.md)
-  * [HSU Journey & Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows-1.md)
+  * [Untitled](openmrs/dcms-openmrs/untitled.md)
   * [Roles and Privileges](openmrs/dcms-openmrs/roles-and-privileges/README.md)
     * [Page](openmrs/dcms-openmrs/roles-and-privileges/page.md)
     * [Receptionist](openmrs/dcms-openmrs/roles-and-privileges/receptionist.md)

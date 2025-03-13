@@ -1,16 +1,48 @@
 ---
 description: >-
-  The journey of a HSU going to the Physical Rehabilitation Centre and how the
-  DCMS capture the data entry at the point of care.
+  This chapter is about the journey of a HSU in a Physical Rehabilitation Centre
+  and how the DCMS capture the data entry at the point of care.
 ---
 
 # HSU Journey and Workflows
 
 ## The workflow New service
 
-1
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-* [ ] Register the HSU
+Register the HSU or find the HSU file coming to the PRC
+
+* Start the Visit&#x20;
+* Initial Decision after registration
+* Initial Assesment&#x20;
+* Initial outcome and goal setting
+* Basic service plan + clinical consent
+* Financial capacity assessment+ Socioeconomic assessment
+* Any service&#x20;
+* Final assessment&#x20;
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+
 *
 
 
