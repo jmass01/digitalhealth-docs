@@ -11,13 +11,16 @@
 ## OpenMRS&#x20;
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
-  * [HSU Journey & Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows.md)
+  * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows.md)
+  * [HSU Journey & Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows-1.md)
   * [Roles and Privileges](openmrs/dcms-openmrs/roles-and-privileges/README.md)
     * [Page](openmrs/dcms-openmrs/roles-and-privileges/page.md)
     * [Receptionist](openmrs/dcms-openmrs/roles-and-privileges/receptionist.md)
-    * [Untitled](openmrs/dcms-openmrs/roles-and-privileges/untitled.md)
-    * [Page 2](openmrs/dcms-openmrs/roles-and-privileges/page-2.md)
+    * [Interdisciplinary team](openmrs/dcms-openmrs/roles-and-privileges/interdisciplinary-team.md)
+    * [Social Worker](openmrs/dcms-openmrs/roles-and-privileges/social-worker.md)
     * [Page 1](openmrs/dcms-openmrs/roles-and-privileges/page-1.md)
+* [Page 1](openmrs/page-1.md)
+* [Page](openmrs/page.md)
 
 ## 🙆‍♂️ Odoo&#x20;
 

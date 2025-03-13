@@ -5,7 +5,7 @@ icon: face-grin-stars
 
 # DCMS OPENMRS
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>after logging with your password</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption><p>after logging with your password</p></figcaption></figure>
 
 ## Landing page  <a href="#hlk89272319" id="hlk89272319"></a>
 

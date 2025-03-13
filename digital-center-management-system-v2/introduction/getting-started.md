@@ -7,7 +7,7 @@
 3. There must be a working Wi-Fi connection (no internet needed but a Wi-Fi coverage).
 4. Your computer or tablet must have a web browser installed (e.g. Edge or Chrome).
 
-<figure><img src="../.gitbook/assets/image (39).png" alt="" width="88"><figcaption><p>Chrome </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1).png" alt="" width="88"><figcaption><p>Chrome </p></figcaption></figure>
 
 ### Accessing the system
 
