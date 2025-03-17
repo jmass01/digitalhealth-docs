@@ -8,18 +8,33 @@ description: >-
 
 ## The workflow New service
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow" class="gitbook-drawing">
 
 Register the HSU or find the HSU file coming to the PRC
 
-* Start the Visit&#x20;
-* Initial Decision after registration
-* Initial Assesment&#x20;
+* Start the Visit (Open the Episode of service)
+* Initial Decision after registration&#x20;
+* Initial Assessment (+ optional assessment forms)
 * Initial outcome and goal setting
 * Basic service plan + clinical consent
 * Financial capacity assessment+ Socioeconomic assessment
-* Any service&#x20;
-* Final assessment&#x20;
+* Any service (Physiotherapy assessment, technical cards, Wheelchair assessment, Walking aids ect..)
+
+_Optional_&#x20;
+
+{% hint style="info" %}
+option: Intermediate assessment (Adjust service)&#x20;
+
+\+ Basic Service&#x20;
+
+\+ Financial Capacity assessment (Socioeconomic assessment already done)
+
+\+ Financing decision
+
+\+ Service&#x20;
+{% endhint %}
+
+* Final assessment (Automatic closure of Episode of Service)
 
 
 
