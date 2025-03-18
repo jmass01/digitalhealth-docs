@@ -6,7 +6,7 @@ description: >-
 
 # HSU Journey and Workflows
 
-## The workflow New service
+### The workflow New service
 
 <img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow" class="gitbook-drawing">
 
