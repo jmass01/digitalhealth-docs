@@ -8,9 +8,66 @@ description: >-
 
 ### The workflow New service
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow New service " class="gitbook-drawing">
+
+
 
 Register the HSU or find the HSU file coming to the PRC
+
+
+
+{% stepper %}
+{% step %}
+### Start the visit
+
+Initial decision after registration and decision to send for new service (save and validate)
+{% endstep %}
+
+{% step %}
+### Initial Assessment (interdisciplinary team)
+
+* Initial outcome and goal setting
+* Basic service plan + clinical consent
+{% endstep %}
+
+{% step %}
+### Financial capacity assessment
+
+Socioeconomic assessment+ Financing decision
+{% endstep %}
+
+{% step %}
+### Services&#x20;
+
+Technical cards
+
+Physiotherapy assessment
+
+Wheelchair assessment
+
+Walking Aids
+
+Club foot
+
+Cerebral palsy
+
+
+{% endstep %}
+
+{% step %}
+### Intermediate Assessment Outcome and Goal setting
+
+Basic service plan
+
+Financial capacity assessment (Socioeconomic already recorded) and Financing decision&#x20;
+
+
+{% endstep %}
+{% endstepper %}
+
+
+
+
 
 * Start the Visit (Open the Episode of service)
 * Initial Decision after registration&#x20;
@@ -29,16 +86,31 @@ option: Intermediate assessment (Adjust service)&#x20;
 
 \+ Financial Capacity assessment (Socioeconomic assessment already done)
 
-\+ Financing decision
+\+ Financing decision&#x20;
 
 \+ Service&#x20;
 {% endhint %}
 
 * Final assessment (Automatic closure of Episode of Service)
+* Appointment for follow up.
+
+### The Workflow follow up and repair&#x20;
+
+Register the HSU or find the HSU file coming to the PRC
+
+* Start the Visit (Open the Episode of service)
+* Initial Decision after registration&#x20;
+* Service Follow up Assessment&#x20;
+* Financial capacity assessment Follow up + Socioeconomic assessment (if not already recorded)
+* Service Follow up plan (Automatic closure of Episode of Service)
 
 
 
+{% stepper %}
+{% step %}
 
+{% endstep %}
+{% endstepper %}
 
 
 
@@ -72,6 +144,3 @@ option: Intermediate assessment (Adjust service)&#x20;
 
 ## The Workflow Follow up
 
-
-
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
