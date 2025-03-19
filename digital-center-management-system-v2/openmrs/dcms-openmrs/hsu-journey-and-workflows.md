@@ -8,7 +8,9 @@ description: >-
 
 ### The workflow New service
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow New service " class="gitbook-drawing">
+
+
+{% include "../../.gitbook/includes/openmrs-workflow-only-hsu-journey-with-intermediate-assessment.md" %}
 
 
 
@@ -60,6 +62,18 @@ Cerebral palsy
 Basic service plan
 
 Financial capacity assessment (Socioeconomic already recorded) and Financing decision&#x20;
+{% endstep %}
+
+{% step %}
+Service&#x20;
+
+
+
+
+{% endstep %}
+
+{% step %}
+### Final assessment Outcome and goal setting
 
 
 {% endstep %}
@@ -106,13 +120,9 @@ Register the HSU or find the HSU file coming to the PRC
 
 
 
-{% stepper %}
-{% step %}
-
-{% endstep %}
-{% endstepper %}
 
 
+<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
 
 
 

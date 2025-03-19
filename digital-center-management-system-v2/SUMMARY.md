@@ -17,8 +17,8 @@
     * [Receptionist](openmrs/dcms-openmrs/roles-and-privileges/receptionist.md)
     * [Interdisciplinary team](openmrs/dcms-openmrs/roles-and-privileges/interdisciplinary-team.md)
     * [Social Worker](openmrs/dcms-openmrs/roles-and-privileges/social-worker.md)
-    * [Page 1](openmrs/dcms-openmrs/roles-and-privileges/page-1.md)
-* [Page 1](openmrs/page-1.md)
+    * [Clinicians](openmrs/dcms-openmrs/roles-and-privileges/clinicians.md)
+* [HSU registration and search](openmrs/hsu-registration-and-search.md)
 * [Page](openmrs/page.md)
 
 ## 🙆‍♂️ Odoo&#x20;
