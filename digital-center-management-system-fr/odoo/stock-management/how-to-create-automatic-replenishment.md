@@ -1,45 +1,45 @@
-# How to create Automatic replenishment
+# Comment créer un réapprovisionnement automatique
 
-## 🧭 **Context**
+## 🧭 **Contexte**
 
-This flow is used to **automatically generate Purchase Orders** when the stock level of a product drops below a configured threshold. It's commonly used for frequently consumed items, raw materials, or essential stock that must never run out.
+Ce flux est utilisé pour **générer automatiquement des bons de commande** lorsque le niveau de stock d'un produit descend en dessous d'un seuil configuré. Il est couramment utilisé pour les articles consommés fréquemment, les matières premières ou les stocks essentiels qui ne doivent jamais être épuisés.
 
-The system checks **Reordering Rules**, **Routes**, and **Supplier information** to determine when and how to trigger replenishment. This ensures stock continuity without manual tracking.
+Le système vérifie **les règles de réapprovisionnement**, **les routes**, et **les informations sur le fournisseur** pour déterminer quand et comment déclencher le réapprovisionnement. Cela garantit la continuité des stocks sans suivi manuel.
 
-## 🔄 **Replenishment Flow (Step-by-Step)**
+## 🔄 **Flux de réapprovisionnement (étape par étape)**
 
-### **Set a Reordering Rule**
+### **Définir une règle de réapprovisionnement**
 
-* Go to **Inventory > Products > Reordering Rules**.
-* Choose the product and define:
-  * **Minimum Quantity**: When stock falls below this, Odoo will replenish.
-  * **Maximum Quantity**: The system will reorder enough to reach this level.
-  * **Location**: Define where the rule applies (e.g., WH/Stock).
+* Aller à **Inventaire > Produits > Règles de réapprovisionnement**.
+* Choisir le produit et définir :
+  * **Quantité minimale** : Lorsque le stock descend en dessous de ce niveau, Odoo réapprovisionnera.
+  * **Quantité maximale** : Le système commandera suffisamment pour atteindre ce niveau.
+  * **Emplacement** : Définir où la règle s'applique (par ex., WH/Stock).
 
-### **Ensure Vendor Information is Set**
+### **S'assurer que les informations fournisseur sont définies**
 
-* Open the **Product** form.
-* Under the **Purchase** tab, add at least one **Vendor**, with pricing and delivery lead time.
-* The vendor must match the company and be marked as a supplier.
+* Ouvrir le **fichier produit** .
+* Sous l'onglet **Achat** , ajoutez au moins un **Fournisseur**, avec prix et délai de livraison.
+* Le fournisseur doit correspondre à l'entreprise et être marqué comme fournisseur.
 
-### **Check Routes & Procurement Method**
+### **Vérifier les routes et la méthode d'approvisionnement**
 
-* Product must have a **Buy route** enabled.
-* The **Procurement Method** should be _When stock is needed_ (default behavior).
+* Le produit doit avoir une **route d'achat** activée.
+* La **méthode d'approvisionnement** devrait être _Lorsque le stock est nécessaire_ (comportement par défaut).
 
-### **Trigger Replenishment**
+### **Déclencher le réapprovisionnement**
 
-* Either wait for the **scheduled procurement job** (runs automatically based on settings), or:
-* Manually trigger from:
-  * **Inventory > Operations > Run Replenishment**
-  * Or from the **Product** → "Replenish" button (manual trigger)
+* Soit attendre le **job d'approvisionnement planifié** (s'exécute automatiquement selon les paramètres), ou :
+* Déclencher manuellement depuis :
+  * **Inventaire > Opérations > Exécuter le réapprovisionnement**
+  * Ou depuis le **fichier produit** → bouton « Réapprovisionner » (déclenchement manuel)
 
-### **Review the Draft Purchase Order**
+### **Examiner le bon de commande brouillon**
 
-* Once triggered, Odoo creates a **draft Request for Quotation (RFQ)** with suggested quantities.
-* You can review, adjust, and **confirm** it to create a Purchase Order.
+* Une fois déclenché, Odoo crée une **demande de devis (brouillon)** avec des quantités suggérées.
+* Vous pouvez examiner, ajuster et **confirmer** pour créer un bon de commande.
 
-## 🗺️ Visual Overview&#x20;
+## 🗺️ Vue d'ensemble visuelle&#x20;
 
 {% @mermaid/diagram content="graph LR
     A[Stock Drops Below Min Quantity] --> B[Reordering Rule Triggered]
@@ -50,6 +50,6 @@ The system checks **Reordering Rules**, **Routes**, and **Supplier information**
     F --> G[Stock Replenished]
 " %}
 
-## **What’s Next**
+## **Et ensuite**
 
-After confirming the Purchase Order, follow the regular flow: the supplier ships the goods, you receive them in stock, and then process the vendor bill.
+Après confirmation du bon de commande, suivez le flux habituel : le fournisseur expédie les marchandises, vous les réceptionnez en stock, puis traitez la facture fournisseur.

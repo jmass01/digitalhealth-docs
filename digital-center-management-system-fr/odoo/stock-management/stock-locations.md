@@ -1,17 +1,17 @@
-# Stock locations
+# Emplacements de stock
 
-In many centers, there are typically three primary stock locations:
+Dans de nombreux centres, il existe généralement trois emplacements de stock principaux :
 
-1\.     Daily Usage / Shop
+1\.     Usage quotidien / Boutique
 
-This location serves as the primary stock area where all products are stored for regular use and immediate access. It is the central hub where items are readily available for sale or distribution to customers and staff daily.
+Cet emplacement sert de zone de stock principale où tous les produits sont conservés pour une utilisation régulière et un accès immédiat. C'est le centre où les articles sont facilement disponibles pour la vente ou la distribution aux clients et au personnel au quotidien.
 
-2\.     Workshop location
+2\.     Emplacement de l'atelier
 
-The workshop location is dedicated specifically to manufacturing operations. It houses materials and components needed for production orders. While some centers may not have a physical distinction between the main stock and the workshop, in the system, it is crucial to maintain a separate inventory to accurately track materials used exclusively for manufacturing purposes.
+L'emplacement de l'atelier est dédié spécifiquement aux opérations de fabrication. Il abrite les matériaux et composants nécessaires aux ordres de production. Bien que certains centres puissent ne pas avoir de distinction physique entre le stock principal et l'atelier, il est crucial dans le système de maintenir un inventaire séparé pour suivre avec précision les matériaux utilisés exclusivement à des fins de fabrication.
 
-3\.     Repair location
+3\.     Emplacement de réparation
 
-This stock location is exclusively designated for repair components and products that require servicing. It serves as a specialized area where returned items are assessed, repaired, and prepared for reintegration into inventory or return to customers in optimal condition.
+Cet emplacement de stock est exclusivement destiné aux composants de réparation et aux produits nécessitant un service. Il sert de zone spécialisée où les articles retournés sont évalués, réparés et préparés pour être réintégrés dans l'inventaire ou retournés aux clients en condition optimale.
 
-The names of these locations can vary based on the language used and the specific practices of each center. Additionally, some centers may include additional locations such as dormitories or food storage areas, each serving specific operational needs within the facility.
+Les noms de ces emplacements peuvent varier en fonction de la langue utilisée et des pratiques spécifiques de chaque centre. De plus, certains centres peuvent inclure des emplacements supplémentaires tels que des dortoirs ou des zones de stockage alimentaire, chacun répondant à des besoins opérationnels spécifiques au sein de l'établissement.

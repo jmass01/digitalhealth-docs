@@ -1,2 +1,2 @@
-# Stock Management
+# Gestion de stock
 

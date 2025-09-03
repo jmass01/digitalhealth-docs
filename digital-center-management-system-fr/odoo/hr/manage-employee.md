@@ -1,40 +1,40 @@
-# Manage employee
+# Gérer les employés
 
-## Create/Update an Employee
+## Créer/Mettre à jour un employé
 
-**Go to the Employees Module**: Open the **"Employees"** app from the main dashboard.
+**Aller au module Employés**: Ouvrir le **"Employés"** application depuis le tableau de bord principal.
 
-**If the employee already exist**: Locate the employee you want to update using the search bar or list view.\
-Then click on their profile and press the **"Edit"** button.
+**Si l'employé existe déjà**: Localisez l'employé que vous souhaitez mettre à jour en utilisant la barre de recherche ou la vue en liste.\
+Puis cliquez sur son profil et appuyez sur le **"Modifier"** bouton.
 
-**If not, Click on Create**: Press the **"Create"** button to add a new employee.
+**Sinon, cliquez sur Créer**: Appuyez sur le **"Créer"** bouton pour ajouter un nouvel employé.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F4GL5BRqsMZly749KfbrI%2Fimage.png?alt=media&#x26;token=c10d1c96-5c24-4c6c-b6f9-7f9bbb32f66e" alt=""><figcaption></figcaption></figure>
 
 
 
-1. Name of the Employee
-2. Job position
-3. Some tags, You can create tags for your employee to be able to filter or group them
-4. This part is most important, this will create the organigramme of your center.
+1. Nom de l'employé
+2. Poste
+3. Quelques étiquettes, vous pouvez créer des tags pour votre employé afin de pouvoir le filtrer ou le regrouper
+4. Cette partie est la plus importante, cela créera l'organigramme de votre centre.
 
-On the first tabs, you can find the work address and location, along with the organizational chart based on the "Manager" mentioned above. You'll be able to set the approver for time off requests and select the employee's planning. The correct timezone will be set by default
+Dans les premiers onglets, vous pouvez trouver l'adresse de travail et l'emplacement, ainsi que l'organigramme basé sur le "Manager" mentionné ci‑dessus. Vous pourrez définir le validateur des demandes de congé et sélectionner la planification de l'employé. Le fuseau horaire correct sera défini par défaut
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F296MPS9cMizR0uRi33fQ%2Fimage.png?alt=media&#x26;token=4a27ec21-1754-4dda-b71f-21e58d05c1a3" alt=""><figcaption></figcaption></figure>
 
-On the second tabs, you will found lor of private information of the employee. It's preferable to not put too many sensitive data about the employee.&#x20;
+Dans les seconds onglets, vous trouverez beaucoup d'informations privées de l'employé. Il est préférable de ne pas y inscrire trop de données sensibles concernant l'employé.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FKFE4QXnfoCCUvalmoAAH%2Fimage.png?alt=media&#x26;token=c775445d-75ee-4ab3-9972-c2e3644f85ac" alt=""><figcaption></figcaption></figure>
 
-## Hide old employee
+## Masquer les anciens employés
 
-1. **Go to the Employees Module**: Open the **"Employees"** app from the main dashboard.
-2. **Find the Employee**: Locate the employee you want to archive using the search bar or list view.
-3. **Open Employee Record**: Click on the employee’s name to access their profile.
-4. **Archive the Employee**: Click the **"Action"** button (top-right corner), then select **"Archive"** from the dropdown menu.
-5. **Confirmation**: The employee is now archived and will no longer appear in active employee lists, but their data remains in the system.
+1. **Aller au module Employés**: Ouvrir le **"Employés"** application depuis le tableau de bord principal.
+2. **Trouver l'employé**: Localisez l'employé que vous souhaitez archiver en utilisant la barre de recherche ou la vue en liste.
+3. **Ouvrir le dossier de l'employé**: Cliquez sur le nom de l'employé pour accéder à son profil.
+4. **Archiver l'employé**: Cliquez sur le **"Action"** bouton (coin supérieur droit), puis sélectionnez **"Archiver"** dans le menu déroulant.
+5. **Confirmation**: L'employé est maintenant archivé et n'apparaîtra plus dans les listes d'employés actifs, mais ses données restent dans le système.
 
-To restore the employee later, go to **Filters > Archived**, open their profile, and click **"Unarchive"**.
+Pour restaurer l'employé plus tard, allez à **Filtres > Archivés**, ouvrez son profil, et cliquez sur **"Désarchiver"**.
 
 {% @mermaid/diagram content="graph TD;
     %% HR Initiates the Employee Creation

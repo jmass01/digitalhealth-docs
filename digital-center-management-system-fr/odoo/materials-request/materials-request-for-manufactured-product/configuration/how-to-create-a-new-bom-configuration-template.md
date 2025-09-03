@@ -1,62 +1,87 @@
 ---
-description: 'Recommended role : P&O and DCMS Admin'
+description: Comment confirmer l'ordre de fabrication
 ---
 
-# How to create a new BoM Configuration Template
+# Validation de l'ordre de fabrication
 
-To configure a Bill of Materials (BoM) in the Odoo Manufacturing module, start by navigating to "Settings" > "BoM Config Template". Click on "Create" to begin the process.
+{% hint style="info" %}
+Rôles recommandés : P&0&#x20;
+{% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+## **🧭** Contexte&#x20;
 
-Select the product that will be manufactured or create a new product if necessary. Ensure that the product has the "Manufactured" checkbox selected to make it available for selection here. If you need guidance on configuring a new product, you can find instructions \[here].
+Cette étape a lieu après **que toutes les étapes d'ordre de travail ont été validées avec succès**, et **tous les composants utilisés sont désormais disponibles à l'emplacement de l'atelier**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+Le processus de fabrication est terminé, et le système est prêt pour **l'étape finale de l'Ordre de Fabrication** pour confirmer l'achèvement de la production.
 
-When you select a product, the Reference and Name fields will automatically update based on the selected product. However, you can still modify the name and reference if needed.
+## 🔄 Flux étape par étape&#x20;
 
-Notes : If your Odoo instance supports multiple languages, you can update the translation for the product in any other installed languages.
+### Accéder à l'ordre de fabrication
 
-Next, click on "Configure Attributes" . Select the attributes you want for your product. By default, the attributes will match those of the product, but you can select different attributes if needed.
+{% tabs %}
+{% tab title="Via la gestion des SU" %}
+Sur la page d'accueil, allez à l'icône « Service User Management ».
 
-<figure><img src="../../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-These will be displayed with the "main product" column unchecked. You can use the three-dot menu to show more columns, such as "Allowed Value".
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Here, you can add or remove values as required.
+Dans le formulaire SU, vous trouverez un bouton intitulé «**MRP Production** ». En cliquant dessus, toutes les ordres de fabrication associées à ce Service User spécifique s'ouvriront.
 
-&#x20;(Only if you are on edit mode)
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FS01b7vaSf3ePt9ZKhwlp%2Fimage.png?alt=media&#x26;token=8e0471ce-5f15-4335-9642-965f56d31f79" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-Finally, click on "Start BoM Configuration". Two tabs will appear: "Components" and "Operations". These tabs allow you to define the components and operations necessary for manufacturing the product.
+{% endtab %}
 
-<figure><img src="../../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+{% tab title="Via l'application Manufacturing" %}
+Sur la page d'accueil, allez à l'icône « Manufacturing ».
 
-Let’s first begin by creating a new work order line in the Operations tab, When selecting the operation, if you want to create a new one, you can write the name of the new operation and click on "Create and Edit". This will open the form for further details.
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FtXcdYty56UzWoCp3mxbq%2Fimage.png?alt=media&#x26;token=8fe5597a-ec02-4689-af85-a7abaa1e217e" alt=""><figcaption></figcaption></figure>
 
-Here is an explanation of the fields and options available:
+Vous pouvez voir ici une liste de tous les Ordres de Fabrication. Utilisez la barre de recherche en haut pour trouver le bon Ordre de Fabrication par sa référence, par le nom du patient, SU[^1] ID ... Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F2NQNb4AjLxVmBf7fQxlC%2Fimage.png?alt=media&#x26;token=308cab1c-96c7-4aff-aeba-b26b63fdc9b7" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
-1\.     Name:  This is the name of the operation that will be displayed.
+### Valider l'ordre de fabrication
 
-2\.     Work Center: Select the work center where this operation will take place. The work center refers to a specific location or set of equipment where manufacturing activities are performed.
+Pour valider un Ordre de Fabrication (OF), cliquez sur le bouton « Marquer comme terminé ». Plusieurs vérifications sont effectuées lors de la validation :
 
-3\.     SU Needed: Indicate if the service user presence is required for this operation.
+1.  Si un quelconque ordre de travail est encore ouvert, une fenêtre contextuelle vous informera de terminer d'abord tous les ordres de travail.\
 
-4\.     Green Light: Check this box if the operation requires approval before proceeding.
 
-5\.     Default Duration: Set the default duration for this step, indicating how long the operation is expected to take.
+    <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FXSK72PgIKpeEzCkSvHbU%2Fimage.png?alt=media&#x26;token=08a97def-a26e-4f1b-955e-b698075e2ede" alt=""><figcaption></figcaption></figure>
+2.  Si la quantité consommée diffère, une fenêtre contextuelle vous avertira. Après examen, vous pouvez soit « Confirmer » soit « Revoir la consommation » plus en détail\
 
-6\.     Description: Provide a detailed description to guide users on what needs to be done during this operation.
 
-Next, navigate to the Components tab. When adding a line, you must first select the product category. This selection will filter the available products, showing only those associated with the chosen category.
+    <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FABUtnDEndPBb8ovACkJZ%2Fimage.png?alt=media&#x26;token=16c2d4e0-df52-46f3-ab54-ca28d6d6f338" alt=""><figcaption></figcaption></figure>
+3.  Si aucun numéro de série n'a été attribué, une fenêtre contextuelle vous invitera à fournir un numéro de lot/numéro de série.\
+    \
 
-Once you are satisfied with the configuration template, click on “Approve”.
 
-<figure><img src="../../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FLPY9qyZ6asqIHT1ANPKZ%2Fimage.png?alt=media&#x26;token=25dbc19b-2d4a-4219-889d-b2b658cc2b6b" alt=""><figcaption></figcaption></figure>
 
-The BoM Template will now appear under the BoM section, ready for use in the manufacturing process.
+Pour attribuer un numéro de lot/numéro de série, retournez à l'OF, créez un nouveau lot manuellement ou cliquez sur le bouton + pour ajouter le numéro de série, puis revalidez l'enregistrement.
 
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FkDGvjG9Xg23LuaOhqfa5%2Fimage.png?alt=media&#x26;token=aa5697e7-5cb7-432d-bcd9-863e948eb9cc" alt=""><figcaption></figcaption></figure>
+
+Après résolution de tout problème, le statut de l'OF passera à « Terminé » et deviendra en lecture seule.&#x20;
+
+Le produit fabriqué entrera en stock.&#x20;
+
+### 🗺️ Aperçu visuel&#x20;
+
+Graphique Mermaid à faire
+
+## Et après ?&#x20;
+
+Après avoir finalisé l'ordre de fabrication, l'étape suivante est de livrer la prothèse au Service User.
+
+[Cliquez ici pour accéder à cette action ](../remise-du-produit-a-lutilisateur-de-service)
+
+
+
+[^1]: Prestataire de service

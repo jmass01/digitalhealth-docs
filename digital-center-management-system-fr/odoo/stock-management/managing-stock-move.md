@@ -1,50 +1,50 @@
-# Managing stock move
+# Gestion des mouvements de stock
 
-## What is a stock move :&#x20;
+## Qu'est-ce qu'un mouvement de stock :&#x20;
 
-In Odoo, a **Stock Move** represents the transfer of a product from one location to another and is essential for inventory management. It can be triggered by various operations such as manufacturing, internal transfers, or warehouse adjustments, Every move is linked to an Operations types that define the processus and the Source/destination location.
+Dans Odoo, un **Mouvement de stock** représente le transfert d'un produit d'un emplacement à un autre et est essentiel pour la gestion des stocks. Il peut être déclenché par diverses opérations telles que la fabrication, les transferts internes ou les ajustements d'entrepôt. Chaque mouvement est lié à un type d'opération qui définit le processus et l'emplacement source/destination.
 
-A stock move goes through different statuses: it starts as **Draft**, then moves to **Waiting for Availability** while Odoo checks if the required stock is present. Once available, it becomes **Ready**, and after validation, it is marked as **Done**, updating inventory levels.
+Un mouvement de stock passe par différents états : il commence en **Brouillon**, puis passe à **En attente de disponibilité** pendant qu'Odoo vérifie si le stock requis est présent. Une fois disponible, il devient **Prêt**, et après validation, il est marqué comme **Terminé**, mettant à jour les niveaux de stock.
 
-During processing, stock moves may require validation, either manually or through automated rules like FIFO or FEFO. Depending on warehouse settings, operations can involve barcode scanning, batch picking, or multi-step transfers. Additionally, products can be tracked using **Lot Numbers** or **Serial Numbers** to ensure traceability.
+Lors du traitement, les mouvements de stock peuvent nécessiter une validation, soit manuellement, soit via des règles automatisées comme FIFO ou FEFO. En fonction des paramètres de l'entrepôt, les opérations peuvent impliquer le scan de codes-barres, la préparation par lots ou des transferts en plusieurs étapes. De plus, les produits peuvent être suivis à l'aide de **Numéros de lot** ou **Numéros de série** pour assurer la traçabilité.
 
-&#x20;Once completed, the stock move updates the **source location** by reducing stock and increases stock in the **destination location**. If **perpetual inventory valuation** is enabled, the transaction is logged in inventory records.
+&#x20;Une fois terminé, le mouvement de stock met à jour le **emplacement source** en réduisant le stock et augmente le stock dans le **emplacement de destination**. Si **l'évaluation permanente des stocks** est activée, la transaction est enregistrée dans les écritures d'inventaire.
 
 
 
-## Process of any stock move
+## Processus de tout mouvement de stock
 
-Click on the “Check availability” button to reserve the product, which will change the stock move status to "Ready".
+Cliquez sur le bouton « Vérifier la disponibilité » pour réserver le produit, ce qui changera le statut du mouvement de stock en "Prêt".
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FbtHMsVzyEhwvQ4KaKCeu%2Fimage.png?alt=media&#x26;token=32230974-d762-4b2b-b427-6d1e3d53461a" alt=""><figcaption></figcaption></figure>
 
-The user can print a PDF file to see which products need to be moved by clicking on the print button and selecting “Picking operations”. If the button is not visible, save the record, and the button will appear.
+L'utilisateur peut imprimer un fichier PDF pour voir quels produits doivent être déplacés en cliquant sur le bouton d'impression et en sélectionnant « Opérations de préparation ». Si le bouton n'est pas visible, enregistrez l'enregistrement, et le bouton apparaîtra.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FXrC4ahplxOMFBNkZmsvb%2Fimage.png?alt=media&#x26;token=316998ed-b7c5-4196-9e7d-4b03364a8a7e" alt=""><figcaption></figcaption></figure>
 
-There are multiple ways to progress this order:
+Il existe plusieurs façons de faire avancer cette commande :
 
-1\.     Clicking on "AutoFill", then click on “Validate”.
+1\.     Cliquer sur "Remplir automatiquement", puis cliquer sur « Valider ».
 
-It will AutoFill all the quantities available in the tabs “Detailed operations”
+Cela remplira automatiquement toutes les quantités disponibles dans les onglets « Opérations détaillées »
 
-2\.     Directly clicking on "Validate"¨
+2\.     Cliquer directement sur "Valider"
 
-If no “Done quantities” are recorded, a pop-up will ask if you want to process all the reserved quantities before validating. If you apply it will AutoFill all the quantities available.
+Si aucune « Quantité effectuée » n'est enregistrée, une fenêtre contextuelle demandera si vous souhaitez traiter toutes les quantités réservées avant de valider. Si vous l'appliquez, cela remplira automatiquement toutes les quantités disponibles.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FzEKs332IQyA6OXPZoRQ2%2Fimage.png?alt=media&#x26;token=01121989-9776-43bf-ba64-8188bc6481f5" alt=""><figcaption></figcaption></figure>
 
-3\.     Updating the quantity line by line.
+3\.     Mettre à jour la quantité ligne par ligne.
 
-Sometimes the reserved quantity is hidden. To show it, click on the three dots and select "Reserved quantity". This will display the quantity to be retrieved and the correct value to populate in the done column.
+Parfois la quantité réservée est masquée. Pour l'afficher, cliquez sur les trois points et sélectionnez "Quantité réservée". Cela affichera la quantité à récupérer et la valeur correcte à renseigner dans la colonne effectuée.
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FmLJxocYZg1vyTdgBX1rR%2Fimage.png?alt=media&#x26;token=e8e0c837-ae1e-4227-9313-bf4e69fc0bf0" alt=""><figcaption></figcaption></figure>
 
-Once the quantities are correctly populated, click on "Validate". After validation, the system will ask if you want to create a backorder for any remaining products not yet delivered. If you want to deliver or pick up these components later, create a backorder. If you do not want to deliver the remaining products, select “No backorder”.
+Une fois les quantités correctement renseignées, cliquez sur "Valider". Après validation, le système demandera si vous souhaitez créer une réexpédition (backorder) pour les produits restants non encore livrés. Si vous souhaitez livrer ou récupérer ces composants plus tard, créez une réexpédition. Si vous ne voulez pas livrer les produits restants, sélectionnez « Pas de réexpédition ».
 
-This step is mostly the same for Every stock move, only the Stock location / Destination change.
+Cette étape est essentiellement la même pour chaque mouvement de stock, seul l'emplacement de stock / la destination change.
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Vue d'ensemble visuelle&#x20;
 
 {% @mermaid/diagram content="flowchart TD
     A[Start - Stock Move Initiated] --> B[Create a Stock Picking]

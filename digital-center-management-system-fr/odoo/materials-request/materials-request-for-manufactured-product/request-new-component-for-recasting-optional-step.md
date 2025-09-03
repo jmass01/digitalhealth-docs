@@ -1,22 +1,22 @@
-# Request new component for recasting (optional step)
+# Demander un nouveau composant pour refonte (étape optionnelle)
 
-Rajouter une note ou une remarque pour le recasting.
+Ajouter une note ou une remarque pour le recasting.
 
-To request new components for a recast, you have two options:
+Pour demander de nouveaux composants pour un recast, vous avez deux options :
 
-1. Duplicate the last Picking Component (PC):
-   * Return to the Manufacturing order and open the transfer from the previous step.
-   * Click on Action > Duplicate at the top.
-   * This creates a new transfer with the correct products. Then, check the “Is Recasting” field.
+1. Dupliquer le dernier Picking Component (PC) :
+   * Retournez à l'ordre de fabrication et ouvrez le transfert de l'étape précédente.
+   * Cliquez sur Action > Dupliquer en haut.
+   * Cela crée un nouveau transfert avec les bons produits. Ensuite, cochez le champ « Est un recasting ».
 
-<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FJYRaXc1gWW4V42lPhwZb%2Fimage.png?alt=media&#x26;token=7bfd557f-e327-4756-85c2-ba5007460b3b" alt=""><figcaption></figcaption></figure>
 
-1. Create a new request:
-   * Go to the Inventory Module, click on the three dots of the Pick Component tag, and select Planned Transfer.
+1. Créer une nouvelle demande :
+   * Allez dans le module Inventaire, cliquez sur les trois points de l'étiquette Pick Component, et sélectionnez Transfert Planifié.
 
-<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FtEA8PHGa1ClNjH8b4hW3%2Fimage.png?alt=media&#x26;token=7e5279f0-a70a-47ca-8ddf-95d7dd5496f8" alt=""><figcaption></figcaption></figure>
 
 2.
-   * Populate all required products and check the “Is Recasting” field.
+   * Remplissez tous les produits requis et cochez le champ « Est un recasting ».
 
-In both cases, validate the request as outlined previously.
+Dans les deux cas, validez la demande comme indiqué précédemment.

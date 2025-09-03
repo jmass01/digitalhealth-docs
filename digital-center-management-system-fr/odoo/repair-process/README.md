@@ -1,27 +1,27 @@
-# Repair Process
+# Processus de réparation
 
 
 
-🔄 Repair Workflow Overview
+🔄 Aperçu du flux de réparation
 
-This flow describes the **complete repair process**, starting from the reception of the item from the Service User (SU) to the final delivery of the repaired product. It includes the interaction between the technician and the **Stock Keeper**, who plays a crucial role in managing stock availability and product preparation.
+Ce flux décrit le **processus de réparation complet**, commençant par la réception de l'article de l'Utilisateur du Service (SU) jusqu'à la livraison finale du produit réparé. Il inclut l'interaction entre le technicien et le **Gestionnaire de stock**, qui joue un rôle crucial dans la gestion de la disponibilité des stocks et la préparation des produits.
 
-1. **Reception & Repair Initiation**\
-   The process begins when the Service User returns the item for repair. The technician selects the correct product and associated Lot Number, then validates the picking to confirm receipt. A **Repair Order** is then created.
-2. **Repair Order Configuration**\
-   In the repair form, the technician selects the product that needs to be repaired and validates the repair setup.
-3. **Stock Check & Preparation**\
-   The system checks if the required parts or materials for the repair are available in stock:
-   * **If not available**, a stock picking is created and sent to the **Stock Keeper**, who prepares the necessary items.
-   * The Stock Keeper retrieves the correct product from stock, prepares it, and delivers it to the **benchworker**.
-4. **Repair Execution**\
-   Once the needed items are available, the technician starts and performs the repair.
-5. **Delivery of Repaired Product**\
-   After the repair is completed, a delivery is created to return the repaired item to the Service User. Once validated, the delivery is closed, and the product is officially returned to the SU.
+1. **Réception et lancement de la réparation**\
+   Le processus commence lorsque l'Utilisateur du Service retourne l'article pour réparation. Le technicien sélectionne le produit correct et le numéro de lot associé, puis valide le prélèvement pour confirmer la réception. Un **Bon de réparation** est ensuite créé.
+2. **Configuration du bon de réparation**\
+   Dans le formulaire de réparation, le technicien sélectionne le produit à réparer et valide la configuration de la réparation.
+3. **Vérification et préparation du stock**\
+   Le système vérifie si les pièces ou matériaux nécessaires à la réparation sont disponibles en stock :
+   * **Si non disponible**, un prélèvement de stock est créé et envoyé au **Gestionnaire de stock**, qui prépare les articles nécessaires.
+   * Le gestionnaire de stock récupère le produit correct du stock, le prépare et le remet au **opérateur d'atelier**.
+4. **Exécution de la réparation**\
+   Une fois les articles nécessaires disponibles, le technicien commence et effectue la réparation.
+5. **Livraison du produit réparé**\
+   Après la réparation, une livraison est créée pour retourner l'article réparé à l'Utilisateur du Service. Une fois validée, la livraison est clôturée et le produit est officiellement rendu au SU.
 
-This flow ensures **traceability of parts**, **accurate inventory movement**, and clear **role separation** between stock management and repair execution.
+Ce flux garantit **la traçabilité des pièces**, **des mouvements de stock précis**, et une **séparation claire des rôles** entre la gestion des stocks et l'exécution des réparations.
 
-### 🗺️ Visual Overview  <a href="#visual-overview" id="visual-overview"></a>
+### 🗺️ Aperçu visuel  <a href="#visual-overview" id="visual-overview"></a>
 
 {% @mermaid/diagram content="flowchart TD
  subgraph askProduct["Stock Keeper"]
@@ -48,5 +48,6 @@ This flow ensures **traceability of parts**, **accurate inventory movement**, an
     G0 --> G1
 
     n1@{ shape: diam}
-" %}
+
+" %}
 

@@ -1,15 +1,15 @@
-# Product Management
+# Gestion des produits
 
-The most important main data in Odoo is product.\
-Very important is to know and understand the difference between Product (model product.template) and Variant (model: product.product)\
-Products and Variants are accessible from most odoo main menu items like: Sales, Stock, Invoicing, Purchase, MRP...\
-Product menu item (model product.template) serves as main configuration menuitem.\
-When product can be configured with attributes and pre configured values, upon saving it will create appropriate number of Variants\
-Example: We configure a product : T-Shirt, then we set attributes\
-\- Size, with values: S, M, L, XL, XXL\
-\- Color: with values: White, Black, Blue\
-on saving the Product, there will be 20 Variants (cartesium product ofd attribute values...\
-Proper usage of attributes and attribute values is important for proper setting up the MRP BoM Templates as well as maintaining the center product catalog.\
-Usable hints
+Les données principales les plus importantes dans Odoo sont les produits.\
+Il est très important de connaître et de comprendre la différence entre Produit (modèle product.template) et Variante (modèle : product.product)\
+Les Produits et Variantes sont accessibles depuis la plupart des éléments du menu principal d’Odoo tels que : Ventes, Stock, Facturation, Achats, GMAO...\
+L’élément de menu Produit (modèle product.template) sert de menu principal de configuration.\
+Lorsqu’un produit peut être configuré avec des attributs et des valeurs préconfigurées, lors de l’enregistrement il créera le nombre approprié de Variantes\
+Exemple : Nous configurons un produit : T-shirt, puis nous définissons des attributs\
+\- Taille, avec les valeurs : S, M, L, XL, XXL\
+\- Couleur : avec les valeurs : Blanc, Noir, Bleu\
+à l’enregistrement du Produit, il y aura 20 Variantes (produit cartésien des valeurs d’attribut...\
+L’utilisation appropriée des attributs et des valeurs d’attribut est importante pour la bonne configuration des modèles de nomenclature (BoM) de la GMAO ainsi que pour la gestion du catalogue central des produits.\
+Conseils utiles
 
-* If product name contains any of usual attributes: Small, Child, Adult, Left, Right, etc... it should be configured with variants
+* Si le nom du produit contient l’un des attributs habituels : Petit, Enfant, Adulte, Gauche, Droit, etc., il devrait être configuré avec des variantes

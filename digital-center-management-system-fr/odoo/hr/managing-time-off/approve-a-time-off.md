@@ -1,15 +1,19 @@
-# Approve a Time off
+# Demander un congé
 
-When an employee submits a time off request, the designated manager or approver will receive a **notification.** You can found the notification on the activities button on top left.&#x20;
+Pour commencer, ouvrez le tableau de bord et accédez à **Congés** .
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FZRrd4gJR9c03VLqOugwv%2Fimage.png?alt=media&#x26;token=b79a14ab-77b4-4dc5-ae25-f25d5cbc3fb2" alt="" width="375"><figcaption></figcaption></figure></div>
 
-To begin reviewing, go to the **Time Off** module from your dashboard and navigate to "Managers" >  **“Time off”** menu. This section lists all pending leave requests submitted by your team members.
+Une fois que vous êtes dans le module Congés, allez dans le menu supérieur et cliquez sur **« Mes congés ».** Cette section affichera vos dossiers de congés personnels. Pour soumettre une nouvelle demande, cliquez sur le **« Nouveau »** bouton. Cela ouvrira un formulaire où vous pourrez remplir les détails de votre congé.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-Click on any request in the list to view its details. You’ll see the type of time off requested, the dates, the duration, and any additional notes the employee has included. You can also see the employee’s **remaining balance** for the selected leave type, which helps ensure that the request is within policy. don't forget to "Mark done" the activities when everything is done on the chatter.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FMIt9KRBgSTmlnZgLThm0%2Fimage.png?alt=media&#x26;token=e8ec50cb-d271-4870-80fc-50166b39b20d" alt="" width="375"><figcaption></figcaption></figure>
 
-If everything looks good, you can click the **“Approve”** button to validate the request. If the request isn’t acceptable—for example, due to scheduling conflicts or insufficient balance—you can click **“Refuse”** to decline it. In either case, the employee will be automatically notified of your decision. If more clarification is needed before making a decision, you can leave a note or communicate directly with the employee before taking action.
+Dans le formulaire de demande de congé, sélectionnez le **Type de congé**—comme Congé payé, Congé maladie ou Congé non payé. Lorsque vous choisissez un type de congé, le système affichera automatiquement le **solde restant** que vous avez disponible pour cette catégorie spécifique.&#x20;
+
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FosNyQ7pWmeVsnfWecw3S%2Fimage.png?alt=media&#x26;token=3f30c15c-c5a4-4fe7-97d2-5e934028d9e8" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez éventuellement inclure une brève description ou la raison de votre demande dans le **Description** champ. Ensuite, choisissez la **date de début** et **date de fin** de votre congé. Le système calculera automatiquement la **durée** de votre congé en fonction de votre emploi du temps, mais vous pouvez l'ajuster si nécessaire.
+
+Après avoir rempli tous les champs obligatoires, cliquez sur **« Enregistrer »** si vous souhaitez conserver la demande en mode brouillon. Lorsque vous êtes prêt à la soumettre pour approbation, cliquez sur **« Soumettre au responsable ».** Cela notifiera votre responsable désigné qu'une demande de congé attend son examen. Ce processus peut varier selon la configuration du type de congé.&#x20;

@@ -1,71 +1,71 @@
-# Deliver the repaired Item
+# Livrer l'article réparé
 
 {% hint style="info" %}
-## Roles recommended :  Benchworker / Storekeeper
+## Rôles recommandés : Atelier / Magasinier
 {% endhint %}
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-Once the repair process is completed, the next step is to ensure the repaired item is returned to the Service User. This stage focuses on creating and validating the delivery order so the item can be officially handed back. Documenting this step ensures traceability, confirms that the repair cycle is properly closed, and provides the Service User with the repaired product in a structured and transparent way.
+Une fois le processus de réparation terminé, l'étape suivante consiste à s'assurer que l'article réparé est retourné à l'Utilisateur du Service. Cette étape se concentre sur la création et la validation de l'ordre de livraison afin que l'article puisse être officiellement remis. Documenter cette étape garantit la traçabilité, confirme que le cycle de réparation est correctement clôturé et fournit à l'Utilisateur du Service le produit réparé de manière structurée et transparente.
 
-## 🔄 Step-by-Step Flow&#x20;
+## 🔄 Flux étape par étape&#x20;
 
-### Access the Repair order
+### Accéder à l'ordre de réparation
 
-If you're **not already inside a Repair Order**, follow the steps below to access one.\
-If you're **already in an existing Repair Order**, you can skip this part and move on to the next step.
+Si vous **n'êtes pas déjà dans un ordre de réparation**, suivez les étapes ci-dessous pour y accéder.\
+Si vous **êtes déjà dans un ordre de réparation existant**, vous pouvez passer cette partie et aller à l'étape suivante.
 
 {% tabs %}
-{% tab title="Via the SU management" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la gestion de l'Utilisateur du Service" %}
+Sur la page d'accueil, allez à l'icône « Gestion des Utilisateurs du Service ».
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les US[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou US[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the Service User (SU) form, you’ll find a tab labeled **"Repair orders"**. Opening this tab will show the list of all the repair order link to this specific SU.&#x20;
+Dans le formulaire de l'Utilisateur du Service (US), vous trouverez un onglet intitulé **« Ordres de réparation »**. L'ouverture de cet onglet affichera la liste de tous les ordres de réparation liés à cet US spécifique.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FE3nGMbdvRWEOCVkXtMau%2Fimage.png?alt=media&#x26;token=c1a3e4c9-c5e9-448c-885c-a4db31571469" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via the Repair application" %}
-On the home page, go to the icon "Repairs".
+{% tab title="Via l'application Réparation" %}
+Sur la page d'accueil, allez à l'icône « Réparations ».
 
-<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FQlh5Lr5TNtQF9QvOoEVa%2Fimage.png?alt=media&#x26;token=3de536ee-71ac-4d21-8c3c-6d0f0f7ee8d1" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all Repair order here. Use the search bar at the top to find the correct repair by their reference, by their product to repair, SU[^1] ID ... Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les ordres de réparation ici. Utilisez la barre de recherche en haut pour trouver la bonne réparation par sa référence, par le produit à réparer, US[^1] ID ... Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fq4cvrChkM16WE592Uwny%2Fimage.png?alt=media&#x26;token=480441bb-b118-4e7e-a0e3-ca651668b91f" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-### Create the delivery item
+### Créer l'article de livraison
 
-On the Repair form, click the **"Deliver Item"** button. This will automatically create a **Delivery Order** to handle the return of the repaired product to the Service User.
+Sur le formulaire de réparation, cliquez sur le **bouton « Livrer l'article »** . Cela créera automatiquement un **Bon de livraison** pour gérer le retour du produit réparé à l'Utilisateur du Service.
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FB8H8cA2EocmIl688jjpQ%2Fimage.png?alt=media&#x26;token=a9fe8fb7-47f9-4ceb-ac5b-0253f3a6265e" alt=""><figcaption></figcaption></figure>
 
-The deliver order is now created and marked as ready, will appear in the Service User (SU) form under the "Stock Picking" tab. This picking record will have a specific name that typically includes "RMA-OUT," indicating that it is a repair (RMA) being sent out.&#x20;
+Le bon de livraison est maintenant créé et marqué comme prêt, il apparaîtra dans le formulaire de l'Utilisateur du Service (US) sous l'onglet « Réception/Expédition » (Stock Picking). Cet enregistrement de transfert aura un nom spécifique qui inclut généralement « RMA-OUT », indiquant qu'il s'agit d'une réparation (RMA) envoyée.&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FvOut5SktH01LgfJUgj3H%2Fimage.png?alt=media&#x26;token=d1746c94-9b2c-4b61-955d-043d2ca8005e" alt=""><figcaption></figcaption></figure>
 
-You can also find the same stock move in the Inventory module under the "Deliver REPAIRED" picking type.
+Vous pouvez également trouver le même mouvement de stock dans le module Inventaire sous le type d'opération « Livraison RÉPARÉE ».
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fe0fMbarsUAb7BvV0r8lH%2Fimage.png?alt=media&#x26;token=4e1eadbb-858d-4f53-9d24-93b7a5f90e1e" alt=""><figcaption></figcaption></figure></div>
 
-Once the Stock Picking is open, the process follows the same steps as any other picking. Simply click on "Auto-Validate," and the correct quantity will be set automatically.
+Une fois le Stock Picking ouvert, le processus suit les mêmes étapes que pour tout autre transfert. Cliquez simplement sur « Auto-validation », et la quantité correcte sera définie automatiquement.
 
-<figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FFNPtIjJEDLybiKX7dlpC%2Fimage.png?alt=media&#x26;token=a13960e9-fe0c-4376-95a0-31dc661c0c9d" alt=""><figcaption></figcaption></figure>
 
-If the product has a Lot Number, verify that the correct one is assigned before proceeding. Then, click on the "Validate" button to update the status to Done.
+Si le produit a un numéro de lot, vérifiez que le bon numéro est attribué avant de poursuivre. Ensuite, cliquez sur le bouton « Valider » pour mettre à jour le statut en Terminé.
 
-For more details on managing stock picking, please refer to this [Guideline](../stock-management/).
+Pour plus de détails sur la gestion des transferts de stock, veuillez vous référer à ce [Guide](../gestion-des-stocks).
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Aperçu visuel&#x20;
 
 {% @mermaid/diagram content="graph TD
     A[Open the Repair Order form] --> B[Click Deliver Item button]
@@ -82,8 +82,8 @@ For more details on managing stock picking, please refer to this [Guideline](../
     J --> K
 " %}
 
-## What's next?&#x20;
+## Et ensuite ?&#x20;
 
-Once the delivery is validated and completed, it confirms that the patient has received their repaired product. The system will automatically update the stock to reflect this. This step marks the official end of the repair process.
+Une fois la livraison validée et terminée, cela confirme que le patient a reçu son produit réparé. Le système mettra automatiquement à jour le stock pour refléter cela. Cette étape marque la fin officielle du processus de réparation.
 
-[^1]: Service provider
+[^1]: Prestataire de service

@@ -1,96 +1,96 @@
-# Stock allocation
+# Allocation de stock
 
 {% hint style="info" %}
-## Roles recommended :  P\&O, Stock Manager
+## Rôles recommandés : P\&O, Responsable des stocks
 {% endhint %}
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-This flow occurs **after the Manufacturing Order has been confirmed**. The Stock Manager is responsible for following this process to retrieve and reserve all necessary products and components for the manufacturing operation. By completing these steps in the system, the Stock Manager ensures that materials are correctly allocated, prepared, and validated before production begins.&#x20;
+Ce flux se produit **après la confirmation de l'ordre de fabrication**. Le responsable des stocks est chargé de suivre ce processus pour récupérer et réserver tous les produits et composants nécessaires à l'opération de fabrication. En exécutant ces étapes dans le système, le responsable des stocks s'assure que les matériaux sont correctement alloués, préparés et validés avant le début de la production.&#x20;
 
-## 🔄 Step-by-Step Flow&#x20;
+## 🔄 Flux étape par étape&#x20;
 
-### Accessing the Materials request
+### Accéder à la demande de matériaux
 
 {% tabs %}
-{% tab title="Via the SU management" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la gestion du SU" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the SU[^2] form, you will find a tab called "Stock Pickings", where all stock movements created for this [SU ](#user-content-fn-2)[^2]are listed. In this case, we will open the one with the "Waiting" status.
+À l'intérieur du SU[^2] formulaire, vous trouverez un onglet appelé "Réceptions de stock", où sont répertoriés tous les mouvements de stock créés pour ce [SU ](#user-content-fn-2)[^2]sont listés. Dans ce cas, nous ouvrirons celui ayant le statut "En attente".
 
-<figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FDKh3zt5Iv5F5M8HsKJ3H%2Fimage.png?alt=media&#x26;token=9e511615-1bc5-47b9-8763-aa18dceaaf23" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via the Inventory application" %}
-On the home page, go to the icon "Inventory".
+{% tab title="Via l'application Inventaire" %}
+Sur la page d'accueil, allez sur l'icône « Inventaire ».&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FA8eEqVYOrvo9jUwmyU30%2Fimage.png?alt=media&#x26;token=afb99b3a-628a-4ad8-8d7c-6ba1dd1c44fe" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all operation types from this page. Locate the operation type usually called **"Picking Components"**. Within this section, you'll find several useful links: a button that takes you to deliveries ready to be processed, a number indicating how many pickings are currently waiting on another transfer, and another number showing the count of late pickings.
+Vous pouvez voir une liste de tous les types d'opérations depuis cette page. Repérez le type d'opération généralement appelé **"Préparation des composants"**. Dans cette section, vous trouverez plusieurs liens utiles : un bouton qui vous mène aux livraisons prêtes à être traitées, un nombre indiquant combien de préparations sont actuellement en attente d'un autre transfert, et un autre nombre montrant le nombre de préparations en retard.
 
-<figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F79YRrbG68nVHn5gc74sd%2Fimage.png?alt=media&#x26;token=309a4468-57e2-48c6-82b0-e872add2205e" alt=""><figcaption></figcaption></figure>
 
-Use the search bar at the top to find the correct picking by their reference, by their patient name, SU[^1] ID ... Please ensure to select the correct option.
+Utilisez la barre de recherche en haut pour trouver la bonne préparation par leur référence, par le nom du patient, SU[^1] ID ... Veuillez vous assurer de sélectionner la bonne option.
 {% endtab %}
 {% endtabs %}
 
 
 
-## Material request form explanation
+## Explication du formulaire de demande de matériaux
 
-In this form, you can see the source location and the destination location on the top left. The scheduled date, the deadline, and the source document are displayed on the top right.
+Dans ce formulaire, vous pouvez voir l'emplacement source et l'emplacement de destination en haut à gauche. La date prévue, la date limite et le document source sont affichés en haut à droite.
 
-<figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F9NLIGa7zDATCCopLGqCj%2Fimage.png?alt=media&#x26;token=eb7795f5-67ff-432b-9642-69ca71514ccd" alt=""><figcaption></figcaption></figure>
 
-&#x20;If it's an internal transfer, you will see a checkbox "Is recasting" that indicates whether the picking component is used for recasting. This checkbox is purely informational and does not perform any actions. To know more about recasting go to this section “Ask for recasting”.
+&#x20;S'il s'agit d'un transfert interne, vous verrez une case à cocher « Est reenfournissement » qui indique si le picking de composants est utilisé pour le reenfournissement. Cette case est purement informative et n'effectue aucune action. Pour en savoir plus sur le reenfournissement, allez à la section « Demander un reenfournissement ».&#x20;
 
-There are two main tabs in this form: "Detailed Operations" and "Operations".
+Il y a deux onglets principaux dans ce formulaire : « Opérations détaillées » et « Opérations ».&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F0qVYiSjan3ZoeyXbIl3L%2Fimage.png?alt=media&#x26;token=d85566c1-268e-4cbd-9059-dcb5334e3629" alt=""><figcaption></figcaption></figure>
 
-The "Detailed Operations" tab shows the specific operations required for the stock move, including any reserved quantities and lot numbers if necessary.
+L'onglet « Opérations détaillées » montre les opérations spécifiques requises pour le mouvement de stock, y compris les quantités réservées et les numéros de lot si nécessaire.
 
-The "Operations" tab shows the amount of product requested for the move. If the move is in draft status, only the "Operations" tab with the amount of product requested will be visible.
+L'onglet « Opérations » montre la quantité de produit demandée pour le mouvement. Si le mouvement est au statut brouillon, seul l'onglet « Opérations » avec la quantité de produit demandée sera visible.
 
-## Processing the materials request stock move
+## Traitement du mouvement de stock de la demande de matériaux
 
-Click on the “Check availability” button to reserve the product, which will change the stock move status to "Ready".
+Cliquez sur le bouton « Vérifier la disponibilité » pour réserver le produit, ce qui changera le statut du mouvement de stock en "Prêt".
 
-<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FZk4zJJIYnCgGfCJjH6lf%2Fimage.png?alt=media&#x26;token=bc0e8bbd-a640-4202-b6ff-12830dc802a3" alt=""><figcaption></figcaption></figure>
 
-The user can print a PDF file to see which products need to be moved by clicking on the print button and selecting “Picking operations”. If the button is not visible, save the record, and the button will appear.
+L'utilisateur peut imprimer un fichier PDF pour voir quels produits doivent être déplacés en cliquant sur le bouton d'impression et en sélectionnant « Opérations de préparation ». Si le bouton n'est pas visible, enregistrez l'enregistrement, et le bouton apparaîtra.
 
-![](<../../../.gitbook/assets/image (160).png>)&#x20;
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FKQpWLvn8aMaJG52A8HZI%2Fimage.png?alt=media\&token=2ff50baf-d490-4d7e-88c7-3eabad0fc85b)&#x20;
 
-There are multiple ways to progress this order:
+Il existe plusieurs façons de faire avancer cette commande :
 
-1\.     Clicking on "AutoFill", then click on “Validate”.
+1\.     Cliquer sur "Remplir automatiquement", puis cliquer sur « Valider ».
 
-It will AutoFill all the quantities available in the tabs “Detailed operations”
+Cela remplira automatiquement toutes les quantités disponibles dans les onglets « Opérations détaillées »
 
-2\.     Directly clicking on "Validate"¨
+2\.     Cliquer directement sur "Valider"
 
-If no “Done quantities” are recorded, a pop-up will ask if you want to process all the reserved quantities before validating. If you apply it will AutoFill all the quantities available.
+Si aucune « Quantité effectuée » n'est enregistrée, une fenêtre contextuelle demandera si vous souhaitez traiter toutes les quantités réservées avant de valider. Si vous l'appliquez, cela remplira automatiquement toutes les quantités disponibles.
 
-<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FFHuaYgCeN9BdJPvgGhTK%2Fimage.png?alt=media&#x26;token=c93ea67a-5174-4140-a5aa-d173b1ba8bf7" alt=""><figcaption></figcaption></figure>
 
-3\.     Updating the quantity line by line.
+3\.     Mettre à jour la quantité ligne par ligne.
 
-Sometimes the reserved quantity is hidden. To show it, click on the three dots and select "Reserved quantity". This will display the quantity to be retrieved and the correct value to populate in the done column.
+Parfois la quantité réservée est masquée. Pour l'afficher, cliquez sur les trois points et sélectionnez "Quantité réservée". Cela affichera la quantité à récupérer et la valeur correcte à renseigner dans la colonne effectuée.
 
-<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FkTA2QZKceiQC1e8TN5Kh%2Fimage.png?alt=media&#x26;token=31744236-5d87-4a69-a0a8-e3323e116daf" alt=""><figcaption></figcaption></figure>
 
-&#x20;Once the quantities are correctly populated, click on "Validate". After validation, the system will ask if you want to create a backorder for any remaining products not yet delivered. If you want to deliver or pick up these components later, create a backorder. If you do not want to deliver the remaining products, select “No backorder”.
+&#x20;Une fois les quantités correctement renseignées, cliquez sur "Valider". Après validation, le système demandera si vous souhaitez créer une réexpédition (backorder) pour les produits restants non encore livrés. Si vous souhaitez livrer ou récupérer ces composants plus tard, créez une réexpédition. Si vous ne voulez pas livrer les produits restants, sélectionnez « Pas de réexpédition ».
 
-This step is mostly the same for Every stock move, only the Stock location / Destination change.
+Cette étape est essentiellement la même pour chaque mouvement de stock, seul l'emplacement de stock / la destination change.
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Aperçu visuel&#x20;
 
 {% @mermaid/diagram content="graph TD
     A[Click 'Check Availability' button] --> B[Stock move status changes to 'Ready']
@@ -126,10 +126,10 @@ This step is mostly the same for Every stock move, only the Stock location / Des
     P & Q --> R[Process complete]
 " %}
 
-## What's next?&#x20;
+## Et ensuite ?&#x20;
 
-After reserving and validating the components, the next step is to proceed with processing the Workorder within the Manufacturing Order (MRP). Depending on the outcome, there may also be an optional request for additional components, such as for recasting, if needed.
+Après avoir réservé et validé les composants, l'étape suivante consiste à procéder au traitement de l'Ordre de travail au sein de l'Ordre de fabrication (MRP). Selon le résultat, il peut également y avoir une demande optionnelle de composants supplémentaires, par exemple pour le reenfournissement, si nécessaire.
 
-[^1]: Service provider
+[^1]: Fournisseur de service
 
-[^2]: Service User
+[^2]: utilisateur de service

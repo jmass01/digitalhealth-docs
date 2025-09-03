@@ -1,25 +1,25 @@
-# Quality control (Optional step)
+# Contrôle qualité (étape optionnelle)
 
-When the repair had been ended and if the QC (quality control) is enabled. It will create a quality check to this reparation.&#x20;
+Lorsque la réparation est terminée et si le contrôle qualité (QC) est activé. Il créera un contrôle qualité pour cette réparation.&#x20;
 
-By default the step that need to be check is hardcoded to be :
+Par défaut, l'étape à vérifier est codée en dur comme étant :
 
-&#x20;Alignment is correct in all three planes (frontal, sagittal and transversal)
+&#x20;L'alignement est correct dans les trois plans (frontal, sagittal et transversal)
 
-\- All screws and fixtures are secure
+\- Toutes les vis et fixations sont sécurisées
 
-\- Device has no sharp edges and is comfortable to wear&#x20;
+\- L'appareil n'a pas d'arêtes vives et est confortable à porter&#x20;
 
-\- Materials and components have fulfilled expected functions
+\- Les matériaux et composants ont rempli les fonctions attendues
 
-\- Cosmesis and Workmanship (including cleaning of marking)
+\- Esthétique et savoir-faire (y compris le nettoyage des marquages)
 
-Each step to be checked have 3 potential value : “Yes(passed)”, “No(failed)”,”Not relevant (passed)”
+Chaque étape à vérifier comporte 3 valeurs potentielles : « Oui(passé) », « Non(échoué) », « Non pertinent (passé) »
 
-<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FzcLZXhJfzKfd4bSqkScn%2Fimage.png?alt=media&#x26;token=37d14f6d-be4b-4403-89fa-eabb06cd1b46" alt=""><figcaption></figcaption></figure>
 
-Then then head of PT/PO will be able to approve this QC
+Ensuite, le responsable PT/PO pourra approuver ce QC
 
-<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FDXluF7uMXhZX0Hx2ZlJL%2Fimage.png?alt=media&#x26;token=fc8cbc89-a10a-41f0-90f0-67749480bc9d" alt=""><figcaption></figcaption></figure>
 
-If one of the inspection line is not succeed then the All QC after confirmation will be failed if not it will be successful.
+Si l'une des lignes d'inspection n'aboutit pas, alors l'ensemble du QC, après confirmation, sera échoué ; sinon il sera réussi.

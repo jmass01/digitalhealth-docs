@@ -1,23 +1,23 @@
-# Picking (Opertation) types
+# Types d'opérations de préparation de commande (Picking)
 
-On Inventory overview you can see multiple different types of pickings.\
-Picking types define the predefined moves of a product or a group of products in stock management.\
-There is a few main types:
+Sur la vue d'ensemble des stocks, vous pouvez voir plusieurs types différents de prélèvements.\
+Les types de prélèvement définissent les mouvements prédéfinis d'un produit ou d'un groupe de produits dans la gestion des stocks.\
+Il existe quelques types principaux :
 
-* Receipts - in general items that arrive to our stock location from vendors or customers
-* Deliveries - in general when items are delivered to customer
-* Internal moves - any kind of moving goods within our warehouse from one location to the other (Stock to workshop, Stock to Repair location ...)
-* Manufacturing - when we produce new items and consume some components
-* Repair - when we repair an already produced items and consume some components
+* Réceptions - en général des articles qui arrivent dans notre emplacement de stock depuis des fournisseurs ou des clients
+* Livraisons - en général lorsque des articles sont livrés au client
+* Mouvements internes - tout type de déplacement de marchandises au sein de notre entrepôt d'un emplacement à un autre (Stock vers atelier, Stock vers emplacement de réparation ...)
+* Fabrication - lorsque nous produisons de nouveaux articles et consommons certains composants
+* Réparation - lorsque nous réparons des articles déjà produits et consommons certains composants
 
-Further more, picking types can be configured to ease the stock management,&#x20;
+De plus, les types de prélèvement peuvent être configurés pour faciliter la gestion des stocks,&#x20;
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FOONIfQYF6DmjUVTF25Nq%2Fimage.png?alt=media&#x26;token=0c489687-5f22-473c-9f50-6aeb5a8014f1" alt=""><figcaption></figcaption></figure>
 
-* 1\. name the operation type according to needs
-* 2\. Type of operation: select between: Receipt, Delivery, Internal transfer, Manufacturing\
-  if needed, specific operatin type for returns can be set,
-* 3\. select sequence for numbering of pickings or set the code prefix for sequence
-* 4\. set if we need to create new lots/serial numbers or use existing ones for this picking (usualy we create then on receipt, or in manufacturing, and just use existing in all other pickings)
-* 5\. automation - should the system automaticly fill the operations and lot/serials or let the user select them manualy
-* 6\. set default source and target locations for certain moves helps in speedup the process
+* 1\. nommer le type d'opération selon les besoins
+* 2\. Type d'opération : sélectionner entre : Réception, Livraison, Transfert interne, Fabrication\
+  si nécessaire, un type d'opération spécifique pour les retours peut être défini,
+* 3\. sélectionner la séquence pour la numérotation des prélèvements ou définir le préfixe de code pour la séquence
+* 4\. définir si nous devons créer de nouveaux lots/numéros de série ou utiliser ceux existants pour ce prélèvement (habituellement nous les créons lors de la réception, ou en fabrication, et utilisons simplement les existants pour tous les autres prélèvements)
+* 5\. automatisation - le système doit-il remplir automatiquement les opérations et les lots/numéros de série ou laisser l'utilisateur les sélectionner manuellement
+* 6\. définir les emplacements source et cible par défaut pour certains mouvements aide à accélérer le processus

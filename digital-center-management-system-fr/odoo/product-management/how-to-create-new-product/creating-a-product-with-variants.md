@@ -1,69 +1,69 @@
 ---
 description: >-
-  The page provides instructions on managing product variants, particularly
-  addressing how to handle combinations of attributes and values that are not
-  feasible or available.
+  La page fournit des instructions sur la gestion des variantes de produit,
+  abordant en particulier la manière de traiter les combinaisons d'attributs et
+  de valeurs qui ne sont pas réalisables ou disponibles.
 ---
 
-# Creating a product with variants
+# Créer un produit avec variantes
 
-## Setting up a product with only one attribute
+## Configuration d'un produit avec un seul attribut
 
-When a product has some attributes that will define it as differences while preserving the main data in one place, we will use variants.\
-We will start with simple example:&#x20;
+Lorsqu'un produit possède certains attributs qui le définissent par des différences tout en conservant les données principales au même endroit, nous utiliserons des variantes.\
+Nous commencerons par un exemple simple :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F1Q6cdLcXq6yHz3iZIVR1%2Fimage.png?alt=media&#x26;token=6cff8c2a-aeba-4034-905a-7748a7778c80" alt=""><figcaption></figcaption></figure>
 
-* 1\. Reference prefix / t
-* 2\. Variant reference mask - when a product has variants we setup code prefix and reference mask to create final product code ( reference) by adding a part of code describing the variant\
-  by setting the attribute name in brackets the code for each variant will be created automaticly. NOTE: the variant name needs to be exact match otherwise the system will raise an error!
-* 3\. the number of variants is defined by the number of attributes and attribute values
+* 1\. Préfixe de référence / t
+* 2\. Masque de référence de variante - lorsqu'un produit possède des variantes, nous configurons un préfixe de code et un masque de référence pour créer le code final du produit (référence) en ajoutant une partie du code décrivant la variante\
+  en plaçant le nom de l'attribut entre crochets, le code de chaque variante sera créé automatiquement. REMARQUE : le nom de la variante doit correspondre exactement sinon le système générera une erreur !
+* 3\. le nombre de variantes est défini par le nombre d'attributs et de valeurs d'attribut
 
-<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F47YDH8h6LNTF02Qx92ow%2Fimage.png?alt=media&#x26;token=d495da93-39ca-4ac1-a911-d73765a73a77" alt=""><figcaption></figcaption></figure>
 
-In this example, the product has only one attribute ( Bandage width ) with 5 possible values - defining 5 possible variants.
+Dans cet exemple, le produit n'a qu'un seul attribut (Largeur du pansement) avec 5 valeurs possibles - définissant 5 variantes possibles.
 
-<figure><img src="../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FuGR7Vfi4DZYLxUlmVwbd%2Fimage.png?alt=media&#x26;token=3100fbee-3660-4f62-957b-da621b0de83d" alt=""><figcaption></figcaption></figure>
 
-Note the Internal reference of each product is generated according to Variant reference mask.
+Notez que la référence interne de chaque produit est générée conformément au masque de référence de la variante.
 
 {% hint style="danger" %}
-**Warning:** If your product has only one attribute with a single value, create it without variants to avoid unnecessary complexity and ensure a straightforward customer experience.
+**Avertissement :** Si votre produit n'a qu'un seul attribut avec une seule valeur, créez-le sans variantes afin d'éviter une complexité inutile et d'assurer une expérience client simple.
 {% endhint %}
 
-## Setting up a product with multiple attributes and values
+## Configuration d'un produit avec plusieurs attributs et valeurs
 
-When a product is defined with more than one attribute it will create a Cartesian product of attribute values as a final number of variants.
+Lorsqu'un produit est défini avec plus d'un attribut, il créera un produit cartésien des valeurs d'attributs comme nombre final de variantes.
 
-Here is two example : \
-In this example 2 sides x 2 sizes will create 4 variants.
+Voici deux exemples : \
+Dans cet exemple 2 côtés x 2 tailles créeront 4 variantes.
 
-![](<../../../.gitbook/assets/image (238).png>) <img src="../../../.gitbook/assets/image (237).png" alt="" data-size="original">
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FgENSMijJhQIjgUc1OpRy%2Fimage.png?alt=media\&token=caf4797a-bdde-4d96-8161-80c5f7bda4a2) <img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FJKEGKAlP8GwFZCpZJ7qm%2Fimage.png?alt=media&#x26;token=0b05c330-fc2c-4f8e-9d28-e8d555392c65" alt="" data-size="original">
 
 
 
-In this example there is 3 attributes , and total number of variants is 24
+Dans cet exemple il y a 3 attributs, et le nombre total de variantes est de 24
 
-<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FTNB5Js6uZZUOJZhJRL3U%2Fimage.png?alt=media&#x26;token=78384bd9-2a07-436a-b9f5-58bab564e2a1" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-For attributes color and foot size - there is more possible values , but only the selected values will define this product, (other products may have more foot size values)
+Pour les attributs couleur et pointure - il y a plus de valeurs possibles, mais seules les valeurs sélectionnées définiront ce produit (d'autres produits peuvent avoir plus de valeurs de pointure)
 {% endhint %}
 
-## Handling special cases
+## Gestion des cas particuliers
 
-In some special cases, when we have more attributes applied with multiple attribute values, some combinations are not possible/available.
+Dans certains cas particuliers, lorsque nous avons plusieurs attributs appliqués avec plusieurs valeurs d'attribut, certaines combinaisons ne sont pas possibles/disponibles.
 
-For example EVA FOAM come in different sheet dimensions and thicknesses, but\
-3mm and 6mm thick sheets only comes in 0.95m x 0.95m, while 12mm thick only comes in 1.10m x 1.10m\
-![](<../../../.gitbook/assets/image (240).png>)\
+Par exemple, la mousse EVA existe en différentes dimensions de feuilles et épaisseurs, mais\
+les feuilles de 3 mm et 6 mm d'épaisseur n'existent qu'en 0,95 m x 0,95 m, tandis que les 12 mm d'épaisseur n'existent qu'en 1,10 m x 1,10 m\
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FXqMvkPH6yyp30J7NpzIH%2Fimage.png?alt=media\&token=3879088c-0853-4ccf-a1a7-f6711c8bdc6c)\
 \
-To do that we need to follow these steps :\
-1\. Click on the "Variants" button, to see all the possible variants and check the impossible one \
-2\. Then go to "Action" > "Archive" :
+Pour cela, nous devons suivre ces étapes :\
+1\. Cliquez sur le bouton « Variantes » pour voir toutes les variantes possibles et cocher celles impossibles \
+2\. Ensuite, allez dans « Action » > « Archiver » :
 
-<figure><img src="../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FGILFTUsrUPRzTWIGKvBd%2Fimage.png?alt=media&#x26;token=dcc92632-39d4-4df8-9b43-6fb75800deb4" alt=""><figcaption></figcaption></figure>
 
-So finally, we have only the possible variants visible in the system
+Ainsi, enfin, seules les variantes possibles sont visibles dans le système
 
-<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FAIyy8QP7BPqnnQVSqZnu%2Fimage.png?alt=media&#x26;token=3488ef75-dcb0-46de-87ae-bf723d684ae6" alt=""><figcaption></figcaption></figure>

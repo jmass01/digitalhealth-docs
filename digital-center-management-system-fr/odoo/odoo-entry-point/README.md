@@ -1,21 +1,21 @@
-# Odoo Entry Point
+# Point d'entrée Odoo
 
-## 🧩 What is Odoo?
+## 🧩 Qu'est-ce qu'Odoo ?
 
-**Odoo** is an open-source, modular Enterprise Resource Planning (ERP) platform used by organizations to streamline and automate various business processes. Its strength lies in its flexibility — businesses can choose only the modules they need and customize them to fit unique workflows.
+**Odoo** est une plateforme de planification des ressources d'entreprise (ERP) modulaire et open-source utilisée par les organisations pour rationaliser et automatiser divers processus métier. Sa force réside dans sa flexibilité — les entreprises peuvent choisir uniquement les modules dont elles ont besoin et les personnaliser pour s'adapter à des flux de travail uniques.
 
-In most centers contexts, **Odoo is used as a central tool to manage the full lifecycle of prosthetic devices** — from the moment a prescription is made to the final delivery of the prosthesis to the Service User. Beyond production, it also supports related operations such as stock tracking, dormitory management and even more.
+Dans la plupart des contextes des centres, **Odoo est utilisé comme un outil central pour gérer le cycle de vie complet des dispositifs prothétiques** — depuis le moment où une prescription est établie jusqu'à la livraison finale de la prothèse à l'utilisateur du service. Au-delà de la production, il prend également en charge des opérations connexes telles que le suivi des stocks, la gestion des dortoirs et bien plus encore.
 
-In this chapter, we will cover the essential basics to help you get started with Odoo.
+Dans ce chapitre, nous couvrirons les bases essentielles pour vous aider à démarrer avec Odoo.
 
-Here's what you'll learn:
+Voici ce que vous apprendrez :
 
-* **🔑 How to Access Odoo**\
-  Step-by-step instructions for logging into the system and accessing your environment.
-* **📂 Understanding the Landing Page Menu**\
-  A quick tour of the home screen and how to navigate through the different available applications.
-* **🖥️ Overview of the Odoo Interface**\
-  A look at the standard layout of an Odoo module, including common buttons, menus, and how to interact with forms and lists.
-* **👤 Roles and Privileges**\
-  An explanation of how access is managed in Odoo, what roles exist by default, and how your permissions might differ depending on your user profile or the setup of your organization.
+* **🔑 Comment accéder à Odoo**\
+  Instructions étape par étape pour vous connecter au système et accéder à votre environnement.
+* **📂 Comprendre le menu de la page d'accueil**\
+  Une visite rapide de l'écran d'accueil et comment naviguer à travers les différentes applications disponibles.
+* **🖥️ Aperçu de l'interface Odoo**\
+  Un aperçu de la disposition standard d'un module Odoo, y compris les boutons et menus courants, et comment interagir avec les formulaires et les listes.
+* **👤 Rôles et privilèges**\
+  Une explication de la façon dont l'accès est géré dans Odoo, quels rôles existent par défaut et comment vos autorisations peuvent varier en fonction de votre profil utilisateur ou de la configuration de votre organisation.
 

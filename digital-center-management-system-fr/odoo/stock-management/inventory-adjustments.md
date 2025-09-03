@@ -1,17 +1,17 @@
-# Inventory adjustments
+# Ajustements d'inventaire
 
-To manage inventory in Odoo, you can create an inventory adjustment. Start by navigating to "Inventory" > "Operations" > "Inventory Adjustments".
+Pour gérer l'inventaire dans Odoo, vous pouvez créer un ajustement d'inventaire. Commencez par aller dans "Inventaire" > "Opérations" > "Ajustements d'inventaire".
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fw68tzLMi6jdl5bbcICrm%2Fimage.png?alt=media&#x26;token=66a6bbed-3996-4a07-a2aa-6ea9c13cb577" alt=""><figcaption></figcaption></figure>
 
-&#x20;From there, create a new record and select the location you want to update. Typically, this will be either "WH/Stock" (main stock) or the "WH/Workshop" (workshop location).
+&#x20;À partir de là, créez un nouvel enregistrement et sélectionnez l'emplacement que vous souhaitez mettre à jour. En général, il s'agira soit de "WH/Stock" (stock principal) soit de "WH/Workshop" (emplacement de l'atelier).
 
-If you want to include all products, even those with zero stock, make sure to check the "Include exhausted products" field.&#x20;
+Si vous voulez inclure tous les produits, même ceux avec un stock nul, assurez-vous de cocher le champ "Inclure les produits épuisés".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fvf552R4ynUtn7LmrNo4M%2Fimage.png?alt=media&#x26;token=29472e88-b8bc-4836-9b8c-e8f1e90c5912" alt=""><figcaption></figcaption></figure>
 
-Next, click on "Start Inventory". This will allow you to update each product line with the actual stock value. If a product is not listed, you can click on the "Create" button to add a new line.
+Ensuite, cliquez sur "Démarrer l'inventaire". Cela vous permettra de mettre à jour chaque ligne produit avec la valeur de stock réelle. Si un produit n'est pas listé, vous pouvez cliquer sur le bouton "Créer" pour ajouter une nouvelle ligne.
 
-As you update the quantities, any lines with discrepancies between the counted stock and the stock on hand will be highlighted in red. Once all quantities are accurate, you can proceed by clicking on "Validate Inventory". This action will lock the inventory and update the stock based on the inventory adjustment.
+Au fur et à mesure que vous mettez à jour les quantités, toutes les lignes présentant des écarts entre le stock compté et le stock disponible seront mises en évidence en rouge. Une fois que toutes les quantités sont exactes, vous pouvez continuer en cliquant sur "Valider l'inventaire". Cette action verrouillera l'inventaire et mettra à jour le stock en fonction de l'ajustement d'inventaire.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FcfGCEP71ZNSKHKA3R7Jv%2Fimage.png?alt=media&#x26;token=e90bd461-ba37-4af7-bb55-38e20ae56fce" alt=""><figcaption></figcaption></figure>

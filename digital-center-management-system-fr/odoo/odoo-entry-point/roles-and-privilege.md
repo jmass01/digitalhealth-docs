@@ -1,24 +1,24 @@
 ---
-description: Quick overview of the role in odoo
+description: Aperçu rapide du rôle dans Odoo
 ---
 
-# Roles and privilege
+# Rôles et privilège
 
 {% hint style="warning" %}
-These roles reflect the **default access settings** in Odoo, but depending on the context or organization setup, the actual responsibilities may differ in practice. Always refer to your local workflow for accurate role assignments.
+Ces rôles reflètent le **paramètres d'accès par défaut** dans Odoo, mais selon le contexte ou la configuration de l'organisation, les responsabilités réelles peuvent différer en pratique. Référez-vous toujours à votre flux de travail local pour des affectations de rôle précises.
 {% endhint %}
 
-## Existing Roles
+## Rôles existants
 
-* **Benchworker**: Access to Manufacturing and Repair modules, with limited access to Stock.
-* **P\&O**: Access to Service User records, Material Requests, and Repair functions.
-* **Head of P\&O**: Same access as P\&O, with additional rights to validate Manufacturing Orders and authorize certain steps in the manufacturing process.
-* **Dormitory Manager**: Access limited to Dormitory management information.
-* **Admin L3**: ICRC Administrator with full access.
-* **Receptionist**: Role defined but not currently in use.
-* **Social Worker**: Role defined but not currently in use.
-* **Storekeeper**: Access to Stock, Manufacturing, and Repair modules.
-* **DCMS Administrator**: Center Administrator with broad administrative access.
+* **Ouvrier d'atelier** : Accès aux modules Fabrication et Réparation, avec un accès limité au Stock.
+* **P\&O** : Accès aux fiches Utilisateur de Service, aux Demandes de Matériel et aux fonctions de Réparation.
+* **Responsable P\&O** : Même accès que P\&O, avec des droits supplémentaires pour valider les Ordres de Fabrication et autoriser certaines étapes du processus de fabrication.
+* **Gestionnaire de dortoir** : Accès limité aux informations de gestion du dortoir.
+* **Admin L3** : Administrateur CICR avec accès complet.
+* **Réceptionniste** : Rôle défini mais non utilisé actuellement.
+* **Travailleur social** : Rôle défini mais non utilisé actuellement.
+* **Magasinier** : Accès aux modules Stock, Fabrication et Réparation.
+* **Administrateur DCMS** : Administrateur du centre avec un large accès administratif.
 
 
 

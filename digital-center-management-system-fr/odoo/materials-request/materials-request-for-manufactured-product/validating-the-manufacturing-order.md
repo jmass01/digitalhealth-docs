@@ -1,87 +1,87 @@
 ---
-description: How to confirm the Manufacturing Order
+description: Comment confirmer l'ordre de fabrication
 ---
 
-# Validating the Manufacturing Order
+# Validation de l'ordre de fabrication
 
 {% hint style="info" %}
-Roles recommended : P&0&#x20;
+Rôles recommandés : P&0&#x20;
 {% endhint %}
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-This step takes place after **all work order steps have been successfully validated**, and **all used components are now available at the Workshop location**.&#x20;
+Cette étape a lieu après **que toutes les étapes d'ordre de travail ont été validées avec succès**, et **tous les composants utilisés sont désormais disponibles à l'emplacement de l'atelier**.&#x20;
 
-The manufacturing process is complete, and the system is ready for the **final step of the Manufacturing Order** to confirm production completion.
+Le processus de fabrication est terminé, et le système est prêt pour **l'étape finale de l'Ordre de Fabrication** pour confirmer l'achèvement de la production.
 
-## 🔄 Step-by-Step Flow&#x20;
+## 🔄 Flux étape par étape&#x20;
 
-### Accessing the Manufacturing order
+### Accéder à l'ordre de fabrication
 
 {% tabs %}
-{% tab title="Via the SU management" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la gestion des SU" %}
+Sur la page d'accueil, allez à l'icône « Service User Management ».
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the SU form, you'll find a button labeled "**MRP Production**". Clicking it will open all manufacturing orders associated with that specific Service User.
+Dans le formulaire SU, vous trouverez un bouton intitulé «**MRP Production** ». En cliquant dessus, toutes les ordres de fabrication associées à ce Service User spécifique s'ouvriront.
 
-<figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FS01b7vaSf3ePt9ZKhwlp%2Fimage.png?alt=media&#x26;token=8e0471ce-5f15-4335-9642-965f56d31f79" alt=""><figcaption></figcaption></figure>
 
 
 {% endtab %}
 
-{% tab title="Via the Manufacturing application" %}
-On the home page, go to the icon "Manufacturing".
+{% tab title="Via l'application Manufacturing" %}
+Sur la page d'accueil, allez à l'icône « Manufacturing ».
 
-<figure><img src="../../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FtXcdYty56UzWoCp3mxbq%2Fimage.png?alt=media&#x26;token=8fe5597a-ec02-4689-af85-a7abaa1e217e" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all Manufacturing Orders here. Use the search bar at the top to find the correct Manufacturing by their reference, by their patient name, SU[^1] ID ... Please ensure to select the correct option.
+Vous pouvez voir ici une liste de tous les Ordres de Fabrication. Utilisez la barre de recherche en haut pour trouver le bon Ordre de Fabrication par sa référence, par le nom du patient, SU[^1] ID ... Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F2NQNb4AjLxVmBf7fQxlC%2Fimage.png?alt=media&#x26;token=308cab1c-96c7-4aff-aeba-b26b63fdc9b7" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-### Validate the Manufacturing order
+### Valider l'ordre de fabrication
 
-To validate a Manufacturing Order (MO), click on the “Mark Done” button. Several checks are performed during validation:
+Pour valider un Ordre de Fabrication (OF), cliquez sur le bouton « Marquer comme terminé ». Plusieurs vérifications sont effectuées lors de la validation :
 
-1.  If any work order is still open, a pop-up will inform you to complete all work orders first.\
-
-
-    <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
-2.  If the consumed quantity differs, a pop-up will warn you. After reviewing, you can either “Confirm” or “Review the consumption” in more detail\
+1.  Si un quelconque ordre de travail est encore ouvert, une fenêtre contextuelle vous informera de terminer d'abord tous les ordres de travail.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
-3.  If no serial number was assigned, a pop-up will prompt you to provide a Lot/serial number.\
+    <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FXSK72PgIKpeEzCkSvHbU%2Fimage.png?alt=media&#x26;token=08a97def-a26e-4f1b-955e-b698075e2ede" alt=""><figcaption></figcaption></figure>
+2.  Si la quantité consommée diffère, une fenêtre contextuelle vous avertira. Après examen, vous pouvez soit « Confirmer » soit « Revoir la consommation » plus en détail\
+
+
+    <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FABUtnDEndPBb8ovACkJZ%2Fimage.png?alt=media&#x26;token=16c2d4e0-df52-46f3-ab54-ca28d6d6f338" alt=""><figcaption></figcaption></figure>
+3.  Si aucun numéro de série n'a été attribué, une fenêtre contextuelle vous invitera à fournir un numéro de lot/numéro de série.\
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FLPY9qyZ6asqIHT1ANPKZ%2Fimage.png?alt=media&#x26;token=25dbc19b-2d4a-4219-889d-b2b658cc2b6b" alt=""><figcaption></figcaption></figure>
 
-To assign a Lot/serial number, return to the MO, create a new Lot manually or click the + button to add the serial number, and re-validate the record.
+Pour attribuer un numéro de lot/numéro de série, retournez à l'OF, créez un nouveau lot manuellement ou cliquez sur le bouton + pour ajouter le numéro de série, puis revalidez l'enregistrement.
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FkDGvjG9Xg23LuaOhqfa5%2Fimage.png?alt=media&#x26;token=aa5697e7-5cb7-432d-bcd9-863e948eb9cc" alt=""><figcaption></figcaption></figure>
 
-After resolving any issues, the MO status will change to “Done” and become read-only.&#x20;
+Après résolution de tout problème, le statut de l'OF passera à « Terminé » et deviendra en lecture seule.&#x20;
 
-The product manufactured will enter in the stock.&#x20;
+Le produit fabriqué entrera en stock.&#x20;
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Aperçu visuel&#x20;
 
-TODO Mermaid graph
+Graphique Mermaid à faire
 
-## What's next?&#x20;
+## Et après ?&#x20;
 
-After finalizing the manufacturing order, the next step is to deliver the prosthesis to the Service User.
+Après avoir finalisé l'ordre de fabrication, l'étape suivante est de livrer la prothèse au Service User.
 
-[Click here to access this action ](../delivering-product-to-the-su.md)
+[Cliquez ici pour accéder à cette action ](../remise-du-produit-a-lutilisateur-de-service)
 
 
 
-[^1]: Service provider
+[^1]: Prestataire de service

@@ -1,55 +1,55 @@
-# Materials request for Manufactured product
+# Demande de matériaux pour produit manufacturé
 
-In this section, we will explain the flow of the Manufacturing Resource Planning (MRP) process in Odoo, specifically for handling service user requests for medical devices such as prostheses, orthotics, crutches, wheelchairs, walking aids or other materials.
+Dans cette section, nous expliquerons le déroulement du processus de planification des ressources de fabrication (MRP) dans Odoo, spécifiquement pour la gestion des demandes des usagers de service concernant des dispositifs médicaux tels que prothèses, orthèses, béquilles, fauteuils roulants, aides à la marche ou autres matériels.
 
-## Prerequisite
+## Prérequis
 
-The process begins when a service user requests a specific device. This triggers a series of steps to ensure the requested item is properly configured, manufactured, and delivered.
+Le processus commence lorsqu’un usager de service demande un dispositif spécifique. Cela déclenche une série d’étapes pour s’assurer que l’article demandé est correctement configuré, fabriqué et livré.
 
-## MRP Process Flow
+## Flux du processus MRP
 
 {% stepper %}
 {% step %}
-### Identify the service user
+### Identifier l’usager de service
 
-Locate the service user in the "Service User Management" menu.
+Localisez l’usager de service dans le menu « Gestion des usagers de service ».
 {% endstep %}
 
 {% step %}
-### [Create the Bill of Materials (BoM)](creating-the-bom-configuration.md)
+### [Créer la nomenclature (BoM)](demande-de-materiaux-pour-produit-manufacture/creation-de-la-configuration-de-nomenclature-bom)
 
-Create a BoM configuration to define the product attributes (e.g., side, size, color).
+Créez une configuration de nomenclature pour définir les attributs du produit (par exemple : côté, taille, couleur).
 {% endstep %}
 
 {% step %}
-### [Validate the Bill of Materials (BoM)](managing-mrp-order.md)
+### [Valider la nomenclature (BoM)](demande-de-materiaux-pour-produit-manufacture/gestion-des-ordres-mrp)
 
-Confirm the configuration. In some cases, a superior’s validation is required to proceed with the manufacturing order.
+Confirmez la configuration. Dans certains cas, la validation d’un supérieur est requise pour poursuivre l’ordre de fabrication.
 {% endstep %}
 
 {% step %}
-### Manufacturing Process
+### Processus de fabrication
 
-* Start the manufacturing order.
-* Process each work order step-by-step.
-* In certain cases, an additional validation by another person may be required.
+* Démarrez l’ordre de fabrication.
+* Traitez chaque ordre de travail étape par étape.
+* Dans certains cas, une validation supplémentaire par une autre personne peut être requise.
 {% endstep %}
 
 {% step %}
-### Complete the manufacturing Order
+### Terminer l’ordre de fabrication
 
-Finalize the manufacturing process once all work orders are completed.
+Finalisez le processus de fabrication une fois que tous les ordres de travail sont complétés.
 {% endstep %}
 
 {% step %}
-### Deliver the Device to the SU
+### Remettre le dispositif à l’usager de service
 
-* Go to the service user form.
-* Check for an open delivery and complete the delivery process.
+* Accédez au formulaire de l’usager de service.
+* Vérifiez s’il existe une livraison ouverte et complétez le processus de livraison.
 {% endstep %}
 {% endstepper %}
 
-## Flow chart
+## Organigramme
 
 {% @mermaid/diagram content="---
 config:

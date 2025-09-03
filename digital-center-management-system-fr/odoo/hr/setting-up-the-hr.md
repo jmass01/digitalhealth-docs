@@ -1,24 +1,24 @@
 ---
-description: This page explain how to setup the HR data
+description: Cette page explique comment configurer les données RH
 ---
 
-# Setting up the HR
+# Mise en place des RH
 
-## Creating new department
+## Création d'un nouveau département
 
-* **Go to Employees Module**: Navigate to the **"Employees"** app from the main dashboard.
-* **Access Departments**: In the top menu, click on **"Configuration" > "Departments"**.
-* **Create a New Department**: Click the **"Create"** button to add a new department.
-* **Fill in Department Details**: Enter the **Department Name**, select a **Parent Department** (if applicable), assign a **Manager**, and set any other necessary details.
-* **Save the Department**: Click **"Save"**, and the new department is now available
+* **Aller au module Employés**: Naviguer vers le **"Employés"** application depuis le tableau de bord principal.
+* **Accéder aux départements**: Dans le menu supérieur, cliquez sur **"Configuration" > "Départements"**.
+* **Créer un nouveau département**: Cliquez sur le **"Créer"** bouton pour ajouter un nouveau département.
+* **Remplir les détails du département**: Saisir le **Nom du département**, sélectionner un **Département parent** (le cas échéant), attribuer un **Responsable**, et définir tous les autres détails nécessaires.
+* **Enregistrer le département**: Cliquer sur **"Enregistrer"**, et le nouveau département est maintenant disponible
 
-## Creating new jobs&#x20;
+## Création de nouveaux postes&#x20;
 
-* **Go to Employees Module**: From the main dashboard, open the **"Employees"** app.
-* **Access Job Positions**: Navigate to **"Configuration" > "Job Positions"** in the top menu.
-* **Create a New Job Position**: Click the **"Create"** button to add a new job.
-* **Fill in Job Details**: Enter the **Job Title**, select the **Department**, and assign a **Manager** if needed. You can also define the expected number of employees for this position.
-* **Save the Job Position**: Click **"Save"**
+* **Aller au module Employés**: Depuis le tableau de bord principal, ouvrez l' **"Employés"** application.
+* **Accéder aux postes**: Naviguer vers **"Configuration" > "Postes"** dans le menu supérieur.
+* **Créer un nouveau poste**: Cliquez sur le **"Créer"** bouton pour ajouter un nouvel emploi.
+* **Remplir les détails du poste**: Saisir le **Intitulé du poste**, sélectionner le **Département**, et attribuer un **Responsable** si nécessaire. Vous pouvez également définir le nombre prévu d'employés pour ce poste.
+* **Enregistrer le poste**: Cliquer sur **"Enregistrer"**
 
 
 

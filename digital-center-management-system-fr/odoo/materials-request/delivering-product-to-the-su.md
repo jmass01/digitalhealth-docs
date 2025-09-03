@@ -1,58 +1,58 @@
-# Delivering product to the SU
+# Remise du produit à l'Utilisateur de Service
 
 {% hint style="info" %}
-## Roles recommended :  P\&O
+## Rôles recommandés : P\&O
 {% endhint %}
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-This flow should be followed **after the Manufacturing Order has been validated** or **when a delivery has been manually created for a Service User (SU)**. At this stage, the product is ready for dispatch, and the delivery process must be completed to ensure the product reaches the SU and the stock is accurately updated.
+Ce flux doit être suivi **après que l'Ordre de Fabrication a été validé** ou **lorsqu'une livraison a été créée manuellement pour un Utilisateur de Service (SU)**. À ce stade, le produit est prêt à être expédié et le processus de livraison doit être complété pour garantir que le produit parvienne au SU et que le stock soit mis à jour avec précision.
 
-## 🔄 Step-by-Step Flow&#x20;
+## 🔄 Flux étape par étape&#x20;
 
-### Accessing the Transfer order
+### Accéder à l'ordre de transfert
 
 {% tabs %}
-{% tab title="Via the SU management" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la gestion du SU" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the SU form, you'll find a tab labeled "**Stock items**". Clicking it will show all transfer orders associated with that specific Service User.&#x20;
+Dans le formulaire SU, vous trouverez un onglet intitulé "**Éléments de stock**". En cliquant dessus, vous verrez tous les ordres de transfert associés à cet Utilisateur de Service spécifique.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FniSbVG2ONAzGYSPJCWr5%2Fimage.png?alt=media&#x26;token=49962a84-dcab-4a48-a697-771b9a223e49" alt=""><figcaption></figcaption></figure>
 
 
 {% endtab %}
 
-{% tab title="Via the Inventory application" %}
-On the home page, go to the icon "Inventory".
+{% tab title="Via l'application Inventaire" %}
+Sur la page d'accueil, allez sur l'icône « Inventaire ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FeNwL1w4TBoeI2GvrH9hi%2Fimage.png?alt=media&#x26;token=7ae73df6-66b3-4ebe-9716-8f103b064905" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all operation types from this page. Locate the operation type called **"Delivery Orders"**. Within this section, you'll find several useful links: a button that takes you to deliveries ready to be processed, a number indicating how many deliveries are currently waiting on another transfer, and another number showing the count of late deliveries.
+Vous pouvez consulter la liste de tous les types d'opération depuis cette page. Repérez le type d'opération appelé **"Ordres de livraison"**. Dans cette section, vous trouverez plusieurs liens utiles : un bouton qui vous mène aux livraisons prêtes à être traitées, un chiffre indiquant combien de livraisons attendent actuellement un autre transfert, et un autre chiffre montrant le nombre de livraisons en retard.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FpZtgdjXkTQeuvC5jAe0S%2Fimage.png?alt=media&#x26;token=069aa569-8132-4379-b4a8-d5165dea9d7a" alt=""><figcaption></figcaption></figure>
 
-Use the search bar at the top to find the correct delivery by their reference, by their patient name, SU[^1] ID ... Please ensure to select the correct option.
+Utilisez la barre de recherche en haut pour trouver la bonne livraison par sa référence, par le nom du patient, SU[^1] ID ... Veuillez vous assurer de sélectionner la bonne option.
 {% endtab %}
 {% endtabs %}
 
-### Validating the transfer order
+### Validation de l'ordre de transfert
 
-In both cases, the process follows the step as for any other stock move. To see how to process it refer to “[Manage a stock move](../stock-management/)”.
+Dans les deux cas, le processus suit les mêmes étapes que pour tout autre mouvement de stock. Pour savoir comment le traiter, référez-vous à «[Gérer un mouvement de stock](../gestion-des-stocks)».
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwL7HOsCE6UGcr9GxZXeL%2Fimage.png?alt=media&#x26;token=b3270733-000f-456a-ac88-09f093d46e19" alt=""><figcaption></figcaption></figure>
 
-&#x20;When validating this order, it signifies that the product has been received by the client and will no longer be available in stock. This action updates the inventory accordingly, reflecting the outgoing shipment and ensuring accurate stock management. This mark also the end of the process.
+&#x20;La validation de cet ordre signifie que le produit a été reçu par le client et ne sera plus disponible en stock. Cette action met à jour l'inventaire en conséquence, reflétant l'expédition sortante et garantissant une gestion précise des stocks. Cela marque également la fin du processus.
 
 
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Aperçu visuel&#x20;
 
 {% @mermaid/diagram content="graph LR
     B[Delivery Order Created]
@@ -68,8 +68,8 @@ In both cases, the process follows the step as for any other stock move. To see 
     D -- No --> H[Wait for internal transfer / Restock]
     H --> C" %}
 
-## What's next?&#x20;
+## Et ensuite ?&#x20;
 
-By validating this order, you **confirm that the product** has been successfully delivered to the Service User and is no longer in stock. The inventory is automatically updated to reflect this change. With this final step completed, the process is now finished. No further action is required.
+En validant cet ordre, vous **confirmez que le produit** a été livré avec succès à l'Utilisateur de Service et n'est plus en stock. L'inventaire est automatiquement mis à jour pour refléter ce changement. Une fois cette étape finale effectuée, le processus est terminé. Aucune autre action n'est requise.
 
-[^1]: Service provider
+[^1]: Fournisseur de service

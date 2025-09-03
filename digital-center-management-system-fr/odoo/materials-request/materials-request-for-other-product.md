@@ -1,63 +1,63 @@
-# Materials Request for other product
+# Demande de matériaux pour autre produit
 
 {% hint style="info" %}
-## Roles recommended :  P\&O, Benchworker
+## Rôles recommandés : P\&O, Opérateur d'atelier
 {% endhint %}
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-This flow should be followed to create a material request for any product that is not manufactured internally, such as bandages, medication, or other consumables.&#x20;
+Ce flux doit être suivi pour créer une demande de matériel pour tout produit qui n'est pas fabriqué en interne, comme des bandages, des médicaments ou d'autres consommables.&#x20;
 
-It serves as a simplified process to record and track which non-manufactured items have been provided to the Service User like bandage, medicaments or any other items.
+Il sert de processus simplifié pour enregistrer et suivre quels articles non fabriqués ont été fournis à l'Usager du Service, tels que bandages, médicaments ou tout autre article.
 
-&#x20;By following this flow, you ensure that these distributions are properly registered in the system, supporting both inventory accuracy and traceability of care-related materials.
+&#x20;En suivant ce flux, vous vous assurez que ces distributions sont correctement enregistrées dans le système, soutenant à la fois la précision des stocks et la traçabilité des matériels liés aux soins.
 
-## 🔄 Step-by-Step Flow&#x20;
+## 🔄 Flux étape par étape&#x20;
 
-### Create the request
+### Créer la demande
 
 {% tabs %}
-{% tab title="Via the SU management" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la gestion des US" %}
+Sur la page d'accueil, allez à l'icône « Gestion des Usagers du Service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les US[^1]s ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou US[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the SU form, you'll find a button labeled "**Create delivery**". Clicking it will create a new delivery order associated with that specific Service User.
+Dans le formulaire de l'US, vous trouverez un bouton intitulé « **Créer une livraison** ». En cliquant dessus, une nouvelle commande de livraison associée à cet Usager du Service spécifique sera créée.
 
-<figure><img src="../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FGPN9ll3ANq8NJaCj71kb%2Fimage.png?alt=media&#x26;token=9a305b89-6afd-420d-9db2-ef606f364849" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via the Inventory application" %}
-On the home page, go to the icon "Inventory".
+{% tab title="Via l'application Inventaire" %}
+Sur la page d'accueil, allez à l'icône « Inventaire ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fd39KdsWfokppbM1y5kFe%2Fimage.png?alt=media&#x26;token=6d91fbf2-41c1-400b-9369-347f7c3d38ed" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all operation types from this page. Locate the operation type usually called **"Delivery order"**. Within this section, you'll find several useful links: a button that takes you to deliveries ready to be processed, a number indicating how many pickings are currently waiting on another transfer, and another number showing the count of late pickings.
+Vous pouvez consulter une liste de tous les types d'opération depuis cette page. Localisez le type d'opération généralement appelé **« Bon de livraison »**. Dans cette section, vous trouverez plusieurs liens utiles : un bouton qui vous mène aux livraisons prêtes à être traitées, un chiffre indiquant combien de préparations (pickings) attendent actuellement un autre transfert, et un autre chiffre montrant le nombre de préparations en retard.
 
-<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FRKxDz5JFa4yk0ZS26W7K%2Fimage.png?alt=media&#x26;token=e4aeaefc-7168-4203-aa9a-5467e73417be" alt=""><figcaption></figcaption></figure>
 
-Click on the button with " X to Process" then on create.
+Cliquez sur le bouton avec « X à traiter » puis sur créer.
 
 
 {% endtab %}
 {% endtabs %}
 
-### Choosing which product to deliver
+### Choisir quel produit livrer
 
 
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Vue d'ensemble visuelle&#x20;
 
-TODO Mermaid graph
+Graphique Mermaid TODO
 
-## What's next?&#x20;
+## Et après ?&#x20;
 
-After finalizing the manufacturing order, the next step is to deliver the prosthesis to the Service User for the stock manager and for the P\&O to wait for this stock allocation for processing the Manufacturing order.
+Après la finalisation de l'ordre de fabrication, l'étape suivante est de délivrer la prothèse à l'Usager du Service pour que le gestionnaire de stock et le P\&O attendent cette allocation de stock afin de traiter l'ordre de fabrication.
 
-[Click here to access this action ](delivering-product-to-the-su.md)
+[Cliquez ici pour accéder à cette action ](remise-du-produit-a-lutilisateur-de-service)
 
-[^1]: Service provider
+[^1]: Fournisseur de services

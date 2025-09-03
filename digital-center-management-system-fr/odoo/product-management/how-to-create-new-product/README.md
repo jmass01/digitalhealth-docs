@@ -1,10 +1,10 @@
-# How to create new product
+# Comment créer un nouveau produit
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
 
 
-## Difference between Product and Product Variant&#x20;
+## Différence entre Produit et Variante de Produit&#x20;
 
 {% @mermaid/diagram content="flowchart TD
     A["Start - Create New Product"] --> B["Set Product Name & Type (Storable, Consumable, Service)"]
@@ -25,5 +25,6 @@
     click n2 "https://app.gitbook.com/o/llCOVrc7ZrWQ6rzyYOmd/s/nTWGcVv7ikvz7HIC0Dby/~/changes/58/odoo/product-management/creation-of-product/creating-a-product-with-variants"
     click n3 "https://app.gitbook.com/o/llCOVrc7ZrWQ6rzyYOmd/s/nTWGcVv7ikvz7HIC0Dby/~/changes/58/odoo/product-management/creation-of-product/creating-a-product-without-variants"
 
-" %}
+
+" %}
 

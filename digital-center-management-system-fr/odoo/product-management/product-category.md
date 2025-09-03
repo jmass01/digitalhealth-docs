@@ -1,36 +1,36 @@
-# Product category
+# Catégorie de produit
 
-Product categories play a crucial role in organizing and managing inventory effectively.
+Les catégories de produits jouent un rôle crucial dans l'organisation et la gestion efficaces des stocks.
 
-Product categories help determine how inventory is valued. Each category can be assigned a specific valuation method such as Standard Price or FIFO (First In, First Out), impacting how the cost of goods sold (COGS) and inventory valuation are calculated.
+Les catégories de produits aident à déterminer la façon dont les stocks sont évalués. Chaque catégorie peut se voir attribuer une méthode d'évaluation spécifique telle que le prix standard ou FIFO (First In, First Out), ce qui influence la façon dont le coût des marchandises vendues (COGS) et l'évaluation des stocks sont calculés.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FC6EVnr39OsdWCZ6C0Kzy%2Fimage.png?alt=media&#x26;token=752b0bfe-5c2f-4cd7-a5aa-43190265c21d" alt=""><figcaption></figcaption></figure></div>
 
-Product categories facilitate efficient logistics and organization. They allow products to be grouped based on similar characteristics, such as type, function, or usage. This grouping simplifies inventory searches, reporting, and ensures products are stored and managed logically.
+Les catégories de produits facilitent la logistique et l'organisation efficaces. Elles permettent de regrouper les produits en fonction de caractéristiques similaires, telles que le type, la fonction ou l'utilisation. Ce regroupement simplifie les recherches d'inventaire, les rapports et garantit que les produits sont stockés et gérés de manière logique.
 
-Overall, product categories in Odoo are fundamental for structuring inventory management, optimizing logistics, facilitating accurate valuation, enabling detailed reporting, and automating workflows.
+Dans l'ensemble, les catégories de produits dans Odoo sont fondamentales pour structurer la gestion des stocks, optimiser la logistique, faciliter une évaluation précise, permettre des rapports détaillés et automatiser les flux de travail.
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F7asJh3ims16lB4vOiVTp%2Fimage.png?alt=media&#x26;token=38ba51c0-6bad-4030-9b40-a059d4645974" alt=""><figcaption></figcaption></figure>
 
-* 1\. Category name , required , do not use parent categ name it will be generated
-* 2\. Parent category - select the apropriate parent category
-* 3\. Routes - stock routes applied on this category, and all subcategories\
-  Total routes is calculated based on all routes selected for this and all parent categories
-* 4\. Force removal strategy - selectable per category, Usualy there will be
-  * FIFO - First in First out
-  * LIFO - Last In First Out
-  * FEFO - First Expiry First Out (only if we use expiry dates)
-* 5\. Negative Stock - in general it should not be used...
-* 6\. Costing method determines ho cost of product is calculated and recorded for stock valuation purposes, available options are:
-  * Standard price - price set on product is used for valuation
-  * FIFO - First in First out - the valuation of stock is calculated in order of receipts of goods with appropiriate prices
-  * AVCO - Average cost - Each receipt impacts the recalculation of average cost price
-* 7\. Inventory valuation (trigger)\
-  \- Manual - manualy (periodicaly trigger the stock (re)valuation calculation\
-  \- Automated - each stock move creates automaticly the valuation layer calculation in real time
-* 8\. Account properties - set them according to accounting needs, used to record valuation of stock moves in accounting
-* 9\. OPTIONAL - if center uses language other than english, it is used to display Category name in english for easier support and data analyze
-* 10\. - Check products in this category - WARNING - ONLY products in THIS category , not the child categories!!
-* 11\. Puttaway rules - rarely used
+* 1\. Nom de la catégorie , obligatoire , ne pas utiliser le nom de la catégorie parent il sera généré
+* 2\. Catégorie parente - sélectionnez la catégorie parente appropriée
+* 3\. Routes - routes de stock appliquées à cette catégorie, et à toutes les sous-catégories\
+  Le total des routes est calculé en fonction de toutes les routes sélectionnées pour cette catégorie et pour toutes les catégories parentes
+* 4\. Stratégie de retrait forcé - sélectionnable par catégorie, habituellement il y aura
+  * FIFO - Premier entré Premier sorti
+  * LIFO - Dernier entré Premier sorti
+  * FEFO - Premier à expirer Premier sorti (uniquement si nous utilisons des dates d'expiration)
+* 5\. Stock négatif - en général, il ne devrait pas être utilisé...
+* 6\. La méthode de valorisation détermine comment le coût du produit est calculé et enregistré à des fins d'évaluation des stocks, les options disponibles sont :
+  * Prix standard - le prix défini sur le produit est utilisé pour l'évaluation
+  * FIFO - Premier entré Premier sorti - l'évaluation des stocks est calculée dans l'ordre des réceptions de marchandises avec les prix appropriés
+  * AVCO - Coût moyen - chaque réception impacte le recalcul du prix de coût moyen
+* 7\. Évaluation des stocks (déclencheur)\
+  \- Manuel - manuellement (déclencher périodiquement le calcul de (ré)évaluation des stocks)\
+  \- Automatique - chaque mouvement de stock crée automatiquement le calcul de la couche d'évaluation en temps réel
+* 8\. Propriétés comptables - définissez-les selon les besoins comptables, utilisées pour enregistrer la valorisation des mouvements de stock en comptabilité
+* 9\. OPTIONNEL - si le centre utilise une langue autre que l'anglais, cela sert à afficher le nom de la catégorie en anglais pour faciliter le support et l'analyse des données
+* 10\. - Vérifier les produits dans cette catégorie - ATTENTION - UNIQUEMENT les produits dans CETTE catégorie, pas les sous-catégories !!
+* 11\. Règles de rangement (putaway) - rarement utilisées
