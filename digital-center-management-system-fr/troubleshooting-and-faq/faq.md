@@ -1,133 +1,133 @@
 # FAQ
 
-### **The DCMS**&#x20;
+### **Le DCMS**&#x20;
 
-#### **Question:** What is the DCMS?
+#### **Question :** Qu'est-ce que le DCMS ?
 
-The Digital Centre[^1] Management System (DCMS) is an innovative solution developed for the Physical Rehabilitation Program under the Program Humanitarian Impact Investment (PHII). It works collaboratively with Pearl to enhance the efficiency and autonomy of Rehabilitation Centres. The system includes two digital tools: an Electronic Medical Record (EMR) system named "OpenMrs" and an Enterprise Resource Planning (ERP) system called "Odoo." These tools aim to improve service quality and overall management of the centres. The EMR provides an appointment module for Health Service users and DCMS users, while the newly added "SuperSet" application optimizes data collection.
+Le Centre Numériquee[^1] Le Système de Gestion des Centres Numériques (DCMS) est une solution innovante développée pour le Programme de Réadaptation Physique dans le cadre du Programme d'Investissement à Impact Humanitaire (PHII). Il fonctionne en collaboration avec Pearl pour améliorer l'efficacité et l'autonomie des Centres de Réadaptation. Le système comprend deux outils numériques : un système de Dossier Médical Électronique (DME) nommé « OpenMrs » et un système de Planification des Ressources d'Entreprise (ERP) appelé « Odoo ». Ces outils visent à améliorer la qualité des services et la gestion globale des centres. Le DME fournit un module de rendez‑vous pour les utilisateurs des services de santé et les utilisateurs du DCMS, tandis que la nouvelle application « SuperSet » optimise la collecte de données.
 
-#### Question: What is SuperSet?
+#### Question : Qu'est‑ce que SuperSet ?
 
-Apache Superset is an open-source tool for data visualization and exploration. It offers an intuitive interface for connecting to various datasets and combining them into a single visualization or dashboard. Superset includes a wide range of pre-installed visualizations, making it a powerful and straightforward solution for data analysis.
+Apache Superset est un outil open source de visualisation et d'exploration de données. Il offre une interface intuitive pour se connecter à divers jeux de données et les combiner en une seule visualisation ou un tableau de bord. Superset inclut une large gamme de visualisations préinstallées, en faisant une solution puissante et simple pour l'analyse des données.
 
-### **The Patient Management System Update**
+### **La mise à jour du Système de Gestion des Patients**
 
-#### Question: What is the PMS?
+#### Question : Qu'est‑ce que le SGP ?
 
-The ICRC Physical Rehabilitation Program developed the Patient Management System (PMS) 25 years ago as a reporting tool. It will be decommissioned soon due to its outdated
+Le Programme de Réadaptation Physique du CICR a développé le Système de Gestion des Patients (SGP) il y a 25 ans comme outil de reporting. Il sera bientôt mis hors service en raison de son obsolescence
 
-#### Question: What is the difference in DCMS?
+#### Question : Quelle est la différence dans le DCMS ?
 
-The Digital Centre Management System (DCMS) is a free tool created with input from ICRC teams, allowing Centres to benefit from it even after ICRC support ceases. It is designed to improve efficiency and support data reporting in Physical Rehabilitation Centres.
+Le Système de Gestion des Centres Numériques (DCMS) est un outil gratuit créé avec la contribution des équipes du CICR, permettant aux Centres d'en bénéficier même après la fin du soutien du CICR. Il est conçu pour améliorer l'efficacité et soutenir le reporting des données dans les Centres de Réadaptation Physique.
 
-#### Question: Can the information within PMS be migrated to DCMS?
+#### Question : Les informations contenues dans le SGP peuvent‑elles être migrées vers le DCMS ?
 
-When deploying DCMS, data from PMS will be migrated to DCMS, which is supported only by PMS5. Centers using earlier versions must first upgrade to PMS4, then PMS5, before migrating.&#x20;
+Lors du déploiement du DCMS, les données du SGP seront migrées vers le DCMS, qui est pris en charge uniquement par PMS5. Les centres utilisant des versions antérieures doivent d'abord passer à PMS4, puis à PMS5, avant de migrer.&#x20;
 
-#### Question: Will the DCMS replace the PMS in all ICRC PRP supported Centres?
+#### Question : Le DCMS remplacera‑t‑il le SGP dans tous les Centres PRP soutenus par le CICR ?
 
-The PMS will be decommissioned as it is obsolete; it's unsupported and outdated, relying solely on Internet Explorer, which Microsoft will soon disable. Physical Rehabilitation Centres are not required to change immediately, but the DCMS will gradually implement a new system to replace the PMS where it will be applicable.
+Le SGP sera mis hors service car il est obsolète ; il n'est plus supporté et est dépassé, reposant uniquement sur Internet Explorer, que Microsoft désactivera bientôt. Les Centres de Réadaptation Physique ne sont pas obligés de changer immédiatement, mais le DCMS mettra progressivement en place un nouveau système pour remplacer le SGP là où il sera applicable.
 
-### Support model and sustainability&#x20;
+### Modèle de soutien et durabilité&#x20;
 
-#### Question: What is the support model for external users?
+#### Question : Quel est le modèle de soutien pour les utilisateurs externes ?
 
-The ICRC, with assistance from DCMS, has developed a support model for external partners. They can access this support through a dedicated email: servicedesk@icrc.org. Internally, ICRC will utilize the ServiceNow application for support
+Le CICR, avec l'assistance du DCMS, a développé un modèle de support pour les partenaires externes. Ils peuvent accéder à ce support via un e‑mail dédié : servicedesk@icrc.org. En interne, le CICR utilisera l'application ServiceNow pour le support
 
-#### Question: How can I contact the support?
+#### Question : Comment puis‑je contacter le support ?
 
-A mail should be sent to servicedesk@icrc.org with the following subject: “\[DCMS / Location] + issue”. The issue should be further explained in the body of the mail.
+Un courriel doit être envoyé à servicedesk@icrc.org avec pour sujet : « \[DCMS / Lieu] + problème ». Le problème doit être expliqué plus en détail dans le corps du message.
 
-### DATA/PMS/REPORT/SUPERSET
+### DONNÉES/SGP/RAPPORT/SUPERSET
 
-#### Question: When the PMS data is migrated to the DCMS, will the EMR recognize the HSU file and data?
+#### Question : Lorsque les données du SGP sont migrées vers le DCMS, le DME reconnaîtra‑t‑il le dossier et les données HSU ?
 
-Each HSU file registered in the PMS will migrate the history, with the PMS number, the HSU Identity Number, and the last episode of services. It might happen that some information will be missing, it is important to update the information with the HSU.
+Chaque dossier HSU enregistré dans le SGP migrera l'historique, avec le numéro SGP, le numéro d'identité HSU et le dernier épisode de services. Il peut arriver que certaines informations manquent ; il est important de mettre à jour ces informations avec l'HSU.
 
-#### Question: What is happening with the workflow when the PMS is migrated?
+#### Question : Que se passe‑t‑il avec le flux de travail lorsque le SGP est migré ?
 
-The Episode of Service is closed. You must start a new service or follow-up depending on the health service user's condition. An Episode of Service aligns with a rehabilitation cycle, whether it involves a new or follow up service.
+L'épisode de service est clôturé. Vous devez démarrer un nouveau service ou un suivi selon l'état de l'utilisateur du service de santé. Un épisode de service correspond à un cycle de réadaptation, qu'il s'agisse d'un nouveau service ou d'un suivi.
 
-#### Question: Are DCMS and the MAD connected, or does the information need to be duplicated?
+#### Question : Le DCMS et le MAD sont‑ils connectés, ou les informations doivent‑elles être dupliquées ?
 
-Answer: DHIS2 (which stands for District health Information System 2), which is an open-source tool. The DCMS report (excel format) and the superset will report the data relevant to DHIS2, but there is not yet a synchronization into the DHIS2 platform.
+Réponse : DHIS2 (District Health Information System 2) est un outil open source. Le rapport DCMS (format excel) et le superset rapporteront les données pertinentes pour DHIS2, mais il n'y a pas encore de synchronisation vers la plateforme DHIS2.
 
-#### Question: some of the HSU are not seen during the interdisciplinary clinic as they come for a small service like prefabricated device, how will I have the record of these users.
+#### Question : certains HSU ne sont pas vus lors de la clinique interdisciplinaire car ils viennent pour un petit service comme un dispositif préfabriqué, comment aurai‑je le dossier de ces utilisateurs ?
 
-For an efficient service and visibility of the activity every HSU should be registered in the DCMS and going through the workflow even if it is a minor service.
+Pour un service efficace et une visibilité de l'activité, chaque HSU devrait être enregistré dans le DCMS et suivre le flux de travail même s'il s'agit d'un service mineur.
 
-#### Question: the physiotherapy team forgot to record the PT sessions for a HSU who was discharged, can we enter data retroactively and if yes how can we do it?
+#### Question : l'équipe de physiothérapie a oublié d'enregistrer les séances de kinésithérapie pour un HSU qui a été sorti, pouvons‑nous entrer des données rétroactivement et si oui comment le faire ?
 
-Yes, it is possible to enter the data (PT session) for a past visit, to enter in the relevant past visit and select the PT session record, enter the information as much it is required.
+Oui, il est possible d'entrer les données (séance de kinésithérapie) pour une visite passée : il faut entrer dans la visite passée pertinente, sélectionner l'enregistrement de la séance de kinésithérapie et saisir les informations autant que nécessaire.
 
-### HSU assessment and workflow
+### Évaluation HSU et flux de travail
 
-#### Question: In the form initial assessment, where can I find the condition Congenital deformity or Lower limb discrepancy?
+#### Question : Dans le formulaire d'évaluation initiale, où puis‑je trouver la condition Malformation congénitale ou Disparité de membre inférieur ?
 
-The condition list is based on the ICD 10 logic from WHO; for instance, you can go to the present condition drop down and select “Congenital malformations and deformations of the musculoskeletal system (Q65-Q79)” where you can find “Reduction defects of lower limb” or in the condition drop down “Other joint disorders (M20-M25) and you can select “limb acquired deformity,  unspecified”.
+La liste des conditions est basée sur la logique de la CIM‑10 de l'OMS ; par exemple, vous pouvez aller dans le menu déroulant des conditions présentes et sélectionner « Malformations et déformations congénitales du système musculo‑squelettique (Q65‑Q79) » où vous pouvez trouver « Défauts de réduction du membre inférieur » ou dans le menu déroulant des conditions « Autres troubles articulaires (M20‑M25) » et vous pouvez sélectionner « déformation acquise du membre, non spécifiée ».
 
-#### Question: can we complete the technical card for bilateral case in the same form?
+#### Question : pouvons‑nous compléter la fiche technique pour un cas bilatéral dans le même formulaire ?
 
-For each technical card we have the option left or right, each stump should be completed in one card to prevent confusion in the measurement.
+Pour chaque fiche technique nous avons l'option gauche ou droite ; chaque moignon doit être complété sur une fiche afin d'éviter toute confusion dans la mesure.
 
-#### Question: HSU who received services from other PRCs in the same country could they have the same identification number in OpenMrs?
+#### Question : un HSU ayant reçu des services d'autres PRC dans le même pays pourrait‑il avoir le même numéro d'identification dans OpenMrs ?
 
-If the Centres are not synchronized together the HUS id won’t be updated in the OpenMrs in another centre as the HSU data needs to be created.
+Si les Centres ne sont pas synchronisés entre eux, l'identifiant HSU ne sera pas mis à jour dans OpenMrs d'un autre centre car les données HSU doivent être créées.
 
-#### Question: How can we manage a HSU who comes for a new service and a repair during the same visit.
+#### Question : Comment gérer un HSU qui vient pour un nouveau service et une réparation lors de la même visite ?
 
-Both workflows are exclusive and need to be entered separately; you can start with the workflow repair and after closing the service you open a new service.
+Les deux flux de travail sont exclusifs et doivent être saisis séparément ; vous pouvez commencer par le flux de travail de réparation et après la clôture du service vous ouvrez un nouveau service.
 
-#### Question:Do I need to create a HSU in Odoo if it is created in OpenMRS?
+#### Question : Dois‑je créer un HSU dans Odoo s'il est créé dans OpenMRS ?
 
-No, there is a synchronization between both applications, the HSU is automatically updated in Odoo.
+Non, il y a une synchronisation entre les deux applications, l'HSU est automatiquement mis à jour dans Odoo.
 
-#### Question: How can we merge an HSU that was created 2 times in OpenMrs?
+#### Question : Comment fusionner un HSU qui a été créé deux fois dans OpenMrs ?
 
-In the DCMS landing page, you can select the widget data management and the option merge patient/HSU.
+Sur la page d'accueil du DCMS, vous pouvez sélectionner le widget gestion des données et l'option fusionner patient/HSU.
 
-![](<../.gitbook/assets/image (133).png>) ![](<../.gitbook/assets/image (134).png>)
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F7fS3Yy3ryzqQvavYnAwE%2Fimage.png?alt=media\&token=91c60dfe-4d1f-4125-a213-a8e15a2aa520) ![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FaMpElHGDUslsn5bEHPFQ%2Fimage.png?alt=media\&token=f40ed272-70c5-4fea-a0fe-d766792ba9bd)
 
-&#x20; Question: How are the medical conditions mapped in Openmrs?
+&#x20; Question : Comment les conditions médicales sont‑elles cartographiées dans Openmrs ?
 
-Through the electronic medical records (EMRs) for Health Service Users can create and manage the medical records. The conditions mapping is based on the International Classification of Disease 10 from the World Health Organization (WHO).
+Via les dossiers médicaux électroniques (DME) pour les utilisateurs des services de santé qui peuvent créer et gérer les dossiers médicaux. La cartographie des conditions est basée sur la Classification Internationale des Maladies 10 de l'Organisation mondiale de la santé (OMS).
 
-The ICD 10 is available in the forms “Initial Assessment” and the “Service Follow up Assessment” where all conditions based on the profile HSU coming to Physical Rehabilitation Centres. The ICD 10 drop down options are also based on the DHIS2 data.
+La CIM‑10 est disponible dans les formulaires « Évaluation initiale » et « Suivi d'évaluation du service » où toutes les conditions sont basées sur le profil des HSU venant aux Centres de Réadaptation Physique. Les options du menu déroulant CIM‑10 sont également basées sur les données DHIS2.
 
-### Appointment module and professional dashboards&#x20;
+### Module de rendez‑vous et tableaux de bord des professionnels&#x20;
 
-#### Question: Can I see all appointments created and given to any HSU?
+#### Question : Puis‑je voir tous les rendez‑vous créés et attribués à un quelconque HSU ?
 
-Yes, the appointment module is open and visible to every DCMS user. It provides transparency and flexibility for each user to avoid appointment 'conflict.
+Oui, le module de rendez‑vous est ouvert et visible pour chaque utilisateur du DCMS. Il offre transparence et flexibilité à chaque utilisateur pour éviter les « conflits » de rendez‑vous.
 
-#### Question: Can I refuse or edit an appointment
+#### Question : Puis‑je refuser ou modifier un rendez‑vous
 
-&#x20;_To edit an appointment:_
+&#x20;_Pour modifier un rendez‑vous :_
 
-o   Click on the appointment you want to edit.
+o   Cliquez sur le rendez‑vous que vous voulez modifier.
 
-o   Click on the edit button.
+o   Cliquez sur le bouton modifier.
 
-o   Fill in the details of the appointment in the Add new Appointment slider.
+o   Remplissez les détails du rendez‑vous dans le volet Ajouter un nouveau rendez‑vous.
 
-o   Required details include selecting a Patient, Service/service type, and Date.
+o   Les détails requis incluent la sélection d'un Patient, du Service/type de service et de la Date.
 
-o   Adjust the Date of Appointment, Time slot, Providers, and Location as needed.
+o   Ajustez la Date du rendez‑vous, le créneau horaire, les prestataires et le lieu selon les besoins.
 
-o   Save the changes.
+o   Enregistrez les modifications.
 
-_To accept an appointment:_
+_Pour accepter un rendez‑vous :_
 
-o   If the appointment status is "Requested," you can accept the appointment, which will change the status to "Accepted."
+o   Si le statut du rendez‑vous est « Demandé », vous pouvez accepter le rendez‑vous, ce qui changera le statut en « Accepté ».
 
-o   Alternatively, you can edit the appointment and propose a new time; once done, the appointment will have the status "Accepted" by default.
+o   Alternativement, vous pouvez modifier le rendez‑vous et proposer une nouvelle heure ; une fois fait, le rendez‑vous aura par défaut le statut « Accepté ».
 
-Note: When editing an appointment, if service availability is defined and you choose a day or timing outside the availability, there will be a warning.
+Remarque : Lors de la modification d'un rendez‑vous, si la disponibilité du service est définie et que vous choisissez un jour ou un horaire en dehors de cette disponibilité, un avertissement apparaîtra.
 
 · &#x20;
 
 
 
-Source document(s): [https://collab.ext.icrc.org/sites/TS\_ASSIST/activities/HEALTH/DigitalHealth/Health%20Solutions%20User%20Guides/DCMS/REFERENCE\_GUIDE\_OPENMRS\_censored.pdf](https://collab.ext.icrc.org/sites/TS_ASSIST/activities/HEALTH/DigitalHealth/Health%20Solutions%20User%20Guides/DCMS/REFERENCE_GUIDE_OPENMRS_censored.pdf)
+Document(s) source : [https://collab.ext.icrc.org/sites/TS\_ASSIST/activities/HEALTH/DigitalHealth/Health%20Solutions%20User%20Guides/DCMS/REFERENCE\_GUIDE\_OPENMRS\_censored.pdf](https://collab.ext.icrc.org/sites/TS_ASSIST/activities/HEALTH/DigitalHealth/Health%20Solutions%20User%20Guides/DCMS/REFERENCE_GUIDE_OPENMRS_censored.pdf)
 
 [^1]: 

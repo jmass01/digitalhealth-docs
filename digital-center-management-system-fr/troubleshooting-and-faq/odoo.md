@@ -1,108 +1,109 @@
 ---
 description: >-
-  This page provides quick solutions to common Odoo issues related to
-  manufacturing, BoM setup, stock transfers, user access ...
+  Cette page fournit des solutions rapides aux problèmes courants d'Odoo liés à
+  la fabrication, à la configuration des nomenclatures, aux transferts de stock,
+  à l'accès des utilisateurs ...
 ---
 
 # Odoo
 
-#### 🧭 Context
+#### 🧭 Contexte
 
-This page lists the most frequent issues encountered by users while working with Odoo in a manufacturing and service user environment. It serves as a quick reference guide to help identify problems and apply practical solutions without needing technical support. Whether you're configuring a BoM, managing stock, or processing a work order, this page will help you troubleshoot efficiently.
+Cette page répertorie les problèmes les plus fréquents rencontrés par les utilisateurs travaillant avec Odoo dans un environnement de fabrication et de service. Elle sert de guide de référence rapide pour aider à identifier les problèmes et appliquer des solutions pratiques sans avoir besoin d'assistance technique. Que vous configuriez une nomenclature, gériez le stock ou traitiez un ordre de travail, cette page vous aidera à dépanner efficacement.
 
-## Service user Management&#x20;
+## Gestion des utilisateurs de service&#x20;
 
-* User doesn't have correct name
-* User doesn't have
+* L'utilisateur n'a pas le bon nom
+* L'utilisateur n'a pas
 
-## Stock management&#x20;
+## Gestion des stocks&#x20;
 
 <details>
 
-<summary>No rules found to replenish a product</summary>
+<summary>Aucune règle trouvée pour réapprovisionner un produit</summary>
 
-Error : ![](<../.gitbook/assets/image (114).png>)
+Erreur : ![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FShKFRzFZBg5mlzdNDOye%2Fimage.png?alt=media\&token=d2815a59-2be5-4283-9e3b-ac9141a40025)
 
-Check on the product if there is the “Replenish On Order(MTO)”
+Vérifiez sur le produit s'il y a « Réapprovisionner à la commande (MTO) »
 
-![](<../.gitbook/assets/image (115).png>)
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FnDaz7t8AkYCmKCQVwhFa%2Fimage.png?alt=media\&token=b7c415d3-2469-4a97-a317-c75fc25a6a14)
 
 </details>
 
 <details>
 
-<summary>Issues with stock picking </summary>
+<summary>Problèmes avec les préparations de commandes </summary>
 
-The product are in the right stock but can’t be reserved :
+Le produit est dans le bon stock mais ne peut pas être réservé :
 
-A product is missing in the move
+Un produit manque dans le mouvement
 
-The wrong lot number as been selected :
+Le mauvais numéro de lot a été sélectionné :
 
-System will prevent to have negative value.
-
-</details>
-
-## Repair&#x20;
-
-<details>
-
-<summary>There is too many product on repair stock</summary>
-
-If when checking the repair location you see such prothesis that means that some of the repaired prothesis was either not delivered back or not yet repaired.
+Le système empêchera d'avoir une valeur négative.
 
 </details>
 
-<details>
-
-<summary>Insufficient Quantity on repair</summary>
-
-![](<../.gitbook/assets/image (116).png>)
-
-Multiple reason possible :
-
-* The product to repair was removed from the repair stock
-* The product used in the repair was not send or is not in stock please check with your stockmanager
-
-
-
-</details>
-
-## MRP &#x20;
+## Réparation&#x20;
 
 <details>
 
-<summary>Wrong attribute or Product not found in BoM Config</summary>
+<summary>Il y a trop de produits dans le stock de réparation</summary>
 
-To solve this problem, first close the message and click on "ReConfigure". In a scenario where, for instance, the Foot Sach 2.0 in "Beige" is not available
-
-<img src="../.gitbook/assets/image (113).png" alt="Attributes for the foot SACH 2.0" data-size="original">
-
-You have two options: either change the BoM's color selection to an available option or update the product variant to include the "Beige" color if it's applicable.
+Si en vérifiant l'emplacement de réparation vous voyez de telles prothèses, cela signifie que certaines des prothèses réparées n'ont soit pas été rendues, soit ne sont pas encore réparées.
 
 </details>
 
 <details>
 
-<summary>The product variant is not existing</summary>
+<summary>Quantité insuffisante en réparation</summary>
 
-It can be that a specific variant has been archived by mistake so the BoM configuration can't find it.&#x20;
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F4RP2TmorQPXBkGGSuv9S%2Fimage.png?alt=media\&token=244c327f-ef67-4fd7-8989-aa6ab1c4d61c)
 
-Go to [archiving-product.md](../odoo/product-management/archiving-product.md "mention") to know how to tackle the problem.
+Plusieurs raisons possibles :
+
+* Le produit à réparer a été retiré du stock de réparation
+* Le produit utilisé pour la réparation n'a pas été envoyé ou n'est pas en stock, veuillez vérifier avec votre gestionnaire de stock
+
+
 
 </details>
 
-## Admin issues&#x20;
+## GPAO &#x20;
 
 <details>
 
-<summary>No access to user form</summary>
+<summary>Attribut incorrect ou produit introuvable dans la config de la nomenclature</summary>
 
-When doing backup of database,  attachement is being deleted or modified.
+Pour résoudre ce problème, fermez d'abord le message et cliquez sur « ReConfigurer ». Dans un scénario où, par exemple, le Foot Sach 2.0 en « Beige » n'est pas disponible
 
-To resolve this issue you need to go to “Config” > Attachement. Then select all and delete it.
+<img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FIAvLZ6Gy7UTv3Ttn1XfQ%2Fimage.png?alt=media&#x26;token=ec637edd-04cc-4c80-8f5e-39d52237895b" alt="Attributes for the foot SACH 2.0" data-size="original">
 
-It will solve the error, you can regenerate assets bundle if you want but it’s not necessary.
+Vous avez deux options : soit changer la sélection de couleur de la nomenclature pour une option disponible, soit mettre à jour la variante du produit pour inclure la couleur « Beige » si cela s'applique.
+
+</details>
+
+<details>
+
+<summary>La variante du produit n'existe pas</summary>
+
+Il se peut qu'une variante spécifique ait été archivée par erreur et que la configuration de la nomenclature ne puisse pas la trouver.&#x20;
+
+Aller à [archivage-du-produit](../odoo/gestion-des-produits/archivage-du-produit "mention") pour savoir comment résoudre le problème.
+
+</details>
+
+## Problèmes administratifs&#x20;
+
+<details>
+
+<summary>Pas d'accès au formulaire utilisateur</summary>
+
+Lors de la sauvegarde de la base de données, la pièce jointe est supprimée ou modifiée.
+
+Pour résoudre ce problème, allez dans « Configuration » > Pièces jointes. Ensuite, sélectionnez tout et supprimez-les.
+
+Cela résoudra l'erreur, vous pouvez régénérer le bundle d'assets si vous le souhaitez mais ce n'est pas nécessaire.
 
 </details>
 

@@ -1,52 +1,52 @@
-# Accessing EMR
+# Accéder au DME
 
-The objectives of this chapter are:
+Les objectifs de ce chapitre sont :
 
-1. to be able to log in in EMR with user credential and password
-2. to connect into appropriate location&#x20;
-3. to log in with attributed role and privileges
+1. être capable de se connecter à l'EMR avec les identifiants et le mot de passe de l'utilisateur
+2. se connecter à l'emplacement approprié&#x20;
+3. se connecter avec le rôle et les privilèges attribués
 
-### Accessing the system
+### Accès au système
 
-Click on the link below to access the system.
+Cliquez sur le lien ci-dessous pour accéder au système.
 
-●        URL: According to the server and the location
+●        URL : Selon le serveur et l'emplacement
 
-Some of the actions described in this guide can only be performed by users with specific privileges. Should you need additional privileges, please refer to the section entitled ‘Updating users’ privileges’
+Certaines des actions décrites dans ce guide ne peuvent être effectuées que par des utilisateurs disposant de privilèges spécifiques. Si vous avez besoin de privilèges supplémentaires, veuillez consulter la section intitulée « Mise à jour des privilèges des utilisateurs »
 
-## Logging in
+## Connexion
 
-### Enter username and password
+### Entrez le nom d'utilisateur et le mot de passe
 
-Once you have clicked on the link to access the system, you will be taken to the login screen shown below:
+Une fois que vous avez cliqué sur le lien pour accéder au système, vous serez dirigé vers l'écran de connexion illustré ci-dessous :
 
-1. Enter your username. e.g. sban@komprc.dcmsaccess.org
-2. Enter your password.
-3. Click _‘Log In’_.
-
-\
-
-
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-### &#x20;Select login location
-
-You will be taken to a first page where you need to select the location (name of the center where you are working) then click on “Done”
+1. Saisissez votre nom d'utilisateur, par ex. sban@komprc.dcmsaccess.org
+2. Saisissez votre mot de passe.
+3. Cliquez _« Se connecter »_.
 
 \
 
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FYo7Y8K23Frm5bH1jMMTn%2Fimage.png?alt=media&#x26;token=6f6fb3a9-ed56-4865-970e-b954bfed52ad" alt=""><figcaption></figcaption></figure>
 
-## Landing page (Main Menu) <a href="#hlk89272469" id="hlk89272469"></a>
+### &#x20;Sélectionner le lieu de connexion
 
-Once you have selected a location, you will be taken to the main landing page. The items (icons) visible on the screen depend on your role and level of access. See below:
+Vous serez dirigé vers une première page où vous devez sélectionner l'emplacement (nom du centre où vous travaillez) puis cliquer sur « Terminé »
 
-Figure 3: Landing page – log in as a DCMS Admin (large privilege access)
+\
+
+
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FI5U12wx2jRXreckAQZdy%2Fimage.png?alt=media&#x26;token=3c706359-ccbd-4890-b809-148a5b11fd68" alt=""><figcaption></figcaption></figure>
+
+## Page d'accueil (Menu principal) <a href="#hlk89272469" id="hlk89272469"></a>
+
+Une fois que vous avez sélectionné un emplacement, vous serez dirigé vers la page d'accueil principale. Les éléments (icônes) visibles à l'écran dépendent de votre rôle et de votre niveau d'accès. Voir ci‑dessous :
+
+Figure 3 : Page d'accueil – connexion en tant qu'administrateur DCMS (accès avec privilèges élevés)
 
 ## &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FJ9uPsqzVpOj5FQMKENNe%2Fimage.png?alt=media&#x26;token=b6936e71-b39a-43e9-82cf-1dbf87e151ea" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;
 

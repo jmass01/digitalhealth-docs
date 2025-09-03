@@ -1,53 +1,53 @@
 ---
-description: New service and follow up/repair (worflow in details)
+description: Nouveau service et suivi/réparation (flux de travail en détail)
 ---
 
-# Workflow User Journey
+# Parcours utilisateur du flux de travail
 
-Register the HSU or find the HSU file coming to the PRC
+Enregistrer le HSU ou trouver le dossier HSU arrivant au PRC
 
-### a. Workflow new service&#x20;
+### a. Flux de travail nouveau service&#x20;
 
 {% stepper %}
 {% step %}
-### Start the visit
+### Commencer la visite
 
-<mark style="color:green;">Initial decision after registration</mark> and decision to send for new service (save and validate)
+<mark style="color:vert;">Décision initiale après l'enregistrement</mark> et décision d'envoyer pour un nouveau service (enregistrer et valider)
 {% endstep %}
 
 {% step %}
-### Initial Assessment (interdisciplinary team)
+### Évaluation initiale (équipe interdisciplinaire)
 
-* <mark style="color:green;">Initial outcome and goal setting (optional assessments)</mark>
-* <mark style="color:green;">Basic service plan + clinical consent (plan service)</mark>
+* <mark style="color:vert;">Résultat initial et définition des objectifs (évaluations optionnelles)</mark>
+* <mark style="color:vert;">Plan de service de base + consentement clinique (planifier le service)</mark>
 {% endstep %}
 
 {% step %}
-### Financial capacity assessment
+### Évaluation de la capacité financière
 
-<mark style="color:green;">(if not approved) Socioeconomic assessment+ Financing decision</mark>
+<mark style="color:vert;">(si non approuvé) Évaluation socio-économique + décision de financement</mark>
 {% endstep %}
 
 {% step %}
 ### Services&#x20;
 
-Technical cards
+Fiches techniques
 
-Physiotherapy assessment
+Évaluation en physiothérapie
 
-Wheelchair assessment
+Évaluation du fauteuil roulant
 
-Walking Aids
+Aides à la marche
 
-Club foot
+Pied bot
 
-Cerebral palsy
+Paralysie cérébrale
 {% endstep %}
 
 {% step %}
-### Final assessment Outcome and goal setting (Automatic closure of service)
+### Évaluation finale Résultat et définition des objectifs (Clôture automatique du service)
 
-Appointment for follow up visit
+Rendez-vous pour visite de suivi
 {% endstep %}
 {% endstepper %}
 
@@ -93,49 +93,49 @@ Appointment for follow up visit
     classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
     class D2 optional;" %}
 
-### b. Workflow new service with intermediate assessment&#x20;
+### b. Flux de travail nouveau service avec évaluation intermédiaire&#x20;
 
-**In the case you need to adjust the service;**
+**Dans le cas où vous devez ajuster le service ;**
 
-* To add a product or additional service (such as additional physiotherapy sessions)
-* To assess the progress and the objectives of the treatment; you can follow the next step.&#x20;
+* Pour ajouter un produit ou un service supplémentaire (comme des séances de physiothérapie supplémentaires)
+* Pour évaluer les progrès et les objectifs du traitement ; vous pouvez suivre l'étape suivante.&#x20;
 
 {% stepper %}
 {% step %}
 ### Service&#x20;
 
-Physiotherapy, Technical card, Wheelchair, Club Foot, Cerebral Palsy, Walking aids
+Physiothérapie, Fiche technique, Fauteuil roulant, Pied bot, Paralysie cérébrale, Aides à la marche
 {% endstep %}
 
 {% step %}
-### Intermediate Assessment Outcome and Goal setting
+### Évaluation intermédiaire Résultat et définition des objectifs
 
-Decision: Adjust service if required&#x20;
+Décision : Ajuster le service si nécessaire&#x20;
 {% endstep %}
 
 {% step %}
-### Basic Service Plan
+### Plan de service de base
 
-Add the service (s)
+Ajouter le(s) service(s)
 {% endstep %}
 
 {% step %}
-### Financial Capacity Assessment&#x20;
+### Évaluation de la capacité financière&#x20;
 
-if not approved:
+si non approuvé :
 
-* Select make **socioeconomic** and complete **Financing Decision**
-* Select **Socioeconomic** already recorded, if you select this option you can already go to **Financing Decisio**n.
+* Sélectionnez effectuer **socioéconomique** et compléter **Décision de financement**
+* Sélectionner **Socioéconomique** déjà enregistré, si vous sélectionnez cette option vous pouvez déjà aller à **Décision de finan**cement.
 {% endstep %}
 
 {% step %}
-### Service (s)
+### Service(s)
 {% endstep %}
 
 {% step %}
-### Final assessment Outcome and goal setting (Automatic closure of service)
+### Évaluation finale Résultat et définition des objectifs (Clôture automatique du service)
 
-Appointment for follow up visit
+Rendez-vous pour visite de suivi
 {% endstep %}
 {% endstepper %}
 
@@ -186,39 +186,39 @@ Appointment for follow up visit
 
 
 
-### C. Workflow Repair or Follow up
+### C. Flux de travail Réparation ou Suivi
 
 {% stepper %}
 {% step %}
-### Register the HSU or find the HSU file coming to the PRC&#x20;
+### Enregistrer le HSU ou trouver le dossier HSU arrivant au PRC&#x20;
 
 
 {% endstep %}
 
 {% step %}
-### Start the visit (Open the Episode of service)
+### Commencer la visite (Ouvrir l'épisode de service)
 
-Initial decision after registration and decision to send for follow up (save and validated)
+Décision initiale après l'enregistrement et décision d'envoyer en suivi (enregistrer et validé)
 {% endstep %}
 
 {% step %}
-### Service Follow up Assessment&#x20;
+### Évaluation de suivi du service&#x20;
 
-Decision: Follow up/repair or New Interdisciplinary assessment or end the follow up
+Décision : Suivi/réparation ou nouvelle évaluation interdisciplinaire ou terminer le suivi
 {% endstep %}
 
 {% step %}
-### Financial capacity assessment
+### Évaluation de la capacité financière
 
-If not approved complete the socioeconomic already recorded&#x20;
+Si non approuvé, compléter le socio-économique déjà enregistré&#x20;
 
-* decision&#x20;
+* décision&#x20;
 {% endstep %}
 
 {% step %}
-### Service Follow up Plan (Automatic closure of Episode of service)
+### Plan de suivi du service (Clôture automatique de l'épisode de service)
 
-If AT repair is yes, select the pertinent service category options with the Adjustment or/and Repair as service.
+Si la réparation d'AT est oui, sélectionnez les options pertinentes de catégorie de service avec l'ajustement et/ou la réparation en tant que service.
 {% endstep %}
 {% endstepper %}
 
@@ -251,4 +251,4 @@ If AT repair is yes, select the pertinent service category options with the Adju
 
 
 
-### D. Workflow Follow up/ repair to New Service&#x20;
+### D. Flux de travail Suivi/réparation vers Nouveau Service&#x20;

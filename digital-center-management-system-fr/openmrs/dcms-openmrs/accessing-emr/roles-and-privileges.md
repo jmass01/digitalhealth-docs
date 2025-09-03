@@ -1,36 +1,36 @@
 ---
 description: >-
-  Based on your profil in the centre and you role, you will be reeiving
-  privileges that allows you to enter the data in the DCMS:
+  En fonction de votre profil dans le centre et de votre rôle, vous recevrez des
+  privilèges qui vous permettent de saisir des données dans le DCMS :
 ---
 
-# Roles and Privileges
+# Rôles et privilèges
 
-**Roles and Privileges Overview for DCMS Deployment**
+**Aperçu des rôles et privilèges pour le déploiement du DCMS**
 
-Before deploying the system, each role and its privileges will be thoroughly discussed to ensure correct access levels in both the EMR and Odoo platforms.
+Avant de déployer le système, chaque rôle et ses privilèges seront soigneusement discutés afin de garantir des niveaux d'accès corrects à la fois dans l'EMR et sur les plateformes Odoo.
 
-## ROLES
+## RÔLES
 
-As you could see in the previous page with the different pictures, you can access different dashboard based on your profile.
+Comme vous avez pu le voir sur la page précédente avec les différentes images, vous pouvez accéder à différents tableaux de bord selon votre profil.
 
-* [Receptionist](../../../odoo/materials-request/materials-request-for-manufactured-product/request-new-component-for-recasting-optional-step.md)
+* [Réceptionniste](../../../odoo/demande-de-materiaux/demande-de-materiaux-pour-produit-manufacture/demander-un-nouveau-composant-pour-refonte-etape-optionnelle)
 
-The receptionist plays a crucial role as the first point of contact for the HSU. Their responsibilities include registering the HSU, locating the HSU file, initiating the visit, ensuring the clinical consent form is signed, and scheduling an appointment.&#x20;
+Le réceptionniste joue un rôle crucial en tant que premier point de contact pour l'HSU. Ses responsabilités incluent l'enregistrement de l'HSU, la localisation du dossier de l'HSU, l'initiation de la visite, la vérification de la signature du formulaire de consentement clinique et la prise de rendez-vous.&#x20;
 
-* Interdisciplinary team
+* Équipe interdisciplinaire
 
-The interdisciplinary team, comprising heads of orthotics-prosthetics, physiotherapy departments, and physicians, meets to evaluate HSU needs, oversee service delivery, and quality.
+L'équipe interdisciplinaire, composée des chefs des services d'orthèses-prothèses, des départements de physiothérapie et des médecins, se réunit pour évaluer les besoins des HSU, superviser la prestation des services et la qualité.
 
-* <mark style="color:blue;">Professional</mark>&#x20;
+* <mark style="color:bleu;">Professionnel</mark>&#x20;
 
-The team consists of various professionals, including physiotherapists, orthotics-prosthetics and prosthetics specialists, and other roles such as psychologists.&#x20;
+L'équipe est composée de divers professionnels, notamment des physiothérapeutes, des spécialistes en orthèses-prothèses et en prothèses, ainsi que d'autres rôles tels que des psychologues.&#x20;
 
-* <mark style="color:blue;">Social Worker</mark>&#x20;
+* <mark style="color:bleu;">Travailleur social</mark>&#x20;
 
-The Social worker is playing an essential role in the team, the HSU will meet with the social worker once the devices are prescribed or the repairs are being recommended by the clinical team. A financial capacity assessment and a socioeconomic assessment of the HSU status will be conducted by the social worker.&#x20;
+Le travailleur social joue un rôle essentiel dans l'équipe. L'HSU rencontrera le travailleur social une fois que les dispositifs seront prescrits ou que les réparations seront recommandées par l'équipe clinique. Le travailleur social effectuera une évaluation de la capacité financière et une évaluation socioéconomique du statut de l'HSU.&#x20;
 
-### Access with privileges examples (V: Validate)
+### Exemples d'accès avec privilèges (V : Valider)
 
-<table><thead><tr><th width="224.60003662109375">Actions</th><th>Receptionist </th><th>Head of PT</th><th>PT</th><th>Head of PO</th><th>PO</th><th>Social Worker </th><th width="167.0999755859375">DCMS administrator</th></tr></thead><tbody><tr><td>Start visit</td><td>v</td><td></td><td></td><td></td><td></td><td></td><td>v</td></tr><tr><td>Register HSU</td><td>V</td><td></td><td></td><td></td><td></td><td></td><td>v</td></tr><tr><td>Initial decision after registration</td><td>V</td><td></td><td></td><td></td><td></td><td></td><td>v</td></tr><tr><td>Initial assessment</td><td></td><td>v</td><td></td><td>v</td><td></td><td></td><td>v</td></tr><tr><td>Initial assessment outcome and goal setting</td><td></td><td>v</td><td></td><td>v</td><td></td><td></td><td>v</td></tr><tr><td>Assessment forms (optional)</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Basic service plan</td><td></td><td>v</td><td></td><td>v</td><td></td><td></td><td>v</td></tr><tr><td>Financial capacity assessment (follow up)</td><td></td><td></td><td></td><td></td><td></td><td>v</td><td>v</td></tr><tr><td>Socioeconomic and financial decision</td><td></td><td></td><td></td><td></td><td></td><td>v</td><td>v</td></tr><tr><td>Technical cards</td><td></td><td></td><td></td><td>v</td><td>v</td><td>v</td><td>v</td></tr><tr><td>Physiotherapy forms</td><td></td><td>v</td><td>v</td><td></td><td>v</td><td></td><td>v</td></tr><tr><td>Wheelchair forms</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Club foot forms</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Final assessment outcome and goal setting </td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Service follow up assessment and service follow up plan</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="224.60003662109375">Actions</th><th>Réceptionniste </th><th>Chef de PT</th><th>PT</th><th>Chef de PO</th><th>PO</th><th>Travailleur social </th><th width="167.0999755859375">Administrateur DCMS</th></tr></thead><tbody><tr><td>Commencer la visite</td><td>v</td><td></td><td></td><td></td><td></td><td></td><td>v</td></tr><tr><td>Enregistrer l'HSU</td><td>V</td><td></td><td></td><td></td><td></td><td></td><td>v</td></tr><tr><td>Décision initiale après enregistrement</td><td>V</td><td></td><td></td><td></td><td></td><td></td><td>v</td></tr><tr><td>Évaluation initiale</td><td></td><td>v</td><td></td><td>v</td><td></td><td></td><td>v</td></tr><tr><td>Résultats de l'évaluation initiale et définition des objectifs</td><td></td><td>v</td><td></td><td>v</td><td></td><td></td><td>v</td></tr><tr><td>Formulaires d'évaluation (optionnels)</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Plan de service de base</td><td></td><td>v</td><td></td><td>v</td><td></td><td></td><td>v</td></tr><tr><td>Évaluation de la capacité financière (suivi)</td><td></td><td></td><td></td><td></td><td></td><td>v</td><td>v</td></tr><tr><td>Décision socioéconomique et financière</td><td></td><td></td><td></td><td></td><td></td><td>v</td><td>v</td></tr><tr><td>Fiches techniques</td><td></td><td></td><td></td><td>v</td><td>v</td><td>v</td><td>v</td></tr><tr><td>Formulaires de physiothérapie</td><td></td><td>v</td><td>v</td><td></td><td>v</td><td></td><td>v</td></tr><tr><td>Formulaires de fauteuil roulant</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Formulaires pied bot</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Résultats de l'évaluation finale et définition des objectifs </td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td>v</td></tr><tr><td>Évaluation de suivi du service et plan de suivi du service</td><td></td><td>v</td><td>v</td><td>v</td><td>v</td><td></td><td></td></tr></tbody></table>
 

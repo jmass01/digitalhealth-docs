@@ -1,54 +1,54 @@
-# Usage tips
+# Conseils d'utilisation
 
 <details>
 
-<summary>Odoo - Change the chatter position</summary>
+<summary>Odoo - Changer la position du fil de discussion</summary>
 
-If your screen is too small you can change the position of the chatter in Odoo :&#x20;
+Si votre écran est trop petit, vous pouvez changer la position du fil de discussion dans Odoo :&#x20;
 
-To do that click on your name in the top corner in the right then select My profile![](<../.gitbook/assets/image (109).png>)
+Pour cela, cliquez sur votre nom dans le coin supérieur droit puis sélectionnez Mon profil![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FjnFbVnmp5LzG1rEEkiRp%2Fimage.png?alt=media\&token=64b0c1f4-8a91-4ae6-8aae-2fce5fa09d2f)
 
-Then Edit and select Either Normal (Bottom) or Sided
+Ensuite Éditer et sélectionnez soit Normal (Bas) soit Latéral
 
-![](<../.gitbook/assets/image (110).png>)
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FcK3JDxlkVDxMHDBxXJUD%2Fimage.png?alt=media\&token=4c98c027-4192-4222-94ea-ac9f67bbb65b)
 
-For smaller screen select Normal
+Pour les petits écrans, sélectionnez Normal
 
 </details>
 
 <details>
 
-<summary>Odoo - Keyboard Shortcuts</summary>
+<summary>Odoo - Raccourcis clavier</summary>
 
-<img src="../.gitbook/assets/image (108).png" alt="" data-size="original">
+<img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FQyYRtgH1yvifDjn3OGDl%2Fimage.png?alt=media&#x26;token=cbdc6eec-36ec-4e63-8f23-6d2c0f75fa11" alt="" data-size="original">
 
 </details>
 
 <details>
 
-<summary>Odoo - Using correctly the Search bar</summary>
+<summary>Odoo - Bien utiliser la barre de recherche</summary>
 
-1.  #### 🔍 Using Filters and Advanced Filters
+1.  #### 🔍 Utiliser les filtres et les filtres avancés
 
-    Filters in Odoo allow you to quickly narrow down lists based on specific conditions. For example, in the Delivery Orders list, you can apply a filter like _Status = Waiting_ to only see transfers that require your attention. \
+    Les filtres dans Odoo vous permettent de restreindre rapidement les listes en fonction de conditions spécifiques. Par exemple, dans la liste des Bons de livraison, vous pouvez appliquer un filtre comme _Statut = En attente_ pour ne voir que les transferts qui nécessitent votre attention. \
     \
-    For more complex needs, use the _Advanced Search_ feature. This allows you to create custom conditions—such as filtering by _Customer_, _Scheduled Date_, or even _Lot Number_—giving you precise control over the data you view.
-2.  **🗂️ Using the "Group By" Feature**
+    Pour des besoins plus complexes, utilisez le _Recherche avancée_ fonction. Cela vous permet de créer des conditions personnalisées — comme filtrer par _Client_, _Date prévue_, ou même _Numéro de lot_—vous offrant un contrôle précis sur les données que vous consultez.
+2.  **🗂️ Utiliser la fonction « Grouper par »**
 
-    The _Group By_ tool is useful when you want to visually organize records by a certain field. For instance, grouping deliveries by _Status_ helps warehouse staff see how many are _Ready_, _Waiting_, or _Late_. You can also group by _Responsible_, _Location_, or any custom field relevant to your flow. This is especially handy when managing large datasets, as it gives a structured overview at a glance.\
+    Le _Grouper par_ l'outil est utile lorsque vous souhaitez organiser visuellement les enregistrements par un certain champ. Par exemple, grouper les livraisons par _Statut_ aide le personnel d'entrepôt à voir combien sont _Prêt_, _En attente_, ou _En retard_. Vous pouvez également grouper par _Responsable_, _Emplacement_, ou tout champ personnalisé pertinent pour votre flux. Ceci est particulièrement utile lors de la gestion de grands ensembles de données, car cela donne une vue structurée en un coup d'œil.\
 
-3.  #### ⭐ Creating and Saving Favorite Searches
+3.  #### ⭐ Créer et enregistrer des recherches favorites
 
-    If you frequently use the same combination of filters or groupings, you can save them as a favorite search. After setting up your view (with filters and optional Group By), click the star icon next to the search bar and select _Add to my favorites_. You can also check _Use by default_ to automatically apply it each time you open the view. This is a great way to streamline daily operations and ensure consistency across team members.
+    Si vous utilisez fréquemment la même combinaison de filtres ou de regroupements, vous pouvez les enregistrer comme recherche favorite. Après avoir configuré votre vue (avec filtres et optionnellement Grouper par), cliquez sur l'icône étoile à côté de la barre de recherche et sélectionnez _Ajouter à mes favoris_. Vous pouvez aussi cocher _Utiliser par défaut_ pour l'appliquer automatiquement à chaque ouverture de la vue. C'est un excellent moyen de rationaliser les opérations quotidiennes et d'assurer la cohérence entre les membres de l'équipe.
 
 </details>
 
 <details>
 
-<summary>Odoo - Access Multiple Odoo Accounts Simultaneously</summary>
+<summary>Odoo - Accéder simultanément à plusieurs comptes Odoo</summary>
 
-Odoo does not support logging into two different accounts in the same browser session.\
-To work around this, you can use a different browser or open a new Incognito/Private window to access the second account.
+Odoo ne permet pas de se connecter à deux comptes différents dans la même session de navigateur.\
+Pour contourner cela, vous pouvez utiliser un navigateur différent ou ouvrir une nouvelle fenêtre Incognito/Privée pour accéder au second compte.
 
 </details>
 

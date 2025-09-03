@@ -1,59 +1,59 @@
 ---
 description: >-
-  Example of scenario for a user coming for a foot abduction brace that need
-  follow up (Adjustment or Renewal). This phase is for PRC delivering FAB
-  without the Ponseti method.
+  Exemple de scénario pour un utilisateur venant pour une orthèse d'abduction du
+  pied nécessitant un suivi (ajustement ou renouvellement). Cette phase concerne
+  les CRP fournissant des OAB sans la méthode Ponseti.
 ---
 
-# Workflow for Club Foot treatment
+# Flux de travail pour le traitement du pied bot
 
 {% hint style="warning" %}
-In this scenario; the HSU will only receive the Foot Abduction Brace, as the serial casting (or Ponseti) will be performed in a medical setting (with sometimes a tenotomy).
+Dans ce scénario ; l'USH ne recevra que l'attelle d'abduction du pied, car le moulage en série (ou Ponseti) sera effectué en milieu médical (avec parfois une ténotomie).
 {% endhint %}
 
-For a new HSU who will need a Foot Abduction Brace;
+Pour un nouvel USH qui aura besoin d'une attelle d'abduction du pied ;
 
-### **Service Flow Overview**
+### **Aperçu du flux de service**
 
-1. **Start**
-2. **New HSU for new service**
-3. **Initial Decision after Registration**
+1. **Début**
+2. **Nouvel USH pour un nouveau service**
+3. **Décision initiale après l'inscription**
 
-<mark style="color:orange;">Select New Service</mark>
+<mark style="color:orange;">Sélectionner un nouveau service</mark>
 
-4. **Initial Assessment**
-5. **Condition Selection:**
-   * _Congenital malformation and deformations of the musculoskeletal system (Q65–Q79)_
-   * → **Talipe Equinovarus**
-6. **Initial Outcome and Goal Setting**
+4. **Évaluation initiale**
+5. **Sélection de l'affection :**
+   * _Malformations congénitales et déformations du système musculo-squelettique (Q65–Q79)_
+   * → **Talipe équinovarus**
+6. **Résultat initial et définition des objectifs**
 
-<mark style="color:orange;">Plan Service: HSU Eligible</mark>
+<mark style="color:orange;">Planifier le service : USH éligible</mark>
 
-7. **Basic Service Plan**
-8. **Select Service Category:**
-   * _Orthosis & Foot Abduction Brace_
-9. **Financial Capacity Assessment (+socioeconomic assessment and financing decision)**
+7. **Plan de service de base**
+8. **Sélectionner la catégorie de service :**
+   * _Orthèse et attelle d'abduction du pied_
+9. **Évaluation de la capacité financière (+ évaluation socio-économique et décision de financement)**
 
-<mark style="color:orange;">Approve service</mark>
+<mark style="color:orange;">Approuver le service</mark>
 
 10. **Services**
 
-* Complete the relevant form (in our scenario we select the first one in bold).
-  * **Club foot treatment record, assessment & cast follow up** _You can complete multiple forms to enable the monitoring of the Pirani score ._
-  * Club foot treatment record tenotomy decision&#x20;
-  * Club foot treatment record post tenotomy follow up
-  * Club foot post tenotomy functional outcomes
+* Remplir le formulaire pertinent (dans notre scénario nous sélectionnons le premier en gras).
+  * **Dossier de traitement du pied bot, évaluation et suivi du plâtre** _Vous pouvez remplir plusieurs formulaires pour permettre le suivi du score de Pirani ._
+  * Dossier de traitement du pied bot décision de ténotomie&#x20;
+  * Dossier de traitement du pied bot suivi post-ténotomie
+  * Résultats fonctionnels du pied bot après ténotomie
 
-11. **Material Request Process:**
+11. **Processus de demande de matériel :**
 
-* Select Material Request in ODOO
-* Use PRP Dashboard → Add Foot Abduction Brace
+* Sélectionner Demande de Matériel dans ODOO
+* Utiliser le tableau de bord PRP → Ajouter une attelle d'abduction du pied
 
-12. **Final Assessment Outcome & Goal Setting**
+12. **Résultat final de l'évaluation et définition des objectifs**
 
-<mark style="color:orange;">Close Episode of Service</mark>
+<mark style="color:orange;">Clore l'épisode de service</mark>
 
-13. **Appointment for Follow-Up Service**
+13. **Rendez-vous pour le service de suivi**
 
 {% @mermaid/diagram content="flowchart TD
     A["Start"] --> B["New HSU for new service"]
@@ -78,62 +78,62 @@ For a new HSU who will need a Foot Abduction Brace;
     style O stroke:#2962FF
     style S stroke:#FFD600" fullWidth="true" %}
 
-The HSU comes back for the follow up visit, and will have different options through this workflow "follow up": See below the options.
+L'USH revient pour la visite de suivi, et aura différentes options via ce flux de travail "suivi" : voir ci-dessous les options.
 
-**For this specific clinical scenario, we can streamline the process by allowing a Foot Abduction Brace renewal exception in the workflow to facilitate the work of the clinician.**&#x20;
+**Pour ce scénario clinique spécifique, nous pouvons rationaliser le processus en permettant une exception de renouvellement de l'attelle d'abduction du pied dans le flux de travail pour faciliter le travail du clinicien.**&#x20;
 
 {% hint style="warning" %}
-A: For monitoring, shoe changes, adjustment, repair, or renewing a foot abduction brace within 1-2 weeks, the Episode of service can close at month's end to include follow-up visits.
+A : Pour la surveillance, les changements de chaussures, l'ajustement, la réparation ou le renouvellement d'une attelle d'abduction du pied dans un délai de 1-2 semaines, l'épisode de service peut se clôturer en fin de mois pour inclure les visites de suivi.
 {% endhint %}
 
 {% hint style="warning" %}
-B: Maintain HSU activity (keeping Episode of Service in active visit) for 4 weeks between the 1st and 3rd braces to facilitate PRC and caregiver adjustments.
+B : Maintenir l'activité de l'USH (en gardant l'épisode de service en visite active) pendant 4 semaines entre la 1re et la 3e attelle pour faciliter les ajustements du PRC et des aidants.
 
-If issues persist, consider returning for recasting.
+Si les problèmes persistent, envisager un retour pour un nouveau plâtre.
 
-* If follow-up visits are spaced three weeks or more apart, or fall into different months, the episode should be closed.
+* Si les visites de suivi sont espacées de trois semaines ou plus, ou tombent sur des mois différents, l'épisode doit être clôturé.
 {% endhint %}
 
-1. **Start EoS**
-2. **Initial Decision after registration**
+1. **Démarrer l'EoS**
+2. **Décision initiale après l'inscription**
 
-<mark style="color:orange;">Select follow up</mark>
+<mark style="color:orange;">Sélectionner suivi</mark>
 
-3. **Service follow up assessment**
+3. **Évaluation du suivi du service**
 
-<mark style="color:orange;">Follow up decision</mark>
+<mark style="color:orange;">Décision de suivi</mark>
 
-**Bracing club foot treatment**
+**Traitement du pied bot par appareillage**
 
-<mark style="color:orange;">**OPTION 1:**</mark>  _Adjustment_ OR _Repair_
+<mark style="color:orange;">**OPTION 1 :**</mark>  _Ajustement_ OU _Réparation_
 
-<mark style="color:orange;">**OPTION 2**</mark><mark style="color:orange;">:</mark> _Renew_
+<mark style="color:orange;">**OPTION 2**</mark><mark style="color:orange;">:</mark> _Renouveler_
 
-* Bar
-* _Change shoe size_
-* _Foot Abduction Brace_
+* Barre
+* _Changer la pointure_
+* _Attelle d'abduction du pied_
 
-4. **Financial capacity assessment - follow up (+ socioeconomic already done/ Financing decision)**
+4. **Évaluation de la capacité financière - suivi (+ socio-économique déjà fait / décision de financement)**
 
-<mark style="color:orange;">Approve for service</mark>
+<mark style="color:orange;">Approuver pour le service</mark>
 
-5. **Club foot treatment record, brace compliance follow up**
+5. **Dossier de traitement du pied bot, suivi de l'observance de l'attelle**
 
-* <mark style="color:orange;">Brace size decision</mark>
-  * If **Good** → go to **Service follow up plan** (OPTION 1 as followed under Bracing club foot treatment)
-  * If **To be changed** → go to **Material Request and then Service follow up plan**
+* <mark style="color:orange;">Décision sur la taille de l'attelle</mark>
+  * Si **Bon** → aller à **Plan de suivi du service** (OPTION 1 comme suivi sous Traitement du pied bot par appareillage)
+  * Si **À changer** → aller à **Demande de matériel puis plan de suivi du service**
 
-6. **Service Follow up Plan**
+6. **Plan de suivi du service**
 
-<mark style="color:orange;">Do we have devices to be repaired during this visit?</mark>
+<mark style="color:orange;">Avons-nous des dispositifs à réparer lors de cette visite ?</mark>
 
-* If No (if option 2) → Save and validate
-* If Yes (if option 1):
-  * Select the device and repair type
-  * Orthosis / LL bilateral
-  * Adjustment or Repair
+* Si Non (si option 2) → Enregistrer et valider
+* Si Oui (si option 1) :
+  * Sélectionner le dispositif et le type de réparation
+  * Orthèse / MI bilatéral
+  * Ajustement ou réparation
 
-7. **EoS (End of Service)**
+7. **EoS (Fin de service)**
 
 
 
