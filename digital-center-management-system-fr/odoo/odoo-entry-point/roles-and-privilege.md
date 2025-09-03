@@ -2,10 +2,10 @@
 description: Aperçu rapide du rôle dans Odoo
 ---
 
-# Rôles et privilège
+# Rôles et privilèges
 
 {% hint style="warning" %}
-Ces rôles reflètent le **paramètres d'accès par défaut** dans Odoo, mais selon le contexte ou la configuration de l'organisation, les responsabilités réelles peuvent différer en pratique. Référez-vous toujours à votre flux de travail local pour des affectations de rôle précises.
+Ces rôles reflètent le **paramètres d'accès par défaut** dans Odoo, mais selon le contexte ou la configuration de l'organisation, les responsabilités réelles peuvent différer de la réalité. Référez-vous toujours à votre flux de travail local pour des affectations de rôle précises.
 {% endhint %}
 
 ## Rôles existants
@@ -19,7 +19,3 @@ Ces rôles reflètent le **paramètres d'accès par défaut** dans Odoo, mais se
 * **Travailleur social** : Rôle défini mais non utilisé actuellement.
 * **Magasinier** : Accès aux modules Stock, Fabrication et Réparation.
 * **Administrateur DCMS** : Administrateur du centre avec un large accès administratif.
-
-
-
-\

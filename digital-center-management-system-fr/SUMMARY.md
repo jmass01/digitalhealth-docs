@@ -1,4 +1,4 @@
-# Table des matières
+# Table of contents
 
 * [INTRODUCTION](README.md)
   * [Table des matières](introduction/table-of-content.md)
@@ -89,12 +89,12 @@
 * [Facturation](odoo/invoicing/README.md)
   * [Gestion des factures ouvertes (WIP)](odoo/invoicing/managing-open-invoice-wip.md)
 
----
+***
 
-* [Achats](purchase/README.md)
-  * [Demande de devis (RFQ)](purchase/request-for-quotation-rfq.md)
-  * [Confirmation d’une commande d’achat](purchase/confirming-a-purchase-order.md)
-  * [Réception des produits achetés](purchase/receiving-purchased-products.md)
+* [Achats](achats/README.md)
+  * [Demande de devis (RFQ)](achats/demande-de-devis-rfq.md)
+  * [Confirmation d’une commande d’achat](achats/confirmation-dune-commande-dachat.md)
+  * [Réception des produits achetés](achats/reception-des-produits-achetes.md)
 
 ## 📈 Superset
 

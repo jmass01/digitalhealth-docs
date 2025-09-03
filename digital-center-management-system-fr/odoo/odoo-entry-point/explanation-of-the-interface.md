@@ -1,4 +1,4 @@
-# Explication de l'interface
+# Explication de l’interface
 
 #### **1. Barre de navigation (menu supérieur)**
 
@@ -10,13 +10,13 @@
 
 #### **2. Tableau de bord principal (menu Applications)**
 
-* Affiche toutes les **applications** (modules) sous forme d'icônes (par ex. Ventes, CRM, Inventaire, Comptabilité).
-* Cliquez sur une application pour entrer dans son espace de travail spécifique.
-* Vous pouvez également rechercher des informations spécifiques
+* Présente l’ensemble des **applications** (modules) sous forme d’icônes (ex. : Ventes, CRM, Inventaire, Comptabilité).
+* Cliquez sur une application pour accéder à son espace de travail dédié.
+* Une fonction de **recherche** permet également de retrouver rapidement une application ou une information spécifique.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F0YVNSVBCciKFB9pskvhd%2Fimage.png?alt=media&#x26;token=f6c39478-f074-4aa2-9ca5-24261cd7a9f8" alt=""><figcaption></figcaption></figure>
 
-#### **3. Vues et mises en page**
+#### **3. Formulaire et vue**
 
 Odoo propose différentes vues selon le module :
 
@@ -28,12 +28,11 @@ Odoo propose différentes vues selon le module :
 
 #### **4. Recherche et filtres**
 
-* Le **barre de recherche** permet un filtrage, un regroupement et une recherche dynamiques des enregistrements.
-* **Favoris** vous permettent d'enregistrer des filtres de recherche fréquemment utilisés.
+* La **barre de recherche** permet de filtrer, grouper et rechercher dynamiquement les enregistrements.
+* Les **favoris** offrent la possibilité d’enregistrer des filtres pour un usage récurrent.
 
 #### **5. Boutons d'action**
 
 * **Créer** : Ajoute un nouvel enregistrement (par ex. nouveau client, commande).
 * **Modifier** : Modifie un enregistrement existant.
 * **Exporter** : Exporte les données au format CSV/Excel.
-
