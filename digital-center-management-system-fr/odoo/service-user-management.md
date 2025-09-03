@@ -1,37 +1,37 @@
-# Service User Management
+# Gestion des utilisateurs de service
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-The **Service User Management** application in Odoo provides a central list of all patients who have been created in OpenMRS and for whom the _Initial Decision Form_ has been completed. This application acts as a reference point for managing patients within Odoo. Only essential information is synchronized from OpenMRS — such as the patient's name, age, gender, and address. No clinical or additional data is transferred, ensuring that only the basic identification details are maintained in Odoo.
+Le **Gestion des utilisateurs de service** l'application dans Odoo fournit une liste centrale de tous les patients qui ont été créés dans OpenMRS et pour lesquels le _Formulaire de décision initiale_ a été rempli. Cette application sert de point de référence pour la gestion des patients dans Odoo. Seules les informations essentielles sont synchronisées depuis OpenMRS — telles que le nom du patient, l'âge, le sexe et l'adresse. Aucune donnée clinique ou supplémentaire n'est transférée, garantissant que seules les informations d'identification de base sont conservées dans Odoo.
 
-## How to find a specific Service User (SU)&#x20;
+## Comment trouver un utilisateur de service (US) spécifique&#x20;
 
-On the home page, go to the icon "Service User Management".
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SUs here. Use the search bar at the top to find a service user by their name or SU ID. Please ensure to select the correct option.
+Vous pouvez consulter ici la liste de tous les US. Utilisez la barre de recherche en haut pour trouver un utilisateur de service par son nom ou son identifiant US. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-## Explanation of the SU form
+## Explication du formulaire US
 
-Depending on the module installed at your center, you will be able to access all different information related to this specific user.
+Selon le module installé dans votre centre, vous pourrez accéder à toutes les informations différentes liées à cet utilisateur spécifique.
 
-On top of the form, quick actions will also be available for this SU (Service User), such as creating a new admission or configuring MRP settings.&#x20;
+En haut du formulaire, des actions rapides seront également disponibles pour cet US (Utilisateur de Service), comme la création d'une nouvelle admission ou la configuration des paramètres MRP.&#x20;
 
-Like previously mentioned, you will more or less buttons will be available based on the configuration.
+Comme mentionné précédemment, plus ou moins de boutons seront disponibles en fonction de la configuration.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FL3pyDtFTiRNOdwCMXIBF%2Fimage.png?alt=media&#x26;token=7e8c072d-1cec-45a8-bb62-3ac23faa094a" alt=""><figcaption></figcaption></figure>
 
-At the bottom, several tabs provide additional information.
+En bas, plusieurs onglets fournissent des informations supplémentaires.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FoLmvOSZU6q4ECVJk2DU3%2Fimage.png?alt=media&#x26;token=86a7533a-3425-4707-94cc-d19680f6542b" alt=""><figcaption></figcaption></figure>
 
-In the **"Stock Pickings"** tab by example, you can view all stock movements associated with this SU. Each stock picking includes a reference that helps identify the type of movement.
+Dans le **"Mouvements de stock"** onglet par exemple, vous pouvez voir tous les mouvements de stock associés à cet US. Chaque opération de stock inclut une référence qui aide à identifier le type de mouvement.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FVg7C25P4o8AxjvjOW5bV%2Fimage.png?alt=media&#x26;token=faa92349-b411-43b9-9d13-86aabcb04263" alt=""><figcaption></figcaption></figure>
 
-You can also add notes or messages in the service user chatter, allowing you to leave comments or schedule activities.
+Vous pouvez également ajouter des notes ou des messages dans le fil de discussion de l'utilisateur de service, ce qui vous permet de laisser des commentaires ou de planifier des activités.
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FWs8KmVMIsVphkQZB2cqw%2Fimage.png?alt=media&#x26;token=987e3808-2ba8-4857-8740-7c3759262afb" alt=""><figcaption></figcaption></figure>

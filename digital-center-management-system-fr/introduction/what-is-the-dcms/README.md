@@ -1,62 +1,62 @@
-# What is the DCMS?
+# Qu'est-ce que le DCMS ?
 
-## The Digital Centre Management System
+## Le système de gestion des centres numériques
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption><p>DCMS logo</p></figcaption></figure></div>
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F19Xoy2MW9IkUQQuHfxTt%2Fimage.png?alt=media&#x26;token=af3ef465-cf06-4029-9e4f-1dc5be055627" alt=""><figcaption><p>Logo DCMS</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces_2FnTWGcVv7ikvz7HIC0Dby_2Fuploads_2FPI5nmOdSfHjU0yT5QNgQ_2Fimage.avif" alt=""><figcaption></figcaption></figure>
-
-
-
-The Digital Centre Management System (DCMS) is a unique solution, developed for the Physical Rehabilitation Program within the Program Humanitarian Impact Investment (PHII), transversely with Pearl, to Support Rehabilitation Centres to function in a more efficient and autonomous way. &#x20;
-
-It consists of two digital tools: an Electronic Medical Record (EMR – “OpenMrs”) and an Enterprise Resource Planning (ERP – “Odoo”) that will improve quality of services and the global Physical Rehabilitation Centre’s management by providing the partners with a sustainable tool they can use independently and will enable them with the technology needed for that purpose. Through the EMR application, you will have an appointment module that enables you to give an appointment to the Health Service users and the clinicians. An additional application has been added recently called the “SuperSet” to optimize the data collection. &#x20;
-
-DCMS is meant to be used independently by our ICRC partners and Physical Rehabilitation Programmes centers, as well as by other healthcare departments, as long as the tool answers clinicians requirements.
-
-This comprehensive tool based on standardized process and workflow will support the efficiency measure for both clinical and resource management of the centers.
-
-#### Enhanced Information Management for Health Services
-
-The Electronic Medical Record (EMR) system facilitates the collection of information at the point of care. It covers details of Health Service Users (HSU), service delivery methods such as physiotherapy and assistive technology, as well as referrals, assessments, evaluations, follow-ups, and repairs, adhering to international standards like the International Classification of Function.
-
-The Enterprise Resource Planning (ERP) system manages various operational aspects including procurement, manufacturing, invoicing, maintenance, human resources, and dormitory services. Together, both systems enhance the efficiency of PR services through comprehensive and disaggregated data collection.
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F5IdXOgw53zD2ALAN1d0m%2Fhttps___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces_2FnTWGcVv7ikvz7HIC0Dby_2Fuploads_2FPI5nmOdSfHjU0yT5QNgQ_2Fimage.avif?alt=media&#x26;token=4053600a-efa9-43aa-9a2a-a579f8317627" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption><p>The DCMS has for purpose to improve the efficiency measures at the Physical Rehabilitation Center</p></figcaption></figure>
+Le Système de Gestion des Centres Numériques (DCMS) est une solution unique, développée pour le Programme de Réhabilitation Physique dans le cadre du Programme d'Investissement à Impact Humanitaire (PHII), en transversalité avec Pearl, pour soutenir les centres de rééducation afin qu'ils fonctionnent de manière plus efficiente et autonome. &#x20;
 
-### EMR- Electronic Medical Record: supported by OpenMRS
+Il se compose de deux outils numériques : un Dossier Médical Électronique (EMR – « OpenMRS ») et un Progiciel de Gestion Intégré (ERP – « Odoo ») qui amélioreront la qualité des services et la gestion globale des centres de rééducation physique en fournissant aux partenaires un outil durable qu'ils peuvent utiliser de manière autonome et qui leur donnera la technologie nécessaire à cet effet. Grâce à l'application EMR, vous disposerez d'un module de rendez-vous qui vous permet de fixer un rendez-vous pour les usagers des services de santé et les cliniciens. Une application supplémentaire a été ajoutée récemment appelée « Superset » pour optimiser la collecte de données. &#x20;
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption><p>OpenMRS logo</p></figcaption></figure></div>
+Le DCMS est destiné à être utilisé de manière autonome par nos partenaires CICR et les centres des Programmes de Réhabilitation Physique, ainsi que par d'autres départements de santé, tant que l'outil répond aux besoins des cliniciens.
 
-* Centralize medical record and enhance data protection.&#x20;
-* Support interdisciplinary work Book a digital appointment&#x20;
-* Enable customized report creation Enhance followup on the patient medical record & continuity of care&#x20;
-* Follow up on beneficiary situation thanks to socioeconomic and financial assessment&#x20;
-* Record referential data, followup and reparation Reduce paper consumption
+Cet outil complet, basé sur des processus et des flux de travail standardisés, soutiendra la mesure de l'efficience tant pour la gestion clinique que pour la gestion des ressources des centres.
 
+#### Gestion de l'information améliorée pour les services de santé
 
+Le système de Dossier Médical Électronique (EMR) facilite la collecte d'informations au point de soins. Il couvre les détails des usagers des services de santé (HSU), les méthodes de prestation de services telles que la physiothérapie et la technologie d'assistance, ainsi que les références, évaluations, bilans, suivis et réparations, en respectant des standards internationaux tels que la Classification Internationale du Fonctionnement.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption><p>Transversal application</p></figcaption></figure>
+Le système de Progiciel de Gestion Intégré (ERP) gère divers aspects opérationnels, notamment les achats, la fabrication, la facturation, la maintenance, les ressources humaines et les services de dortoir. Ensemble, ces deux systèmes améliorent l'efficacité des services de rééducation physique grâce à une collecte de données complète et désagrégée.
 
 
 
-### ERP – Entreprise Resource Planning: supported by Odoo
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwT5CQetentbm43ZhHa1P%2Fimage.png?alt=media&#x26;token=c4c11d2a-93fb-4804-8bc1-b20d1b2bc829" alt=""><figcaption><p>Le DCMS a pour objectif d'améliorer les mesures d'efficience au Centre de Rééducation Physique</p></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Odoo Logo</p></figcaption></figure></div>
+### EMR - Dossier Médical Électronique : supporté par OpenMRS
 
-* Stock management: better followup on the inventory and limit the risk of fraud&#x20;
-* Supply Chain: enhance supply chain procedure and reduce the risks on material loss or waste.&#x20;
-* Manufacturing : enhance working process and increase responsibility.&#x20;
-* Invoicing : allow centers to invoice medical treatment and followup on the transactions. Maintenance : record maintenance record and equipment replacement&#x20;
-* Dormitory : monitoring on dormitory management Human Resources: enhance HR management & allow data centralization&#x20;
-* Management Dashboard: facilitate human resource planning and global overview activity
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FEEIfvGFRL7mWUk2YsJhy%2Fimage.png?alt=media&#x26;token=277dc678-6544-4e42-995e-91de111954a0" alt=""><figcaption><p>Logo OpenMRS</p></figcaption></figure></div>
+
+* Centraliser le dossier médical et renforcer la protection des données.&#x20;
+* Soutenir le travail interdisciplinaire Réserver un rendez-vous numérique&#x20;
+* Permettre la création de rapports personnalisés Améliorer le suivi du dossier médical du patient et la continuité des soins&#x20;
+* Suivre la situation du bénéficiaire grâce à l'évaluation socioéconomique et financière&#x20;
+* Enregistrer les données référentielles, le suivi et la réparation Réduire la consommation de papier
+
+
+
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FNq2uztks62ShJ50NPDue%2Fimage.png?alt=media&#x26;token=b5b76e93-7b16-4e4e-9c7d-6614a90b2ca5" alt=""><figcaption><p>Application transversale</p></figcaption></figure>
+
+
+
+### ERP – Progiciel de Gestion Intégré : supporté par Odoo
+
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FOmDZAv0KjgyTPCHABg77%2Fimage.png?alt=media&#x26;token=1659cc81-588a-4ed5-b7fe-67632b7a4a0d" alt=""><figcaption><p>Logo Odoo</p></figcaption></figure></div>
+
+* Gestion des stocks : meilleur suivi de l'inventaire et réduction du risque de fraude&#x20;
+* Chaîne d'approvisionnement : améliorer la procédure de chaîne d'approvisionnement et réduire les risques de perte ou de gaspillage de matériel.&#x20;
+* Fabrication : améliorer le processus de travail et accroître la responsabilisation.&#x20;
+* Facturation : permettre aux centres de facturer les traitements médicaux et de suivre les transactions. Maintenance : enregistrer les interventions de maintenance et le remplacement d'équipement&#x20;
+* Dortoir : suivi de la gestion des dortoirs Ressources Humaines : améliorer la gestion RH et permettre la centralisation des données&#x20;
+* Tableau de bord de gestion : faciliter la planification des ressources humaines et offrir une vue d'ensemble de l'activité
 
 ### SUPERSET
 
-![](<../../.gitbook/assets/image (136).png>)
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FG7jOkc6zdKtFlS0F4ZKh%2Fimage.png?alt=media\&token=3115164c-dc9c-45f3-8619-cf2bf81bd2ce)
 
-Superset made by Apache is an open-source solution that allows to visualize and explore data. It’s a powerful yet easy to use solution to connect with many different datasets and combine them into one visualization tool, so or a dashboard. It comes with plenty of visualizations that are already pre-installed.
+Superset développé par Apache est une solution open source qui permet de visualiser et d'explorer les données. C'est une solution puissante mais facile à utiliser pour se connecter à de nombreux jeux de données différents et les combiner en un outil de visualisation, ou un tableau de bord. Elle est livrée avec de nombreuses visualisations déjà préinstallées.
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FLRbwVdYMGZPVOrjSQjeJ%2Fimage.png?alt=media&#x26;token=2853f3f4-1719-4a96-9e20-70324c4a9cc3" alt=""><figcaption></figcaption></figure>

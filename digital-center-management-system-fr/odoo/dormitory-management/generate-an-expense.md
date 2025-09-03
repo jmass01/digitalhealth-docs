@@ -1,26 +1,26 @@
-# Generate an Expense
+# Générer une dépense
 
-To generate expenses for a patient's stay, follow these steps:
+Pour générer les frais liés au séjour d'un patient, suivez ces étapes :
 
-1. Ensure Discharge of All Parties:
-   * Before generating expenses, make sure that both the Service User (SU) and the caregiver(s) listed under the "SU Companion" tab have been discharged.
-   * If any of these lines are not discharged, the expense line will not be automatically generated and will need to be created manually.
-2. Generate Expense:
+1. Assurer la sortie de toutes les personnes :
+   * Avant de générer les frais, assurez-vous que l'utilisateur du service (SU) et le(s) soignant(s) répertorié(s) sous l'onglet « SU Companion » ont été sortis.
+   * Si l'une de ces lignes n'est pas sortie, la ligne de frais ne sera pas générée automatiquement et devra être créée manuellement.
+2. Générer les frais :
 
-* Once all relevant parties have the status "Discharged," click on the "Generate Expense" button at the top of the screen.
+* Une fois que toutes les personnes concernées ont le statut « Discharged », cliquez sur le bouton « Generate Expense » en haut de l'écran.
 
 ![A screenshot of a computer
 
 Description automatically generated](file:///C:/Users/A079902/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
 
 2.
-   * The system will generate expense lines based on the admission and discharge statuses. For example:
+   * Le système générera des lignes de frais en fonction des statuts d'admission et de sortie. Par exemple :
    *
-     * If both the SU and one caregiver are discharged, it will generate two lines—one for the SU’s admission and one for the discharged caregiver.
-     * If only one caregiver is discharged, only that line will be generated.
-3. Access the Expense Tab:
+     * Si à la fois le SU et un soignant sont sortis, il générera deux lignes — une pour l'admission du SU et une pour le soignant sorti.
+     * Si un seul soignant est sorti, seule cette ligne sera générée.
+3. Accéder à l'onglet des frais :
 4.
-   * After clicking "Generate Expense," a new tab named "Xpenses" will appear.
-   * This tab will contain all the generated expenses for the patient and caregiver(s).
+   * Après avoir cliqué sur « Generate Expense », un nouvel onglet nommé « Xpenses » apparaîtra.
+   * Cet onglet contiendra tous les frais générés pour le patient et le(s) soignant(s).
 
-This process ensures accurate billing by generating expenses only for the admissions and caregivers who have been fully discharged.
+Ce processus garantit une facturation précise en ne générant des frais que pour les admissions et les soignants qui ont été entièrement sortis.

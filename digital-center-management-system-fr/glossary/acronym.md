@@ -1,36 +1,19 @@
----
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
+# Acronyme
 
-# Acronym
+## Acronyme
 
-## Acronym
-
-| Acronym = Meaning                                 | Acronym = Meaning                                 |
-| ------------------------------------------------- | ------------------------------------------------- |
-| AT = Assistive technology                         | MO = Manufacturing order                          |
-| BOM = Bills of materials                          | MRP = Manufacturing Resource Planning             |
-| DCMS = Digital Centre Management System           | P\&O = Prosthetic & Orthotic                      |
-| DHIS2 = District Health Information System 2      | PC = Pick Component                               |
-| DoB = Date of Birth                               | PHC = Primary Health Care                         |
-| EMR = Electronic Medical Record                   | PRP = Physical Rehabilitation Program             |
-| EOS = Episode of Service                          | PT = Physiotherapist                              |
-| HIS = Health Information System                   | RMA = Repair                                      |
-| HSU = Health Service User                         | SU = Service User (Odoo)                          |
-| ICRC = International Committee of the Red Cross   | UOM = Unit of measure                             |
-| IDTIA = Interdisciplinary Team Initial Assessment | WH = Warehouse                                    |
-| MAD = Medical Activity Database                   | WHODAS 2.0 = WHO Disability Assessment Survey 2.0 |
-| MHPS = Mental Health and Psychosocial Support     | WO = Workorder                                    |
+| Acronyme = Signification                                      | Acronyme = Signification                                       |
+| ------------------------------------------------------------- | -------------------------------------------------------------- |
+| AT = Technologie d'assistance                                 | MO = Ordre de fabrication                                      |
+| BOM = Nomenclatures                                           | MRP = Planification des ressources de fabrication              |
+| DCMS = Système de gestion du centre numérique                 | P\&O = Prothétique et orthétique                               |
+| DHIS2 = Système d'information sanitaire de district 2         | PC = Prélever composant                                        |
+| DoB = Date de naissance                                       | PHC = Soins de santé primaires                                 |
+| EMR = Dossier médical électronique                            | PRP = Programme de rééducation physique                        |
+| EOS = Épisode de service                                      | PT = Physiothérapeute                                          |
+| HIS = Système d'information sanitaire                         | RMA = Réparation                                               |
+| HSU = Utilisateur du service de santé                         | SU = Utilisateur du service (Odoo)                             |
+| ICRC = Comité international de la Croix-Rouge                 | UOM = Unité de mesure                                          |
+| IDTIA = Évaluation initiale par une équipe interdisciplinaire | WH = Entrepôt                                                  |
+| MAD = Base de données des activités médicales                 | WHODAS 2.0 = Enquête de l'OMS sur l'évaluation du handicap 2.0 |
+| MHPS = Soutien en santé mentale et psychosocial               | WO = Ordre de travail                                          |

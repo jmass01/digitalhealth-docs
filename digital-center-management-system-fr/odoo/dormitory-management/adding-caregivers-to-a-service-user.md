@@ -1,50 +1,50 @@
-# Adding Caregivers to a Service User
+# Ajouter des aidants à un utilisateur de service
 
 {% hint style="info" %}
-Roles recommended : Dormitory manager
+Rôles recommandés : Responsable du dortoir
 {% endhint %}
 
-## **🧭** Context: <a href="#context" id="context"></a>
+## **🧭** Contexte : <a href="#context" id="context"></a>
 
-The caregiver creation feature is designed to support the proper follow-up and care of Service Users (SUs) who require assistance. In many cases, a Service User may be accompanied by a relative, friend, or helper during their stay or treatment. To ensure clear records and proper planning, it is important to register these caregivers in the system. This allows the organization to manage admission schedules, track presence, and coordinate care more effectively. The creation of a caregiver is therefore a key step in building a complete and accurate profile for the Service User.
+La fonctionnalité de création de proche aidant est conçue pour soutenir le suivi et la prise en charge appropriés des Usagers de Service (US) qui nécessitent une assistance. Dans de nombreux cas, un Usager de Service peut être accompagné d’un parent, d’un ami ou d’un aidant pendant son séjour ou son traitement. Pour garantir des dossiers clairs et une planification adéquate, il est important d’enregistrer ces proches aidants dans le système. Cela permet à l’organisation de gérer les plannings d’admission, de suivre les présences et de coordonner les soins de manière plus efficace. La création d’un proche aidant constitue donc une étape clé pour établir un profil complet et précis de l’Usager de Service.
 
-## 🔄 Step-by-Step Flow
+## 🔄 Flux étape par étape
 
-### Access the SU Form
+### Accéder au formulaire de l’US
 
-To create a caregiver, you must first access the correct Service User (SU) record. This ensures that the caregiver is properly linked to the appropriate SU in the system.
+Pour créer un proche aidant, vous devez d’abord accéder au bon dossier de l’Usager de Service (US). Cela garantit que le proche aidant est correctement lié à l’US approprié dans le système.
 
 {% tabs %}
-{% tab title="Via the SU form" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via le formulaire du bénéficiaire" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-### Create the caregiver
+### Créer le proche aidant
 
-The first step is to check whether the checkbox labeled **"Has caregiver"** is selected.\
-If it is not, click the **Edit** button at the top left of the screen to enter edit mode, then check the **"Has caregiver"** box.
+La première étape consiste à vérifier si la case à cocher intitulée **"A un proche aidant"** est sélectionnée.\
+Si ce n’est pas le cas, cliquez sur le **Modifier** bouton en haut à gauche de l’écran pour passer en mode édition, puis cochez la **"A un proche aidant"** case.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FmKnqJW1Bt3oneGRUV6Zv%2Fimage.png?alt=media&#x26;token=af158b87-605b-49f0-a029-a67a896e18f8" alt=""><figcaption></figcaption></figure>
 
-If this box is checked, you will see a tab labeled **"Caregiver(s)"**. From there, you can view all caregivers associated with the Service User (SU) or create a new one.
+Si cette case est cochée, vous verrez un onglet intitulé **"Proche(s) aidant(s)"**. À partir de là, vous pouvez consulter tous les proches aidants associés à l’Usager de Service (US) ou en créer un nouveau.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fmi0i8ciuc14Sri0vS5KW%2Fimage.png?alt=media&#x26;token=6a9adba3-c59c-44a2-84ef-c6ad1987e08e" alt=""><figcaption></figcaption></figure>
 
-When creating a caregiver, you must fill in mandatory fields such as **name**, **family name**, and **gender**. The other fields are optional but help to better track and identify the caregiver. You can click on "Save\&Close" or "Save\&new" if you have to create multiple caregiver.&#x20;
+Lors de la création d’un proche aidant, vous devez remplir des champs obligatoires tels que **prénom**, **nom de famille**, et **sexe**. Les autres champs sont facultatifs mais aident à mieux suivre et identifier le proche aidant. Vous pouvez cliquer sur "Enregistrer\&Fermer" ou "Enregistrer\&nouveau" si vous devez créer plusieurs proches aidants.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FY2E9gkTuICU5I9ISvCbZ%2Fimage.png?alt=media&#x26;token=99f594b1-0e5d-45fe-bd4d-5e263e8d0c65" alt=""><figcaption></figcaption></figure>
 
-## What's next?&#x20;
+## Et ensuite ?&#x20;
 
-Once the caregiver has been created and linked to the Service User, they will appear in the list of available caregivers. From now on, this caregiver can be easily selected and added during future admissions, ensuring proper tracking and coordination of support for the Service User.
+Une fois le proche aidant créé et lié à l’Usager de Service, il apparaîtra dans la liste des proches aidants disponibles. Dorénavant, ce proche aidant pourra être facilement sélectionné et ajouté lors des admissions futures, garantissant un suivi et une coordination appropriés de l’accompagnement de l’Usager de Service.
 
 
 
-[^1]: Service provider
+[^1]: Fournisseur de service

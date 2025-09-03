@@ -1,8 +1,8 @@
 ---
-description: Process flow of the Dormitory Management
+description: Flux de processus de la gestion des dortoirs
 ---
 
-# Dormitory management
+# Gestion des dortoirs
 
 {% @mermaid/diagram content="flowchart TD
     A["Start - New Admission"] --> B["Select Date of Admission"]

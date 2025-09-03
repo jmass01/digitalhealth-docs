@@ -1,70 +1,70 @@
-# Create an admission
+# Créer une admission
 
 {% hint style="info" %}
-Roles recommended : Dormitory manager
+Rôles recommandés : Responsable du dortoir
 {% endhint %}
 
-## **🧭** Context: <a href="#context" id="context"></a>
+## **🧭** Contexte : <a href="#context" id="context"></a>
 
-Creating an admission for a Service User (SU) is a crucial administrative step that ensures proper coordination of accommodations and services. Each admission represents a defined period during which the SU is expected to stay in the facility. It allows staff to assign a bed, monitor presence, and manage logistics such as caregiver stays, meal planning, and room availability. This process also supports reporting and tracking, ensuring transparency and accountability in dormitory usage. Admissions must be created accurately to reflect the real-world presence of the SU and their companions.
+La création d'une admission pour un usager de service (SU) est une étape administrative cruciale qui garantit une coordination appropriée des hébergements et des services. Chaque admission représente une période définie pendant laquelle l'usager est censé séjourner dans l'établissement. Elle permet au personnel d'attribuer un lit, de contrôler la présence et de gérer la logistique telle que les séjours des soignants, la planification des repas et la disponibilité des chambres. Ce processus soutient également la production de rapports et le suivi, assurant transparence et responsabilité dans l'utilisation du dortoir. Les admissions doivent être créées avec précision pour refléter la présence réelle de l'usager et de ses accompagnants.
 
-## 🔄 Step-by-Step Flow
+## 🔄 Flux étape par étape
 
-### Creation of the admission
+### Création de l'admission
 
-To create an admission for a Service User (SU), you can either start from the SU form or from the Admission list.
+Pour créer une admission pour un usager de service (SU), vous pouvez soit partir du formulaire SU soit de la liste des admissions.
 
 {% tabs %}
-{% tab title="Via the SU form" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via le formulaire SU" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the Service User (SU) form, you’ll find a button labeled **"Create admission"**. Clicking this button will trigger the creation of the admission request.
+Dans le formulaire de l'usager de service (SU), vous trouverez un bouton intitulé **"Créer une admission"**. En cliquant sur ce bouton, la demande d'admission sera déclenchée.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FZj3cicxNAzv29gIQL1RW%2Fimage.png?alt=media&#x26;token=0a348d2d-0eb7-4b69-88a9-09eb85e0f6fc" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via the Admission list" %}
+{% tab title="Via la liste des admissions" %}
 
 
-On the home page, go to the icon "Service User Management".
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-At the top of the screen, in the header, you’ll find a menu labeled **“Admissions”** Click on it to open the Admission section, then click on **“Create New Admission”** to start a new admission process for a service user.
+En haut de l'écran, dans l'en-tête, vous trouverez un menu intitulé **« Admissions »** Cliquez dessus pour ouvrir la section Admission, puis cliquez sur **« Créer une nouvelle admission »** pour démarrer un nouveau processus d'admission pour un usager de service.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F13XkdQUgmX7jzHOOd64y%2Fimage.png?alt=media&#x26;token=c2b62ba3-4b9b-44f4-86c7-91543c46fdfc" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 
 
-Now that the admission is created we need to fill in the information, first check/fill the service user field to ensure that you have selected the correct Service user.
+Maintenant que l'admission est créée, nous devons remplir les informations ; vérifiez d'abord/remplissez le champ de l'usager de service pour vous assurer que vous avez sélectionné le bon usager.
 
-Based on the patient's gender, the system will automatically select an appropriate ward (e.g., for a female patient, the Women’s Area will be selected).
+En fonction du sexe du patient, le système sélectionnera automatiquement un service approprié (par exemple, pour une patiente, la zone femmes sera sélectionnée).
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fus2pSDoCihUwduSs6AQl%2Fimage.png?alt=media&#x26;token=8076d06b-1dff-494b-acf5-78cd6a6bf950" alt=""><figcaption></figcaption></figure>
 
-### **Adding a Caregiver**
+### **Ajout d'un soignant**
 
-the Service User (SU) has a caregiver, go to the second tab labeled **"SU Companion."** In this tab, you can add admission records for caregivers and specify the dates they will be present. Each caregiver must be admitted individually, as their availability may vary.
+si l'usager de service (SU) a un soignant, allez à l'onglet secondaire intitulé **"Accompagnant SU."** Dans cet onglet, vous pouvez ajouter des enregistrements d'admission pour les soignants et spécifier les dates auxquelles ils seront présents. Chaque soignant doit être admis individuellement, car leur disponibilité peut varier.
 
 {% hint style="info" %}
-Only caregivers previously created for this specific SU will be visible in this tab.
+Seuls les soignants préalablement créés pour cet usager spécifique seront visibles dans cet onglet.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F3MOH7u6vAjzB2meCNSBe%2Fimage.png?alt=media&#x26;token=51bbf545-b4fb-4db2-b378-20056de7631b" alt=""><figcaption></figcaption></figure>
 
-You can also add the same caregiver multiple times with different dates if they are present on different occasions.
+Vous pouvez également ajouter le même soignant plusieurs fois avec des dates différentes s'il est présent à différentes occasions.
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FFZPvisgKxZu0Dq44i4BE%2Fimage.png?alt=media&#x26;token=99372545-846b-49d2-9fa3-19faa015664c" alt=""><figcaption></figcaption></figure>
 
-### 🗺️ Visual Overview&#x20;
+### 🗺️ Aperçu visuel&#x20;
 
 {% @mermaid/diagram content="graph LR
   A[Access the service user form] -->  C[Create the admission] 
@@ -72,8 +72,8 @@ You can also add the same caregiver multiple times with different dates if they 
   C --> D[Create admission for caregiver]
    " %}
 
-## What's next?&#x20;
+## Et ensuite ?&#x20;
 
 
 
-[^1]: Service provider
+[^1]: Fournisseur de service

@@ -1,53 +1,53 @@
-# How to use GITBOOK
+# Comment utiliser GITBOOK
 
-## **🧭** Context&#x20;
+## **🧭** Contexte&#x20;
 
-GitBook is an online platform used to create, organize, and share documentation. It allows teams and organizations to centralize information, making it easy to access, update, and navigate.
+GitBook est une plateforme en ligne utilisée pour créer, organiser et partager de la documentation. Elle permet aux équipes et aux organisations de centraliser l'information, facilitant ainsi l'accès, la mise à jour et la navigation.
 
-In this guide, we will explain how GitBook works, including its structure, navigation menus, search functionality, and other features to help you efficiently find and use the information you need.
+Dans ce guide, nous expliquerons comment GitBook fonctionne, y compris sa structure, les menus de navigation, la fonctionnalité de recherche et d'autres fonctionnalités pour vous aider à trouver et utiliser efficacement les informations dont vous avez besoin.
 
 ## Architecture
 
-The GitBook site is organized into 6 sections:
+Le site GitBook est organisé en 6 sections :
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FDDLS1cfNvxcaS8zWVeKt%2Fimage.png?alt=media&#x26;token=656a6eaf-8bf5-44c4-9cd2-fecf019424f8" alt=""><figcaption></figcaption></figure>
 
-### **1. Language Selection**
+### **1. Sélection de la langue**
 
-You can choose the language of the documentation.
+Vous pouvez choisir la langue de la documentation.
 
-### **2. Table of content**
+### **2. Table des matières**
 
-This is where you can access the different chapters. The table of contents is organized as follows:
+C'est ici que vous pouvez accéder aux différents chapitres. La table des matières est organisée comme suit :
 
-* **Introduction** → An overview explaining the DCMS.
-* **OpenMRS** → Documentation about OpenMRS, the tool used to manage Electronic Medical Records (EMR).
-* **Odoo** → Documentation about Odoo, the tool to manage Stock, Manufacturing, Human Resources, and more.
-* **Superset** →Documentation about Superset, a tool to generate reports and statistics for the MAD.
-* **Tips and Best Practices** → Recommendations and best practices for using all tools effectively.
-* **Troubleshooting and FAQ** → Guidance to help you resolve issues and find solutions.
-* **Appendices** → Additional reference material.
+* **Introduction** → Un aperçu expliquant le DCMS.
+* **OpenMRS** → Documentation sur OpenMRS, l'outil utilisé pour gérer les dossiers médicaux électroniques (EMR).
+* **Odoo** → Documentation sur Odoo, l'outil pour gérer le stock, la fabrication, les ressources humaines, et plus encore.
+* **Superset** → Documentation sur Superset, un outil pour générer des rapports et des statistiques pour le MAD.
+* **Conseils et bonnes pratiques** → Recommandations et bonnes pratiques pour utiliser efficacement tous les outils.
+* **Dépannage et FAQ** → Orientations pour vous aider à résoudre les problèmes et trouver des solutions.
+* **Annexes** → Matériel de référence supplémentaire.
 
-### **3. Main Content Area**
+### **3. Zone de contenu principale**
 
-This is where the main content of each page is displayed.
+C'est ici que le contenu principal de chaque page est affiché.
 
-### **4. Secondary table of content**
+### **4. Table des matières secondaire**
 
-This menu is based on the content of the page and helps you quickly navigate to specific information within the page.\
-At the end of each page,  there is an option where you can export the documentation.
+Ce menu est basé sur le contenu de la page et vous aide à naviguer rapidement vers des informations spécifiques au sein de la page.\
+À la fin de chaque page, il y a une option où vous pouvez exporter la documentation.
 
-### **5. Light/Dark Mode Switch**
+### **5. Bouton de bascule Clair/Sombre**
 
-You can switch between light and dark modes for easier reading.
+Vous pouvez passer du mode clair au mode sombre pour une lecture plus facile.
 
-### 6. Search bar
+### 6. Barre de recherche
 
-The search bar in GitBook allows you to quickly find content within the documentation. You can type keywords, topics, or phrases, and GitBook will display relevant results from all pages of the documentation.&#x20;
+La barre de recherche dans GitBook vous permet de trouver rapidement du contenu dans la documentation. Vous pouvez taper des mots-clés, des sujets ou des phrases, et GitBook affichera des résultats pertinents provenant de toutes les pages de la documentation.&#x20;
 
-<figure><img src=".gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FlDmwEkym0ZwDohL9juua%2Fimage.png?alt=media&#x26;token=4c75d58b-01ea-468d-ab11-f9ed86597758" alt=""><figcaption></figcaption></figure>
 
-You can even ask AI to resume your search and will give you some link to follow
+Vous pouvez même demander à l'IA de résumer votre recherche et elle vous donnera quelques liens à suivre
 
-<figure><img src=".gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FgxzAd42Jz8asinri3cnV%2Fimage.png?alt=media&#x26;token=8de93c8c-c56e-4bd9-8f2d-a0de565279f3" alt=""><figcaption></figcaption></figure>
 

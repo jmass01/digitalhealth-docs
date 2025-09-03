@@ -1,70 +1,71 @@
-# Admit a SU
+# Admettre un SU
 
 {% hint style="info" %}
-Roles recommended : Dormitory manager
+Rôles recommandés : Responsable du dortoir
 {% endhint %}
 
-## **🧭** Context: <a href="#context" id="context"></a>
+## **🧭** Contexte : <a href="#context" id="context"></a>
 
-This page explains how to admit a service user once their admission has been confirmed. Admitting is a crucial step that records the actual start and end of their stay, ensuring the system accurately reflects reality.&#x20;This process applies to both the service user and their caregiver.
+Cette page explique comment admettre un bénéficiaire une fois que son admission a été confirmée. L'admission est une étape cruciale qui enregistre le début et la fin réels de son séjour, garantissant que le système reflète fidèlement la réalité.
+Ce processus s'applique tant au bénéficiaire qu'à son aidant.
 
-## 🔄 Main Flow
+## 🔄 Flux principal
 
-### Access the admission
+### Accéder à l'admission
 
 {% tabs %}
-{% tab title="Via the SU form" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via le formulaire du bénéficiaire" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the Service User (SU) form, you’ll find a button labeled **"Create admission"**. Clicking this button will trigger the creation of the admission request.
+Dans le formulaire du bénéficiaire (SU), vous trouverez un bouton intitulé **"Créer une admission"**. En cliquant sur ce bouton, la demande d'admission sera créée.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FZj3cicxNAzv29gIQL1RW%2Fimage.png?alt=media&#x26;token=0a348d2d-0eb7-4b69-88a9-09eb85e0f6fc" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via the Admission list" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la liste des admissions" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-At the top of the screen, in the header, you’ll find a menu labeled **“Admissions”** Click on it to open the Admission section, then click on **“Create New Admission”** to start a new admission process for a service user.
+En haut de l'écran, dans l'en-tête, vous trouverez un menu intitulé **« Admissions »** Cliquez dessus pour ouvrir la section Admissions, puis cliquez sur **« Créer une nouvelle admission »** pour démarrer un nouveau processus d'admission pour un bénéficiaire.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F13XkdQUgmX7jzHOOd64y%2Fimage.png?alt=media&#x26;token=c2b62ba3-4b9b-44f4-86c7-91543c46fdfc" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-### Activating the Admission:
+### Activation de l'admission :
 
-Once the admission is planned, click the "Activate" button at the top of the main admission record.
+Une fois l'admission planifiée, cliquez sur le bouton "Activer" en haut de l'enregistrement principal de l'admission.
 
-Also, select the small checkbox on the corresponding SU Companion Line for each caregiver.
+Sélectionnez également la petite case à cocher sur la ligne correspondante du compagnon SU pour chaque aidant.
 
-<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FLORkj6ghTaxChLrSjoao%2Fimage.png?alt=media&#x26;token=5db5d9a2-85c6-4e66-b1a0-49738be4f6f4" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FJ9JAe25H9ONIt1SJcCwQ%2Fimage.png?alt=media&#x26;token=8b797350-0010-47e0-8051-eeb85d9c7b3d" alt=""><figcaption></figcaption></figure>
 
-Admission start and end dates can be set to past, present, or future times, which will determine how the admission buttons behave.\
-
-
-Depending on those dates different behaviour of button will be:
-
-* Both dates are in past: the SU admission will be activated, admitted and discharged with planned dates.\
-  Admission will end in state Discharged
-* Start date is in past, release date is in future: the SU will be admitted, the bed shown as occupied,\
-  Admission will be in state Admitted
-* Both dates are in future: The selected bed will be shown as Planned (or reserved) for SU,\
-  Admission will be in state Planned
-
-8. Status Update:
-   * After activation, the status of the admission record will change to "Plan" for both the main admission and the caregiver(s).
-
-This process ensures that both the SU and their caregiver(s) are properly admitted with accurate tracking of dates and status.
+Les dates de début et de fin d'admission peuvent être définies dans le passé, le présent ou le futur, ce qui déterminera le comportement des boutons d'admission.\
 
 
+En fonction de ces dates, le comportement des boutons sera différent :
 
-[^1]: Service provider
+* Les deux dates sont dans le passé : l'admission du bénéficiaire sera activée, admise et sortie avec les dates prévues.\
+  L'admission se terminera dans l'état Sorti
+* La date de début est dans le passé, la date de sortie est dans le futur : le bénéficiaire sera admis, le lit affiché comme occupé,\
+  L'admission sera dans l'état Admis
+* Les deux dates sont dans le futur : le lit sélectionné sera affiché comme Planifié (ou réservé) pour le bénéficiaire,\
+  L'admission sera dans l'état Planifié
+
+8. Mise à jour du statut :
+   * Après activation, le statut de l'enregistrement d'admission passera à "Plan" pour l'admission principale et pour l(es) aidant(s).
+
+Ce processus garantit que le bénéficiaire et son ou ses aidants sont correctement admis avec un suivi précis des dates et du statut.
+
+
+
+[^1]: Fournisseur de service

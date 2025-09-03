@@ -1,53 +1,53 @@
-# Discharge a SU
+# Sortir un SU
 
-## **🧭** Context: <a href="#context" id="context"></a>
+## **🧭** Contexte : <a href="#context" id="context"></a>
 
-This step take place after the admittion of a SU or an Caregiver, both of them need to discharged.
+Cette étape a lieu après l'admission d'un SU ou d'un aidant, tous deux doivent être sortis.
 
-## 🔄 Step-by-Step Flow
+## 🔄 Flux étape par étape
 
-### Access the Admission Form
+### Accéder au formulaire d'admission
 
 {% tabs %}
-{% tab title="Via the SU form" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via le formulaire du bénéficiaire" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche en haut pour trouver un patient par son nom ou SU[^1] ID. Veuillez vous assurer de sélectionner la bonne option.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqXqX10GKFUpZ6yfM8R8Q%2Fimage.png?alt=media&#x26;token=05d8cde9-c530-457f-91aa-86e689d6282a" alt=""><figcaption></figcaption></figure>
 
-Inside the Service User (SU) form, you’ll find a button labeled **"Create admission"**. Clicking this button will trigger the creation of the admission request.
+Dans le formulaire du bénéficiaire (SU), vous trouverez un bouton intitulé **"Créer une admission"**. En cliquant sur ce bouton, la demande d'admission sera créée.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FZj3cicxNAzv29gIQL1RW%2Fimage.png?alt=media&#x26;token=0a348d2d-0eb7-4b69-88a9-09eb85e0f6fc" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via the Admission list" %}
-On the home page, go to the icon "Service User Management".
+{% tab title="Via la liste des admissions" %}
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
-At the top of the screen, in the header, you’ll find a menu labeled **“Admissions”** Click on it to open the Admission section, then click on **“Create New Admission”** to start a new admission process for a service user.
+En haut de l'écran, dans l'en-tête, vous trouverez un menu intitulé **« Admissions »** Cliquez dessus pour ouvrir la section Admissions, puis cliquez sur **« Créer une nouvelle admission »** pour démarrer un nouveau processus d'admission pour un bénéficiaire.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F13XkdQUgmX7jzHOOd64y%2Fimage.png?alt=media&#x26;token=c2b62ba3-4b9b-44f4-86c7-91543c46fdfc" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-To create a caregiver, you must first access the
+Pour créer un aidant, vous devez d'abord accéder au
 
-To discharge a patient or a caregiver, follow these steps:
+Pour sortir un patient ou un aidant, suivez ces étapes :
 
-1. **Discharge on Today's Date**
-   * If the discharge needs to happen today, simply click the "Discharge" button to proceed with the discharge.
+1. **Sortie à la date d'aujourd'hui**
+   * Si la sortie doit avoir lieu aujourd'hui, cliquez simplement sur le bouton "Sortie" pour procéder à la sortie.
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F9jj409bUI1ov6EsIInpQ%2Fimage.png?alt=media&#x26;token=9f4227dc-87e4-44c3-a3d8-3d6eefb31d10" alt=""><figcaption></figcaption></figure>
 
-**Discharge on a Past Date:**
+**Sortie à une date passée :**
 
-* If the discharge date is in the past, first update the Discharge Date to the correct past date.
-* After updating the date, click the "Discharge" button to finalize the process.
+* Si la date de sortie est dans le passé, mettez d'abord à jour la date de sortie avec la date passée correcte.
+* Après avoir mis à jour la date, cliquez sur le bouton "Sortie" pour finaliser le processus.
 
-This ensures that the discharge is recorded accurately, reflecting the correct date of the patient's departure.
+Cela garantit que la sortie est enregistrée avec précision, reflétant la date correcte du départ du patient.
 
-[^1]: Service provider
+[^1]: Fournisseur de service

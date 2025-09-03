@@ -1,49 +1,49 @@
-# Glossary
+# Glossaire
 
-#### 🔧 MRP / Manufacturing Terminology
+#### 🔧 Terminologie MRP / Fabrication
 
-* **MRP (Manufacturing Resource Planning)**: A system used to plan and manage manufacturing processes including stock, production, and delivery.
-* **BoM (Bill of Materials)**: A list of all parts, components, and materials required to manufacture a product.
-* **Work Order**: A specific task in the manufacturing process. Each step (e.g., cutting, assembling) is usually one work order.
-* **Manufacturing Order (MO)**: A complete production request that includes all steps and materials needed to make a finished product.
-* **Work Center**: A physical place or set of machines where specific manufacturing steps occur.
-* **Operation**: A step in the manufacturing process, often assigned to a work center (e.g., “First assembly”).
-* **Production Order**: Synonym for Manufacturing Order in this context.
-
-***
-
-#### 🧑‍⚕️ Roles / Personnel
-
-* **P\&O**: Prosthetics and Orthotics — staff responsible for creating medical devices for patients.
-* **Benchworker**: A technician who physically builds the devices (prostheses, orthotics, etc.).
-* **SU (Service User)**: The patient or person receiving the manufactured device.
-* **Head of P\&O / Head of Clinician**: A supervisor role who can approve manufacturing steps.
+* **MRP (Planification des ressources de fabrication)**: Un système utilisé pour planifier et gérer les processus de fabrication, y compris les stocks, la production et la livraison.
+* **BoM (Nomenclature)**: Une liste de toutes les pièces, composants et matériaux nécessaires pour fabriquer un produit.
+* **Ordre de travail**: Une tâche spécifique dans le processus de fabrication. Chaque étape (par ex. découpe, assemblage) est généralement un ordre de travail.
+* **Ordre de fabrication (OF)**: Une demande de production complète qui inclut toutes les étapes et matériaux nécessaires pour obtenir un produit fini.
+* **Centre de travail**: Un lieu physique ou un ensemble de machines où des étapes de fabrication spécifiques ont lieu.
+* **Opération**: Une étape du processus de fabrication, souvent assignée à un centre de travail (par ex. « Premier assemblage »).
+* **Ordre de production**: Synonyme d'Ordre de fabrication dans ce contexte.
 
 ***
 
-#### 📦 Inventory / Stock Management
+#### 🧑‍⚕️ Rôles / Personnel
 
-* **Stock Picking**: The action of selecting and moving products from one location to another in inventory.
-* **Internal Transfer**: Moving stock within the same company (e.g., from main warehouse to workshop).
-* **Recasting**: Rebuilding or modifying an existing device by reusing some components.
-* **Backorder**: A follow-up order to deliver remaining items that couldn't be delivered initially.
-* **Lot/Serial Number**: A unique identifier for a product, especially useful for traceability (e.g., which device was given to which patient).
-
-***
-
-#### 📋 System Actions / UI Concepts
-
-* **Confirm**: Approving a step so it moves to the next stage (e.g., confirming an MRP order).
-* **Validate**: Finalizing or approving a record in the system (e.g., stock move, manufacturing order).
-* **Check Availability**: Verifying that products or materials exist in stock and can be reserved.
-* **AutoFill**: Automatically filling in the quantity of components to use, based on availability.
-* **"Is Recasting" Checkbox**: A flag used to mark that a stock move is for recasting purposes.
-* **Draft Status**: Initial status where changes can be made; not finalized.
+* **P\&O**: Prothèses et Orthèses — personnel responsable de la création de dispositifs médicaux pour les patients.
+* **Opérateur d'atelier**: Un technicien qui construit physiquement les dispositifs (prothèses, orthèses, etc.).
+* **SU (Utilisateur du service)**: Le patient ou la personne recevant le dispositif fabriqué.
+* **Responsable P\&O / Responsable Clinique**: Un rôle de superviseur qui peut approuver les étapes de fabrication.
 
 ***
 
-#### 🧭 Navigation / Modules in Odoo
+#### 📦 Gestion des stocks / Inventaire
 
-* **Service User Management**: The part of the system where you manage patients (SUs).
-* **Inventory Application**: The module that handles stock and warehouse operations.
-* **Manufacturing Application**: The part of Odoo where manufacturing orders and processes are managed.
+* **Prélèvement de stock**: L'action de sélectionner et déplacer des produits d'un emplacement à un autre dans l'inventaire.
+* **Transfert interne**: Déplacement de stock au sein de la même entreprise (par ex. du dépôt principal à l'atelier).
+* **Recasting**: Reconstruire ou modifier un dispositif existant en réutilisant certains composants.
+* **Avoir de livraison partielle**: Un ordre de suivi pour livrer les articles restants qui n'ont pas pu être livrés initialement.
+* **Numéro de lot/série**: Un identifiant unique pour un produit, particulièrement utile pour la traçabilité (par ex. quel dispositif a été remis à quel patient).
+
+***
+
+#### 📋 Actions système / Concepts d'interface
+
+* **Confirmer**: Approuver une étape pour qu'elle passe à l'étape suivante (par ex. confirmer un ordre MRP).
+* **Valider**: Finaliser ou approuver un enregistrement dans le système (par ex. un mouvement de stock, un ordre de fabrication).
+* **Vérifier la disponibilité**: Vérifier que des produits ou matériaux existent en stock et peuvent être réservés.
+* **Remplissage automatique**: Remplir automatiquement la quantité de composants à utiliser, en fonction de la disponibilité.
+* **Case à cocher "Est recasting"**: Un indicateur utilisé pour marquer qu'un mouvement de stock est destiné au recasting.
+* **Statut Brouillon**: Statut initial où des modifications peuvent être apportées ; non finalisé.
+
+***
+
+#### 🧭 Navigation / Modules dans Odoo
+
+* **Gestion des utilisateurs de service**: La partie du système où vous gérez les patients (SUs).
+* **Application Inventaire**: Le module qui gère les opérations de stock et d'entrepôt.
+* **Application Fabrication**: La partie d'Odoo où les ordres et processus de fabrication sont gérés.

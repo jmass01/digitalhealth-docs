@@ -1,13 +1,4 @@
 ---
-description: Description in details of the DCMS application, functionality and purpose.
----
-
-# INTRODUCTION
-
-
-
-```
----
 description: >-
   Description détaillée de l'application DCMS, de ses fonctionnalités et de son
   objectif.
@@ -50,4 +41,3 @@ Ils seront formés à l'utilisation des applications après le retrait du PMS et
 
 
 ## Caractéristiques principales
-```
