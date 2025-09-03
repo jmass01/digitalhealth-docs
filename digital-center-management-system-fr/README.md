@@ -4,38 +4,50 @@ description: Description in details of the DCMS application, functionality and p
 
 # INTRODUCTION
 
-Objectives of this chapter for the reader are:&#x20;
 
-1. To understand what is the DCMS and components&#x20;
-2. To understand the process of deployment and decommissioning PMS
-3. To be able to log in in the application&#x20;
 
-## Overview
+```
+---
+description: >-
+  Description détaillée de l'application DCMS, de ses fonctionnalités et de son
+  objectif.
+---
 
-### The Digital Centre Management System is an Innovative digital solution for Physical Rehabilitation Centers.&#x20;
+# INTRODUCTION
 
-The Digital Centre Management System (DCMS), developed with ICRC's assistance, remains copyright-free, allowing Centres continued use after ICRC support ends. DCMS enhances efficiency in Physical Rehabilitation Centres and supports data reporting. The DCMS will replace the PMS which is now obsolete, unsupported, and limited to Internet Explorer, which is no longer functional as per Microsoft.&#x20;
+Les objectifs de ce chapitre pour le lecteur sont :&#x20;
 
-Consequently, PMS will be decommissioned.  Once the decision is made to deploy DCMS, data from PMS will be migrated to DCMS.&#x20;
+1. Comprendre ce qu'est le DCMS et ses composants&#x20;
+2. Comprendre le processus de déploiement et de retrait du PMS
+3. Être capable de se connecter à l'application&#x20;
 
-## Purpose of the guide
+## Aperçu
 
-Since 2021, the Physical Rehabilitation Program has been using the Digital Clinic Management System (DCMS) in ICRC and ICRC-supported Physical Rehabilitation Centers (PRCs). The primary goal of the DCMS is to replace the outdated Patient Management System (PMS). This guide is organized into sections to offer detailed information about the DCMS application, leading you through a user's experience in a PRC
+### Le Système de Gestion des Centres Numériques est une solution numérique innovante pour les centres de rééducation physique.&#x20;
 
-* OpenMRS: the OpenMRS is the Electronic Medical Record, where the PMS data will migrate during the deployment. It also contains  the appointment module and the reporting system.
-* Odoo: the OpenMRS is synchronized with the Odoo&#x20;
+Le Système de Gestion des Centres Numériques (DCMS), développé avec l'assistance du CICR, reste exempt de droits d'auteur, permettant aux centres de l'utiliser après la fin du soutien du CICR. Le DCMS améliore l'efficacité des centres de rééducation physique et facilite la production de rapports. Le DCMS remplacera le PMS qui est désormais obsolète, non pris en charge et limité à Internet Explorer, lequel n'est plus fonctionnel selon Microsoft.&#x20;
+
+Par conséquent, le PMS sera retiré. Une fois la décision prise de déployer le DCMS, les données du PMS seront migrées vers le DCMS.&#x20;
+
+## Objectif du guide
+
+Depuis 2021, le Programme de Rééducation Physique utilise le Système de Gestion de Clinique Numérique (DCMS) au CICR et dans les centres de rééducation physique soutenus par le CICR. L'objectif principal du DCMS est de remplacer le Système de Gestion des Patients (PMS) obsolète. Ce guide est organisé en sections pour offrir des informations détaillées sur l'application DCMS, vous guidant à travers l'expérience utilisateur dans un centre de rééducation physique.
+
+* OpenMRS : OpenMRS est le dossier médical électronique vers lequel les données du PMS seront migrées lors du déploiement. Il contient également le module de rendez-vous et le système de rapport.
+* Odoo : OpenMRS est synchronisé avec Odoo&#x20;
 * Superset
 
 
 
-Target audience
+Public cible
 
-It is for staff working in Physical Rehabilitation Centres that include clinicians, managers, and administrators.&#x20;
+Il s'adresse au personnel travaillant dans les centres de rééducation physique, y compris les cliniciens, les responsables et les administrateurs.&#x20;
 
-They will be trained on the applications usage after the decommission of the PMS and data migration.&#x20;
-
-
+Ils seront formés à l'utilisation des applications après le retrait du PMS et la migration des données.&#x20;
 
 
 
-## Key Features
+
+
+## Caractéristiques principales
+```
