@@ -30,7 +30,7 @@
 
 * [Point d’entrée Odoo](odoo/odoo-entry-point/README.md)
   * [Accéder à Odoo](odoo/odoo-entry-point/accessing-odoo.md)
-  * [Widget de la page d’accueil](odoo/odoo-entry-point/landing-page-widget.md)
+  * [Menu principal](odoo/odoo-entry-point/landing-page-widget.md)
   * [Explication de l’interface](odoo/odoo-entry-point/explanation-of-the-interface.md)
   * [Rôles et privilèges](odoo/odoo-entry-point/roles-and-privilege.md)
 * [Gestion des utilisateurs de service](odoo/service-user-management.md)
