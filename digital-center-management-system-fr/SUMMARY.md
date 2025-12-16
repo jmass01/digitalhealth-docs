@@ -26,6 +26,10 @@
 * [MODULE RENDEZ-VOUS](openmrs/module-appointment/README.md)
   * [TABLEAU DE BORD PROFESSIONNEL](openmrs/module-appointment/professional-dashboard.md)
 
+***
+
+* [DCMS LIGHT](dcms-light.md)
+
 ## 🙆‍♂️ Odoo
 
 * [Point d’entrée Odoo](odoo/odoo-entry-point/README.md)
