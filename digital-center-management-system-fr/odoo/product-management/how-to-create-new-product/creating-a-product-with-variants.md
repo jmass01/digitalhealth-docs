@@ -2,7 +2,7 @@
 description: >-
   La page fournit des instructions sur la gestion des variantes de produit,
   abordant en particulier la manière de traiter les combinaisons d'attributs et
-  de valeurs qui ne sont pas réalisables ou disponibles.
+  de valeurs qui ne sont pas réalisables ou dispon
 ---
 
 # Créer un produit avec variantes
@@ -10,7 +10,7 @@ description: >-
 ## Configuration d'un produit avec un seul attribut
 
 Lorsqu'un produit possède certains attributs qui le définissent par des différences tout en conservant les données principales au même endroit, nous utiliserons des variantes.\
-Nous commencerons par un exemple simple :&#x20;
+Nous commencerons par un exemple simple :
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F1Q6cdLcXq6yHz3iZIVR1%2Fimage.png?alt=media&#x26;token=6cff8c2a-aeba-4034-905a-7748a7778c80" alt=""><figcaption></figcaption></figure>
 
@@ -35,12 +35,10 @@ Notez que la référence interne de chaque produit est générée conformément 
 
 Lorsqu'un produit est défini avec plus d'un attribut, il créera un produit cartésien des valeurs d'attributs comme nombre final de variantes.
 
-Voici deux exemples : \
+Voici deux exemples :\
 Dans cet exemple 2 côtés x 2 tailles créeront 4 variantes.
 
-![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FgENSMijJhQIjgUc1OpRy%2Fimage.png?alt=media\&token=caf4797a-bdde-4d96-8161-80c5f7bda4a2) <img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FJKEGKAlP8GwFZCpZJ7qm%2Fimage.png?alt=media&#x26;token=0b05c330-fc2c-4f8e-9d28-e8d555392c65" alt="" data-size="original">
-
-
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FgENSMijJhQIjgUc1OpRy%2Fimage.png?alt=media\&token=caf4797a-bdde-4d96-8161-80c5f7bda4a2) ![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FJKEGKAlP8GwFZCpZJ7qm%2Fimage.png?alt=media\&token=0b05c330-fc2c-4f8e-9d28-e8d555392c65)
 
 Dans cet exemple il y a 3 attributs, et le nombre total de variantes est de 24
 
@@ -59,7 +57,7 @@ les feuilles de 3 mm et 6 mm d'épaisseur n'existent qu'en 0,95 m x 0,95 m, tand
 ![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FXqMvkPH6yyp30J7NpzIH%2Fimage.png?alt=media\&token=3879088c-0853-4ccf-a1a7-f6711c8bdc6c)\
 \
 Pour cela, nous devons suivre ces étapes :\
-1\. Cliquez sur le bouton « Variantes » pour voir toutes les variantes possibles et cocher celles impossibles \
+1\. Cliquez sur le bouton « Variantes » pour voir toutes les variantes possibles et cocher celles impossibles\
 2\. Ensuite, allez dans « Action » > « Archiver » :
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FGILFTUsrUPRzTWIGKvBd%2Fimage.png?alt=media&#x26;token=dcc92632-39d4-4df8-9b43-6fb75800deb4" alt=""><figcaption></figcaption></figure>

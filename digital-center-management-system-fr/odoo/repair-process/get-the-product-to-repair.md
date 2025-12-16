@@ -1,20 +1,20 @@
 # Récupérer le produit à réparer
 
 {% hint style="info" %}
-## Rôles recommandés : P\&O, Opérateur d'atelier
+### Rôles recommandés : P\&O, Opérateur d'atelier
 {% endhint %}
 
-## **🧭** Contexte&#x20;
+## **🧭** Contexte
 
-Pour démarrer le processus de réparation, la première étape essentielle est de recevoir le produit nécessitant une réparation. Cela garantit que l'article est correctement enregistré et suivi dans le système pour réparation.&#x20;
+Pour démarrer le processus de réparation, la première étape essentielle est de recevoir le produit nécessitant une réparation. Cela garantit que l'article est correctement enregistré et suivi dans le système pour réparation.
 
-## 🔄 Flux étape par étape&#x20;
+## 🔄 Flux étape par étape
 
 ### Création du mouvement de stock
 
 {% tabs %}
 {% tab title="Via la gestion des US" %}
-Sur la page d'accueil, allez sur l'icône « Gestion des utilisateurs de service ».&#x20;
+Sur la page d'accueil, allez sur l'icône « Gestion des utilisateurs de service ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
@@ -27,8 +27,8 @@ Dans le formulaire de l'utilisateur de service (US), vous trouverez un bouton in
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FPOaDbQvLaIKOkzFgGWX5%2Fimage.png?alt=media&#x26;token=57162b76-59be-48ea-875d-892df5cc4207" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via l'application Réparations" %}
-Sur la page d'accueil, allez sur l'icône « Réparations ».&#x20;
+{% tab title="Via l" %}
+Sur la page d'accueil, allez sur l'icône « Réparations ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FQlh5Lr5TNtQF9QvOoEVa%2Fimage.png?alt=media&#x26;token=3de536ee-71ac-4d21-8c3c-6d0f0f7ee8d1" alt=""><figcaption></figcaption></figure>
 
@@ -69,29 +69,13 @@ Si la prothèse n'avait pas été préalablement enregistrée dans le système, 
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FGUES4jSUZs7Q3AQ3CnYP%2Fimage.png?alt=media&#x26;token=c726de9f-cc7d-4566-ba03-22bea3569d14" alt=""><figcaption></figcaption></figure>
 
-
-
 Une fois le bon numéro de lot sélectionné, cliquez sur le bouton **« Valider »** . Cela confirmera la réception de l'article et mettra à jour le stock en conséquence.
 
-### 🗺️ Aperçu visuel&#x20;
+### 🗺️ Aperçu visuel
 
-{% @mermaid/diagram content="graph TD
-    A["Start: Click 'Receive for Repair'"] --> B["Select correct SU in 'Receive From' and 'Owner'"]
-    B --> C["Ensutre that 'Destination Location' is 'WH/Repair'"]
-    C --> D["Go to 'Operations' tab"]
-    D --> E["Add the product to repair (e.g. prosthesis)"]
-    E --> H[Click Save]
-    H --> I[Click 'Mark as To Do']
-    I --> J["Open 'Detailed Operations' tab"]
-    J --> K[Select the correct Lot number]
-    K --> L{Lot exists?}
-    L -- No --> M[Create new serial number]
-    L -- Yes --> N[Confirm selection]
-    M --> N
-    N --> O[Click 'Validate']
-    O --> P[✅ Product received for repair]" %}
+\{% @mermaid/diagram content="graph TD A\["Start: Click 'Receive for Repair'"] --> B\["Select correct SU in 'Receive From' and 'Owner'"] B --> C\["Ensutre that 'Destination Location' is 'WH/Repair'"] C --> D\["Go to 'Operations' tab"] D --> E\["Add the product to repair (e.g. prosthesis)"] E --> H\[Click Save] H --> I\[Click 'Mark as To Do'] I --> J\["Open 'Detailed Operations' tab"] J --> K\[Select the correct Lot number] K --> L{Lot exists?} L -- No --> M\[Create new serial number] L -- Yes --> N\[Confirm selection] M --> N N --> O\[Click 'Validate'] O --> P\[✅ Product received for repair]" %\}
 
-## Et ensuite ?&#x20;
+## Et ensuite ?
 
 Après que le produit a été correctement reçu pour réparation et enregistré dans le système, l'étape suivante consiste à créer l'ordre de réparation. Cet ordre définira l'article à réparer et détaillera les composants ou matériaux nécessaires pour le processus de réparation.
 

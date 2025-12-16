@@ -1,20 +1,20 @@
-# Archivage du produit
+# Archiver un produit
 
 {% hint style="info" %}
-## Rôles recommandés : DCMS Admin, Responsable des stocks
+### Rôles recommandés : DCMS Admin, Responsable des stocks
 {% endhint %}
 
-## **🧭** Contexte&#x20;
+## **🧭** Contexte
 
 Dans Odoo, **archiver un produit** signifie le désactiver sans le supprimer définitivement. Un produit archivé n’apparaîtra plus dans les recherches, les listes, ni ne sera disponible pour les mouvements de stock ou les ordres de fabrication. Cependant, tous les enregistrements passés (tels que factures, mouvements de stock ou historique de fabrication) restent intacts pour la traçabilité.
 
 Cette fonctionnalité est utile lorsqu’un produit est arrêté, remplacé ou temporairement indisponible, tout en conservant son historique dans le système.
 
-## 🔄 Flux étape par étape&#x20;
+## 🔄 Flux étape par étape
 
 ### Archiver un produit
 
-La première étape avant d’archiver un produit est de décider si vous souhaitez archiver le **modèle de produit entier** (avec toutes ses variantes) ou uniquement une **variante spécifique**. Si vous choisissez d’archiver l’ensemble du modèle, toutes les variantes associées seront archivées en même temps.&#x20;
+La première étape avant d’archiver un produit est de décider si vous souhaitez archiver le **modèle de produit entier** (avec toutes ses variantes) ou uniquement une **variante spécifique**. Si vous choisissez d’archiver l’ensemble du modèle, toutes les variantes associées seront archivées en même temps.
 
 Pour continuer, ouvrez le formulaire du produit, cliquez sur le **bouton Action** en haut, et sélectionnez **Archiver**. Une bannière apparaîtra alors en haut du formulaire indiquant que le produit a été archivé.
 

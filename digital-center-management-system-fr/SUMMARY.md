@@ -28,7 +28,8 @@
 
 ***
 
-* [DCMS LIGHT](dcms-light.md)
+* [DCMS LIGHT](dcms-light/README.md)
+  * [Video DEMO](dcms-light/video-demo.md)
 
 ## 🙆‍♂️ Odoo
 

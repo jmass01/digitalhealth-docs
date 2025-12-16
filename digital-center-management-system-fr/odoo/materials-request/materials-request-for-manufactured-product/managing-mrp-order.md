@@ -1,18 +1,18 @@
 # Gestion des ordres MRP
 
 {% hint style="info" %}
-## Rôles recommandés : P\&O, Opérateur d'atelier
+### Rôles recommandés : P\&O, Opérateur d'atelier
 {% endhint %}
 
-## **🧭** Contexte&#x20;
+## **🧭** Contexte
 
-Ce flux doit être suivi **après la création de la configuration de la nomenclature (BoM)**. &#x20;
+Ce flux doit être suivi **après la création de la configuration de la nomenclature (BoM)**.
 
-## 🔄 Flux étape par étape&#x20;
+## 🔄 Flux étape par étape
 
 ### Création de l'ordre MRP
 
-La création de l'ordre MRP se fait à partir du formulaire de la configuration de BoM précédente.&#x20;
+La création de l'ordre MRP se fait à partir du formulaire de la configuration de BoM précédente.
 
 Une fois que vous avez vérifié les composants à consommer et défini les opérations dans la configuration de la BoM, vous pouvez procéder à la création d'un ordre de fabrication en cliquant sur le bouton "Créer un ordre MRP" situé dans le ruban supérieur.
 
@@ -31,12 +31,10 @@ Même si vous fermez la fenêtre contextuelle sans enregistrer, l'ordre MRP a é
 Après la création directe, vous devriez toujours être sur la configuration de la BoM ; vous pouvez trouver dans le formulaire le lien direct vers l'ordre de fabrication.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F1gslXyW7coftV1k6Trmi%2Fimage.png?alt=media&#x26;token=c76913d8-cb7a-483d-9532-ff85589b855e" alt=""><figcaption></figcaption></figure>
-
-&#x20;
 {% endtab %}
 
 {% tab title="Via la gestion du SU" %}
-Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
@@ -47,11 +45,9 @@ Vous pouvez voir une liste de tous les SU[^1]s ici. Utilisez la barre de recherc
 Dans le formulaire SU, vous trouverez un bouton intitulé «**MRP Production** ». En cliquant dessus, toutes les ordres de fabrication associées à ce Service User spécifique s'ouvriront.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FS01b7vaSf3ePt9ZKhwlp%2Fimage.png?alt=media&#x26;token=8e0471ce-5f15-4335-9642-965f56d31f79" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 
-{% tab title="Via l'application Inventaire" %}
+{% tab title="Via l" %}
 Sur la page d'accueil, allez à l'icône « Manufacturing ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FtXcdYty56UzWoCp3mxbq%2Fimage.png?alt=media&#x26;token=8fe5597a-ec02-4689-af85-a7abaa1e217e" alt=""><figcaption></figcaption></figure>
@@ -70,7 +66,7 @@ _Techniquement : si l'utilisateur n'a pas le rôle (group\_mrp\_manager), il ne 
 
 Avant de procéder à la confirmation du MRP, ces utilisateurs autorisés doivent s'assurer que tous les produits destinés à la consommation sont soigneusement vérifiés pour en garantir l'exactitude. Cela inclut la vérification des quantités et la résolution de tout problème tel que les produits manquants.
 
-&#x20;Si des ajustements sont nécessaires, l'utilisateur peut modifier les lignes existantes ou en créer de nouvelles en suivant le même processus que pour la configuration de la BoM décrit ici.
+Si des ajustements sont nécessaires, l'utilisateur peut modifier les lignes existantes ou en créer de nouvelles en suivant le même processus que pour la configuration de la BoM décrit ici.
 
 Une fois que tous les détails des produits sont corrects, l'utilisateur peut procéder à la confirmation du MRP en cliquant sur le bouton "Confirmer".
 
@@ -86,11 +82,11 @@ Par défaut, le système génère un ordre de transfert du stock principal vers 
 
 De plus, si le module Achats est correctement configuré, la confirmation de la commande d'achat (PO) déclenchera la création de commandes d'achat auprès des fournisseurs. Pour plus de détails sur ce processus, référez-vous aux directives spécifiques fournies.
 
-### 🗺️ Aperçu visuel&#x20;
+### 🗺️ Aperçu visuel
 
 Graphique Mermaid à faire
 
-## Et ensuite ?&#x20;
+## Et ensuite ?
 
 Après la finalisation de l'ordre de fabrication, l'étape suivante consiste à livrer la prothèse au bénéficiaire du service pour que le gestionnaire de stock et le P\&O attendent cette affectation de stock pour le traitement de l'ordre de fabrication.
 

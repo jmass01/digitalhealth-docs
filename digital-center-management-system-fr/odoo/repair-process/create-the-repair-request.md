@@ -1,14 +1,14 @@
 # Créer la demande de réparation
 
 {% hint style="info" %}
-## Rôles recommandés : P\&O, Ouvrier d'atelier
+### Rôles recommandés : P\&O, Ouvrier d'atelier
 {% endhint %}
 
-## **🧭** Contexte&#x20;
+## **🧭** Contexte
 
 Cette étape a lieu **après que le produit a été reçu pour réparation** et correctement enregistré dans le système. À ce stade, l'article est physiquement disponible sur le lieu de réparation, et le processus de réparation peut commencer. Le flux suivant se concentre sur la **création et la configuration de l'ordre de réparation**, qui définira le travail à effectuer et les composants impliqués. Que vous lanciez la réparation depuis le **formulaire d'Utilisateur du Service** ou directement depuis la **vue liste des réparations**, ce processus garantit que la réparation est correctement suivie et alignée avec les mouvements d'inventaire.
 
-## 🔄 Flux étape par étape&#x20;
+## 🔄 Flux étape par étape
 
 ### Création de l'ordre de réparation
 
@@ -27,7 +27,7 @@ Dans le formulaire de l'Utilisateur du Service (SU), vous trouverez un bouton in
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fn8KPIcSCgKE30WXBNCKV%2Fimage.png?alt=media&#x26;token=eef2b8f9-96f5-4951-b9b0-baf9bb66d7b2" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via l'application Réparation" %}
+{% tab title="Via l" %}
 Sur la page d'accueil, allez à l'icône "Réparations".
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FQlh5Lr5TNtQF9QvOoEVa%2Fimage.png?alt=media&#x26;token=3de536ee-71ac-4d21-8c3c-6d0f0f7ee8d1" alt=""><figcaption></figcaption></figure>
@@ -37,12 +37,12 @@ Vous pouvez voir la liste des ordres de réparation existants depuis le **menu O
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FrRtvia0AUxOQM2AAvLH7%2Fimage.png?alt=media&#x26;token=0515fc29-dabc-4ac0-9ba2-e7f90b9a28df" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Via l'étape précédente" %}
+{% tab title="Via l" %}
 
 {% endtab %}
 {% endtabs %}
 
-Si vous avez sélectionné un Utilisateur du Service où le produit à réparer n'a pas été correctement reçu, une fenêtre contextuelle apparaîtra avertissant qu'aucun article n'appartient à cet SU. Dans ce cas, revenez à l'étape précédente, «[Récupérer le produit à réparer.](recuperer-le-produit-a-reparer)»
+Si vous avez sélectionné un Utilisateur du Service où le produit à réparer n'a pas été correctement reçu, une fenêtre contextuelle apparaîtra avertissant qu'aucun article n'appartient à cet SU. Dans ce cas, revenez à l'étape précédente, «[Récupérer le produit à réparer.](recuperer-le-produit-a-reparer/)»
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FP6Ct9NkD0AAIQ8B0bvmH%2Fimage.png?alt=media&#x26;token=330fb760-5d7f-4092-9f5b-f366644bd60c" alt=""><figcaption></figcaption></figure>
 
@@ -74,22 +74,12 @@ Une fois que tout est configuré, l'étape suivante consiste à confirmer la ré
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FAJTcEAwB7LOKl0jHRtqA%2Fimage.png?alt=media&#x26;token=7347471c-ef84-4b34-9fcc-7fb1aa0f094a" alt=""><figcaption></figcaption></figure>
 
-### 🗺️ Aperçu visuel&#x20;
+### 🗺️ Aperçu visuel
 
-{% @mermaid/diagram content="graph LR
-    A[Start: From SU Form]
-    A1[Start: From Repair list view]
-A --> B 
-A1--> B
-    B[Create Repair Order]
-    B --> C[Verify Selected Product]
-    C --> D[Add/Remove Components for Repair]
-    D --> E[Confirm the Repair]" %}
+\{% @mermaid/diagram content="graph LR A\[Start: From SU Form] A1\[Start: From Repair list view] A --> B A1--> B B\[Create Repair Order] B --> C\[Verify Selected Product] C --> D\[Add/Remove Components for Repair] D --> E\[Confirm the Repair]" %\}
 
-## Et ensuite ?&#x20;
+## Et ensuite ?
 
 Après la confirmation de l'ordre de réparation, l'étape suivante est d'initier le processus de réparation en récupérant les produits requis du stock et en les déplaçant vers l'emplacement de réparation désigné (par ex., "WH/Repair"). Cette opération est effectuée par le Responsable des stocks, qui s'assure que tous les composants nécessaires sont physiquement disponibles sur le site de réparation. Il est important de noter que le flux de réparation ne peut pas avancer tant que ce mouvement de stock n'est pas terminé, car les matériaux doivent être présents et correctement enregistrés dans le système avant que toute activité de réparation puisse commencer.
-
-
 
 [^1]: Prestataire de services

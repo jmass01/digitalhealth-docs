@@ -1,20 +1,20 @@
-# Traitement de l'ordre de travail
+# Traitement de l’ordre de travail
 
 {% hint style="info" %}
-## Rôles recommandés : P\&o, Benchworker
+### Rôles recommandés : P\&o, Benchworker
 {% endhint %}
 
-## **🧭** Contexte&#x20;
+## **🧭** Contexte
 
 Cette étape a lieu **après que l'ordre de fabrication a été créé** et **les composants requis ont été reçus à l'emplacement de l'atelier**. À ce stade, l'ordre de travail est prêt à être traité, et le système peut exiger une validation avant que l'exécution puisse commencer — en fonction de la configuration de votre installation.
 
-## 🔄 Flux étape par étape&#x20;
+## 🔄 Flux étape par étape
 
 ### Accéder à l'ordre de fabrication
 
 {% tabs %}
 {% tab title="Via la gestion du SU" %}
-Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».&#x20;
+Sur la page d'accueil, allez à l'icône « Gestion des utilisateurs de service ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FwgYqssYNXVtjPhYKKBCa%2Fimage.png?alt=media&#x26;token=e2aac634-e10d-49ba-b5c1-4b7793532432" alt=""><figcaption></figcaption></figure>
 
@@ -25,11 +25,9 @@ Vous pouvez voir une liste de tous les SU[^1]ici. Utilisez la barre de recherche
 Dans le formulaire SU, vous trouverez deux boutons : "[**GPAO**](#user-content-fn-2)[^2] **Production**" et "[**GPAO**](#user-content-fn-2)[^2] **Ordre de travail**". Le premier ouvre l'ordre de production complet, tandis que le second ouvre uniquement l'ordre de travail spécifique à traiter.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FS01b7vaSf3ePt9ZKhwlp%2Fimage.png?alt=media&#x26;token=8e0471ce-5f15-4335-9642-965f56d31f79" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 
-{% tab title="Via l'application Manufacturing" %}
+{% tab title="Via l" %}
 Sur la page d'accueil, allez à l'icône « Manufacturing ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FtXcdYty56UzWoCp3mxbq%2Fimage.png?alt=media&#x26;token=8fe5597a-ec02-4689-af85-a7abaa1e217e" alt=""><figcaption></figcaption></figure>
@@ -52,9 +50,9 @@ Cet onglet contient toutes les étapes qui doivent être complétées par l'atel
 
 Chaque étape a un bouton « Démarrer »/« Bloquer ».
 
-·       Lors du démarrage d'un ordre de travail, un chronomètre commencera jusqu'à ce que l'utilisateur « Pause » ou le marque comme « Terminé ».&#x20;
+· Lors du démarrage d'un ordre de travail, un chronomètre commencera jusqu'à ce que l'utilisateur « Pause » ou le marque comme « Terminé ».
 
-·       Cela aidera à suivre le temps pour chaque étape.
+· Cela aidera à suivre le temps pour chaque étape.
 
 {% hint style="info" %}
 Actuellement, une seule personne peut démarrer l'étape même s'il y a plusieurs personnes qui y travaillent.
@@ -74,38 +72,13 @@ Dans cet exemple, je suis connecté en tant que « Chef clinicien », le seul r�
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FH4hiEcVGWv0rwg7pXOc3%2Fimage.png?alt=media&#x26;token=997c53b0-ca2f-40c0-8b6e-fdeed7a63e8c" alt=""><figcaption></figcaption></figure>
 
-### 🗺️ Aperçu visuel&#x20;
+### 🗺️ Aperçu visuel
 
-{% @mermaid/diagram content="graph LR
- subgraph PW_PO["P&O / Head of P&O"]
-        PW_PO_01["Validation"]
-  end
-    PW_01["Starting the Step"]
-    PW_02["Doing the work"]
-    PW_03["Is validation step"]
-    PW_04["Is Last step"]
-    PW_05["Finalize Manufacturing Process"]
-    PW_06["Restart Process"]
-    PW_07["Close the step"]
-    PW_01 --> PW_02
-    PW_02 --> PW_03
-    PW_03 -- Yes --> PW_PO 
-    PW_03 -- No --> PW_07
-    PW_04 --> PW_05 & PW_06
-    PW_07 --> PW_04
-    PW_PO --> PW_07
-PW_06
-    PW_04@{ shape: diam}
-    PW_03@{ shape: diam}
-" %}
+\{% @mermaid/diagram content="graph LR subgraph PW\_PO\["P\&O / Head of P\&O"] PW\_PO\_01\["Validation"] end PW\_01\["Starting the Step"] PW\_02\["Doing the work"] PW\_03\["Is validation step"] PW\_04\["Is Last step"] PW\_05\["Finalize Manufacturing Process"] PW\_06\["Restart Process"] PW\_07\["Close the step"] PW\_01 --> PW\_02 PW\_02 --> PW\_03 PW\_03 -- Yes --> PW\_PO PW\_03 -- No --> PW\_07 PW\_04 --> PW\_05 & PW\_06 PW\_07 --> PW\_04 PW\_PO --> PW\_07 PW\_06 PW\_04@{ shape: diam} PW\_03@{ shape: diam} " %\}
 
-## Et ensuite ?&#x20;
+## Et ensuite ?
 
 Après avoir terminé le traitement de l'ordre de travail, l'étape suivante est la **validation de l'ordre de fabrication** pour confirmer que tout est prêt pour l'achèvement de la production.
-
-
-
-
 
 [^1]: Fournisseur de service
 
