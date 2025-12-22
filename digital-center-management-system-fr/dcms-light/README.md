@@ -6,9 +6,13 @@ description: >-
 
 # DCMS LIGHT
 
-### Page d'accueil
+### CIRCUIT NOUVEAU SERVICE
+
+## PAGE D ACCUEIL
 
 <figure><img src="https://3177722276-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FNyVlC1WaAlDdUWMW6Zcj%2Fimage.png?alt=media&#x26;token=a4f67723-4086-4efa-9515-55840a5df055" alt=""><figcaption></figcaption></figure>
+
+##
 
 <figure><img src="https://3177722276-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FW6Neqbdt3FD38ilevuk6%2Fimage.png?alt=media&#x26;token=3358cdbc-9d89-4719-978c-942526f16258" alt=""><figcaption></figcaption></figure>
 
@@ -134,3 +138,29 @@ Veuillez trouver l'historique des formulaires completés.
 <figure><img src="https://3177722276-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FF3QzT7BqX6RySFsh6Y0E%2Fimage.png?alt=media&#x26;token=64b37275-9184-4174-855a-3590a72661b5" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://3177722276-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FoIpNSgb7mi0Kj290d0V0%2Fimage.png?alt=media&#x26;token=0800a14f-b7e4-4ae3-bb9c-5942f8361fba" alt=""><figcaption></figcaption></figure>
+
+## CIRCUIT SUIVI  ET REPARATION
+
+Si l USS revient pour un suivi vous pouvez trouver son dossier.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Vous avez le DCMS Light et vous pouvez trouver les formulaires essentiels.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Ensuite vous ouvrez le formulaire Decision initial et vous Séléctionnez SUIVI.
+
+
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez ouvrir le FORMULAIRE SUIVI
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
