@@ -145,11 +145,17 @@ Si l USS revient pour un suivi vous pouvez trouver son dossier.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous avez le DCMS Light et vous pouvez trouver les formulaires essentiels.
+Vous avez le DCMS Light et vous pouvez trouver les formulaires essentiels apres avoir demarrer la consultation.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
 Ensuite vous ouvrez le formulaire Decision initial et vous Séléctionnez SUIVI.
+
+<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -157,10 +163,25 @@ Ensuite vous ouvrez le formulaire Decision initial et vous Séléctionnez SUIVI.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+
+
+<figure><img src="../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+
+Pour retourner dans PRP formulaire et continuer
+
 Vous pouvez ouvrir le FORMULAIRE SUIVI
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+
