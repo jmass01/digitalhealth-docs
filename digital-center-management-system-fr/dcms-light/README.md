@@ -8,6 +8,39 @@ description: >-
 
 ### CIRCUIT NOUVEAU SERVICE
 
+
+
+```
+flowchart TD
+    A([Début]) --> B[HSU nécessite un service]
+
+    B --> C{Nouvel HSU ?}
+
+    C -- Oui --> D[Enregistrement de l’utilisateur<br/>HSU (transversal)]
+    C -- Non --> E[Recherche / confirmation<br/>du dossier HSU]
+
+    D --> F[Décision initiale<br/>après enregistrement]
+    E --> F
+
+    F --> G[Menu Nouveau service]
+    G --> H[Plan de services de base]
+
+    H --> I{Consentement obtenu ?}
+
+    I -- Oui --> J[Évaluation financière]
+    I -- Non --> K[Fin du service<br/>(EoS – clôturé)]
+
+    J --> L[Évaluation finale IDT]
+
+    L --> M{Tout est en ordre ?}
+
+    M -- Oui --> N([Fin du service<br/>(EoS – clôturé)])
+    M -- Non --> O[Clôture sans prestation]
+    O --> P[Processus d’abandon<br/>du formulaire]
+    P --> N
+
+```
+
 ## PAGE D ACCUEIL
 
 <figure><img src="https://3177722276-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FNyVlC1WaAlDdUWMW6Zcj%2Fimage.png?alt=media&#x26;token=a4f67723-4086-4efa-9515-55840a5df055" alt=""><figcaption></figcaption></figure>
