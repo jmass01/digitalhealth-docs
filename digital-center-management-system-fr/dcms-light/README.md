@@ -6,40 +6,48 @@ description: >-
 
 # DCMS LIGHT
 
-### CIRCUIT NOUVEAU SERVICE
+Le processus débute lorsqu’un utilisateur des services de santé (HSU) nécessite un nouveau service. Une vérification est effectuée afin de déterminer s’il s’agit d’un nouvel HSU ou d’un HSU déjà enregistré. Dans le cas d’un nouvel HSU, l’utilisateur est enregistré dans le système ; dans le cas contraire, le dossier existant est recherché et confirmé.
 
+À l’issue de cette étape, une décision initiale est prise et le menu _Nouveau service_ est utilisé pour définir un plan de services de base. Le consentement du HSU est ensuite vérifié.&#x20;
 
+Lorsque le consentement est obtenu, une évaluation financière est réalisée, suivie d’une évaluation finale par l’équipe interdisciplinaire (IDT). Si toutes les conditions sont remplies, le service est finalisé et clôturé après avoir complété un formulaire additionel qui vous permet e répondre au service demandé. Dans le cas contraire, le dossier est clôturé sans prestation et le processus d’abandon du formulaire est appliqué.
 
-```
-flowchart TD
-    A([Début]) --> B[HSU nécessite un service]
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
-    B --> C{Nouvel HSU ?}
+**Étape 1 — Déclenchement**\
+Le processus débute lorsqu’un utilisateur des services de santé (HSU) nécessite un nouveau service.
 
-    C -- Oui --> D[Enregistrement de l’utilisateur<br/>HSU (transversal)]
-    C -- Non --> E[Recherche / confirmation<br/>du dossier HSU]
+**Étape 2 — Vérification du statut du HSU**\
+Une vérification est effectuée afin de déterminer si le HSU est déjà enregistré.
 
-    D --> F[Décision initiale<br/>après enregistrement]
-    E --> F
+* Si le HSU n’est pas enregistré, l’utilisateur est enregistré dans le système.
+* Si le HSU est déjà enregistré, le dossier existant est recherché et confirmé.
 
-    F --> G[Menu Nouveau service]
-    G --> H[Plan de services de base]
+**Étape 3 — Décision initiale**\
+Une décision initiale est prise à l’issue de l’enregistrement ou de la confirmation du dossier.
 
-    H --> I{Consentement obtenu ?}
+**Étape 4 — Création du nouveau service**\
+Le menu _Nouveau service_ est utilisé afin de définir un plan de services de base.
 
-    I -- Oui --> J[Évaluation financière]
-    I -- Non --> K[Fin du service<br/>(EoS – clôturé)]
+**Étape 5 — Vérification du consentement**\
+Le consentement du HSU est vérifié.
 
-    J --> L[Évaluation finale IDT]
+* En l’absence de consentement, le service est clôturé (EoS – clôturé).
+* Si le consentement est obtenu, le processus se poursuit.
 
-    L --> M{Tout est en ordre ?}
+**Étape 6 — Évaluation financière**\
+Une évaluation financière est réalisée.
 
-    M -- Oui --> N([Fin du service<br/>(EoS – clôturé)])
-    M -- Non --> O[Clôture sans prestation]
-    O --> P[Processus d’abandon<br/>du formulaire]
-    P --> N
+**Étape 7 — Formulaire(s) additionnel(s) selon le service**\
+En fonction du service requis, un ou plusieurs formulaires additionnels sont complétés si nécessaire.
 
-```
+**Étape 8 — Évaluation finale par l’IDT**\
+Une évaluation finale est effectuée par l’équipe interdisciplinaire (IDT).
+
+**Étape 9 — Issue du processus**
+
+* Si toutes les conditions sont remplies, le service est finalisé et clôturé (EoS – clôturé).
+* Si les conditions ne sont pas remplies, le dossier est clôturé sans prestation et le processus d’abandon du formulaire est appliqué.
 
 ## PAGE D ACCUEIL
 
@@ -175,6 +183,65 @@ Veuillez trouver l'historique des formulaires completés.
 ## CIRCUIT SUIVI  ET REPARATION
 
 Si l USS revient pour un suivi vous pouvez trouver son dossier.
+
+Le présent processus décrit les principales étapes du **PRP–EMR – DCMS Light / Suivi de service**, depuis l’expression d’un besoin de service par un utilisateur des services de santé (HSU) jusqu’à la clôture du service.\
+Il vise à assurer une prise en charge structurée, cohérente et conforme, en tenant compte à la fois de l’identification du HSU, de l’évaluation des besoins, de la capacité financière et du suivi du service.
+
+Ce processus s’appuie sur des points de décision clés permettant de déterminer la poursuite, l’adaptation ou la clôture du service, tout en garantissant la traçabilité des actions et le respect des procédures établies. Il intègre également un mécanisme de sortie formalisé lorsque les conditions requises ne sont pas remplies.
+
+Les étapes ci-dessous présentent le déroulement logique du processus, de la demande initiale jusqu’à la fin de service (EoS), incluant les activités de suivi et de validation dans le cadre de **DCMS Light**.
+
+#### **Étape 1 — Demande de service**
+
+Le processus débute lorsqu’un **utilisateur des services de santé (HSU)** nécessite un service.
+
+***
+
+#### **Étape 2 — Identification du HSU**
+
+Une vérification est effectuée afin de déterminer si le HSU est nouveau ou déjà enregistré.
+
+* **HSU nouveau** : réalisation du processus **PRP–EMR – Enregistrement de l’utilisateur des services de santé (transversal)**.
+* **HSU existant** : **recherche et confirmation du dossier HSU** existant.
+
+***
+
+#### **Étape 3 — Décision initiale après enregistrement**
+
+Une fois l’enregistrement complété ou le dossier confirmé, une **décision initiale est prise** afin de poursuivre le processus.
+
+***
+
+#### **Étape 4 — Suivi d’urgence / de service**
+
+Le processus entre dans la phase **PRP–EMR – Suivi d’urgence**, qui comprend les activités suivantes :
+
+* **Évaluation du suivi du service**
+* **Évaluation du suivi de la capacité financière**
+* **Plan de suivi du service**
+
+***
+
+#### **Étape 5 — Validation finale**
+
+Une vérification est effectuée afin de confirmer si **toutes les conditions sont remplies**.
+
+* **Oui** : le service est finalisé et clôturé (**Fin de service – EoS clôturé**).
+* **Non** : le processus de sortie est déclenché.
+
+***
+
+#### **Étape 6 — Processus d’abandon**
+
+En cas de non-validation, le **PRP–EMR – Processus d’abandon du formulaire** est exécuté.
+
+***
+
+#### **Étape 7 — Fin de service**
+
+Le processus se termine par la **fin de service (EoS)**.
+
+<figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
