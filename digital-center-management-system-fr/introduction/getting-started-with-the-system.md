@@ -1,4 +1,4 @@
-# Prise en main (du système)
+# Premiers pas (avec le système)
 
 ### Prérequis pour accéder au système
 
@@ -7,27 +7,27 @@
 3. Il doit y avoir une connexion Wi‑Fi fonctionnelle (pas d’internet nécessaire mais une couverture Wi‑Fi)...
 4. Votre ordinateur ou tablette doit avoir un navigateur web installé (par ex. Edge ou Chrome)...
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FhkchfPdVnZOc8H4KAjqA%2Fimage.png?alt=media&#x26;token=6f958a67-e5bd-4c4a-8398-96f59a0f2532" alt="" width="88"><figcaption><p>Chrome </p></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FhkchfPdVnZOc8H4KAjqA%2Fimage.png?alt=media&#x26;token=6f958a67-e5bd-4c4a-8398-96f59a0f2532" alt="" width="88"><figcaption><p>Chrome</p></figcaption></figure>
 
 ### Accès au système
 
 Cliquez sur le lien ci-dessous pour accéder au système.
 
-●        URL : Selon le serveur et l'emplacement
+● URL : Selon le serveur et l'emplacement
 
 ## Sélectionner le lieu de connexion <a href="#hlk89272319" id="hlk89272319"></a>
 
-Vous serez dirigé vers une première page où vous devrez sélectionner l'emplacement (nom du Centre où vous travaillez) puis cliquer sur « Terminé »
+Vous serez dirigé vers une première page où vous devrez sélectionner l'emplacement (nom du Centre où vous travaillez) puis cliquer sur « Terminé »
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F8wmc0ODBlTQIIvyo0F2Z%2Fimage.png?alt=media&#x26;token=930c5182-089e-4a17-8c15-13ddac634c7f" alt=""><figcaption><p>Exemple : Emplacement </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 Saisissez le nom d'utilisateur et le mot de passe Une fois que vous avez cliqué sur le lien pour accéder au système, vous arriverez à l'écran de connexion montré ci‑dessous :
 
 1. Saisissez votre nom d'utilisateur (par ex. sban@komprc.dcmsaccess.org)
 2. Saisissez votre mot de passe.
-3. Cliquez sur « Se connecter ».
+3. Cliquez sur « Se connecter ».
 
-## Procédures&#x20;
+## Procédures
 
 ### Étape 1
 
@@ -46,18 +46,14 @@ Une fois que vous avez cliqué sur le lien pour accéder au système, vous arriv
 Une fois que vous vous serez connecté avec succès, vous serez dirigé vers votre **Tableau de bord** où vous pourrez accéder au système.
 
 {% hint style="danger" %}
-&#x20;Vous devriez mettre à jour le mot de passe lors de la deuxième connexion.
+Vous devriez mettre à jour le mot de passe lors de la deuxième connexion.
 {% endhint %}
 
-**3.** Cliquez _‘**« Se connecter »**_**.**
+**3.** Cliquez _‘**« Se connecter »**_**.**
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FnDQIiM02iPHfz2LQEuv0%2Flogin%202.png?alt=media&#x26;token=3826770d-4ee8-4d60-b74d-30b3a78985b3" alt=""><figcaption><p>connectez‑vous avec vos identifiants</p></figcaption></figure>
 
-
-
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqIp5gJan6p4aNAWoDw1B%2Flanding%20page.png?alt=media&#x26;token=8f7cb6e0-987b-42c8-bac1-035ce9bca0bd" alt=""><figcaption><p>Page d'accueil avec widgets (dans le cadre bleu se trouvent les widgets pour le réceptionniste).</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:orange;">**Une fois connecté à OpenMRS, vous n'aurez pas besoin de vous reconnecter à Odoo ou Superset grâce à l'authentification unique.**</mark>

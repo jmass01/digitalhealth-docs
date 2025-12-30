@@ -15,12 +15,12 @@
 ## 🧑‍⚕️ OpenMRS
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
-  * [Accéder au DME](openmrs/dcms-openmrs/accessing-emr/README.md)
+  * [Accéder au DMCS](openmrs/dcms-openmrs/accessing-emr/README.md)
     * [Rôles et privilèges](openmrs/dcms-openmrs/accessing-emr/roles-and-privileges.md)
   * [Parcours HSU et workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows/README.md)
     * [Parcours utilisateur Workflow](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey.md)
     * [Workflow pour le traitement du pied bot](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment.md)
-    * [Formulaires (et connexion à ODOO)](openmrs/dcms-openmrs/hsu-journey-and-workflows/forms-and-connection-to-odoo.md)
+    * [Formulaires (EXEMPLE)](openmrs/dcms-openmrs/hsu-journey-and-workflows/forms-and-connection-to-odoo.md)
   * [TABLEAUX DE BORD](openmrs/dcms-openmrs/dashboards.md)
 * [GUIDELINE](openmrs/guideline.md)
 * [MODULE RENDEZ-VOUS](openmrs/module-appointment/README.md)

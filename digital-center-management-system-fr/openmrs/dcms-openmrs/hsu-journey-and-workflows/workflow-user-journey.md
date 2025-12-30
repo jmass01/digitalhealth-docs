@@ -48,50 +48,16 @@ Paralysie cérébrale
 #### Évaluation finale Résultat et définition des objectifs (Clôture automatique du service)
 
 Rendez-vous pour visite de suivi
+
+
+{% endstep %}
+
+{% step %}
+
 {% endstep %}
 {% endstepper %}
 
-\{% @mermaid/diagram content=" flowchart TB %% Main workflow A\["Register the HSU or find the HSU file coming to the PRC"] --> B\["Start the visit"] --> C\["Initial decision after registration and decision to send for new service (save and validate)"] --> D\["Initial Assessment (interdisciplinary team)"]
-
-```
-%% Optional assessment
-D -.-> D2["Optional Assessment"]
-
-D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
-E --> E1["Plan Service"]
-E1 --> F["Financial capacity assessment + socio-economic assessment"]
-E2 --> F["Financing decision if financial capacity is not approved"]
-F --> G["Any Services"]
-
-%% Subgraph for services (no label), all connect directly to Final Assessment
-subgraph "" direction LR
-    G --> G1["Technical cards"]
-    G --> G2["Physiotherapy assessment"]
-    G --> G3["Wheelchair assessment"]
-    G --> G4["Walking Aids"]
-    G --> G5["Club foot"]
-    G --> G6["Cerebral palsy"]
-
-G1 --> K
-G2 --> K
-G3 --> K
-G4 --> K
-G5 --> K
-G6 --> K
-
-%% Final steps
-K["Final assessment Outcome and goal setting + Automatic closure of service"]
-K --> L["Appointment for follow-up visit"]
-
-%% Styling
-classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
-classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
-class D2 optional;" %}
-```
-
-### b. Flux de travail nouveau service avec évaluation intermédiaire
-
-**Dans le cas où vous devez ajuster le service ;**
+**B. Dans le cas où vous devez ajuster le service ;**
 
 * Pour ajouter un produit ou un service supplémentaire (comme des séances de physiothérapie supplémentaires)
 * Pour évaluer les progrès et les objectifs du traitement ; vous pouvez suivre l'étape suivante.
@@ -135,48 +101,7 @@ Rendez-vous pour visite de suivi
 {% endstep %}
 {% endstepper %}
 
-\{% @mermaid/diagram content="flowchart TB %% Main workflow A\["Register the HSU or find the HSU file coming to the PRC"] --> B\["Start the visit"] --> C\["Initial decision after registration and decision to send for new service (save and validate)"] --> D\["Initial Assessment (interdisciplinary team)"]
 
-```
-%% Optional assessment
-D -.-> D2["Optional Assessment"]
-
-D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
-E --> E1["Plan Service"]
-E1 --> F["Financial capacity assessment + socio-economic assessment (completed with financing decision if financial capacity is not approved)"]
-F --> G["Any Services"]
-
-%% Subgraph for services
-subgraph "" direction LR
-    G --> G1["Technical cards"]
-    G --> G2["Physiotherapy assessment"]
-    G --> G3["Wheelchair assessment"]
-    G --> G4["Walking Aids"]
-    G --> G5["Club foot"]
-    G --> G6["Cerebral palsy"]
-    %% Intermediate Assessment after subgraph
-G1 --> H["Intermediate Assessment and Goal Setting "]
-G2 --> H
-G3 --> H
-G4 --> H
-G5 --> H
-G6 --> H
-
-%% Decision paths
-H -- Yes --> I["Adjust service + new plan + financial review"]
-H -- No --> K["Final assessment Outcome and goal setting + Automatic closure of service"]
-
-I --> J["Additional Services"]
-J --> K
-K --> L["Appointment for follow-up visit"]
-
-%% Styling
-classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
-classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
-class D2 optional;
-```
-
-" %\}
 
 ### C. Flux de travail Réparation ou Suivi
 
@@ -211,23 +136,3 @@ Si non approuvé, compléter le socio-économique déjà enregistré
 Si la réparation d'AT est oui, sélectionnez les options pertinentes de catégorie de service avec l'ajustement et/ou la réparation en tant que service.
 {% endstep %}
 {% endstepper %}
-
-\{% @mermaid/diagram content="flowchart TB %% Main flow A\["Register the HSU or find the HSU file coming to the PRC"] --> B\["Start the visit (Open the Episode of service)"] --> C\["Initial decision after registration and decision to send for follow-up (save and validated)"] --> D\["Service Follow-up Assessment"] --> E\["Decision: Follow-up/Repair OR New Interdisciplinary Assessment OR End the follow-up"]
-
-```
-%% Follow-up path
-E --> F["Financial capacity assessment"]
-F --> G["If not approved: complete the socioeconomic already recorded"]
-G --> H["Financing Decision"]
-
-H --> I["Service Follow-up Plan<br><br>If AT repair = yes → select relevant service category with Adjustment or/and Repair as service<br><br>(Automatic closure of Episode of service)"]
-
-I --> J["Appointment for follow-up or new service"]
-
-%% Styling
-classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
-```
-
-" %\}
-
-### D. Flux de travail Suivi/réparation vers Nouveau Service

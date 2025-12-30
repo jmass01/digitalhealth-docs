@@ -55,8 +55,6 @@ Pour un nouvel USH qui aura besoin d'une attelle d'abduction du pied ;
 
 13. **Rendez-vous pour le service de suivi**
 
-\{% @mermaid/diagram content="flowchart TD A\["Start"] --> B\["New HSU for new service"] B --> C\["Initial Decision after Registration"] C --> D\["Select New Service"] D --> E\["Initial Assessment"] E --> F\["Select Condition: Congenital malformation and deformations of the musculoskeletal system Q65-Q79"] F --> G\["Condition Type: Talipe equinovarus"] G --> H\["Initial Outcome and Goal Setting"] H --> I\["Plan Service: HSU Eligible"] I --> J\["Basic Service Plan"] J --> K\["Select Service Category: Orthosis & Foot Abduction Brace"] K --> L\["Financial Capacity Assessment"] L --> M\["Complete Relevant Form e.g. Club Foot Treatment Record"] M --> N(\["Select Material Request ODOO"]) N --> O\["In PRP Dashboard, Select Material Request"] O --> P\["Add Foot Abduction Brace"] P --> Q\["Final Assessment Outcome & Goal Setting"] Q --> R\["Close Episode of Service"] R --> S(\["Appointment for Follow-Up Service"]) style N stroke:#2962FF style O stroke:#2962FF style S stroke:#FFD600" fullWidth="true" %\}
-
 L'USH revient pour la visite de suivi, et aura différentes options via ce flux de travail "suivi" : voir ci-dessous les options.
 
 **Pour ce scénario clinique spécifique, nous pouvons rationaliser le processus en permettant une exception de renouvellement de l'attelle d'abduction du pied dans le flux de travail pour faciliter le travail du clinicien.**
@@ -113,5 +111,3 @@ Si les problèmes persistent, envisager un retour pour un nouveau plâtre.
   * Ajustement ou réparation
 
 7. **EoS (Fin de service)**
-
-\{% @mermaid/diagram content="flowchart TD A("Start EoS") --> B("Initial Decision after registration") B --> C("Select follow up") C --> D("Service follow up assessment") D --> E("Follow up decision") E --> F("Bracing club foot treatment type") F -- Option 1 --> H1("Adjustment or Repair") F -- Option 2 --> H2("Renew") H2 --> J("BAR") & L("Change shoe size") & M("Foot Abduction Brace") H1 --> N("Financial capacity assessment - follow up") M --> N N --> O("Approve for service") O --> P("Club foot treatment record, brace compliance follow up") P --> Q{"Brace size decision"} Q -- Good --> R("Service follow up plan") Q -- To be changed --> S("Material Request") S --> R R --> T{"Devices to be repaired during this visit?"} T -- No --> U("Save and validate") T -- Yes --> V("Select the device and repair type") V --> W("Orthosis / LL bilateral") W --> X("Adjustment or Repair") X --> Y("EoS (End of Service)") U --> Y J --> N L --> N" %\}

@@ -2,11 +2,11 @@
 description: DCMS - Réceptionniste
 ---
 
-# GUIDE
+# GUIDELINE
 
-<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FDXAvgiIGGXvcFzrP0Z2e%2Fimage.png?alt=media&#x26;token=bbc2df8e-1906-4cf7-b0fc-5e8b6838eb1c" alt=""><figcaption><p>Réceptionniste </p></figcaption></figure></div>
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FDXAvgiIGGXvcFzrP0Z2e%2Fimage.png?alt=media&#x26;token=bbc2df8e-1906-4cf7-b0fc-5e8b6838eb1c" alt=""><figcaption><p>Réceptionniste</p></figcaption></figure></div>
 
-Le réceptionniste joue un rôle important dans le parcours du Système d'Information de Santé (SIS). C'est la première personne à être en contact avec l'usager des services de santé (HSU) au point de soins. Les privilèges attribués au réceptionniste permettent l'ouverture de l'épisode de service et l'initiation de l'un des flux de travail (nouveau service et suivi).&#x20;
+Le réceptionniste joue un rôle important dans le parcours du Système d'Information de Santé (SIS). C'est la première personne à être en contact avec l'usager des services de santé (HSU) au point de soins. Les privilèges attribués au réceptionniste permettent l'ouverture de l'épisode de service et l'initiation de l'un des flux de travail (nouveau service et suivi).
 
 {% hint style="warning" %}
 Usager du service de santé **(HSU)** est le terme utilisé pour décrire les utilisateurs des services offerts par les programmes de santé.
@@ -21,7 +21,7 @@ Voir l'image ci-dessous
 
 Cliquez sur l'icône pertinente selon ce que vous devez faire. Trois icônes signifient :
 
-**1.** Cliquez pour rechercher tous les HSU existants&#x20;
+**1.** Cliquez pour rechercher tous les HSU existants
 
 **2.** Vous permet de trouver l'HSU ayant une visite ouverte.
 
@@ -29,13 +29,19 @@ Cliquez sur l'icône pertinente selon ce que vous devez faire. Trois icônes sig
 
 ## Enregistrement d'un nouvel HSU
 
-<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FCYWcpVkIO1Lm5y7Gu89D%2Fimage.png?alt=media&#x26;token=36f637b7-180e-455f-8705-7149296dcdba" alt=""><figcaption><p>Icône d'enregistrement de l'HSU</p></figcaption></figure></div>
+![](<../.gitbook/assets/image (416).png>)
 
 Ensuite, vous arriverez à la page démographique, un formulaire d'enregistrement universel pour tous les programmes de santé. voir l'image ci-dessous.
 
 ***
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FQMcUFXZG2R657S8SsEb0%2Fimage.png?alt=media&#x26;token=6d8d565e-0587-423d-a398-2be056855dab" alt=""><figcaption></figcaption></figure>
+<details>
+
+<summary><img src="../.gitbook/assets/image (417).png" alt=""></summary>
+
+
+
+</details>
 
 ### HSU identifiable
 
@@ -47,11 +53,13 @@ Si l'HSU doit être enregistré anonymement ou si l'information ne peut pas êtr
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FoNIbIqIgo1bq8jX8xMDU%2Fimage.png?alt=media&#x26;token=dacda648-3353-43fd-bd68-22b23b0c7efe" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+
 #### Informations démographiques
 
 * Prénom (obligatoire)
 * Deuxième prénom (optionnel)
-* Nom de famille (obligatoire)&#x20;
+* Nom de famille (obligatoire)
 * Genre de l'HSU
 
 {% hint style="warning" %}
@@ -66,19 +74,19 @@ Le genre est un champ obligatoire, que l'HSU souhaite ou non divulguer son ident
 
 Les utilisateurs peuvent saisir soit la date de naissance exacte de l'HSU soit une date approximative :
 
-·         Date de naissance exacte : saisir le jour, le mois et l'année
+· Date de naissance exacte : saisir le jour, le mois et l'année
 
-·         Date de naissance estimée : voir ci-dessous
+· Date de naissance estimée : voir ci-dessous
 
 {% hint style="warning" %}
 Les utilisateurs peuvent saisir soit la date de naissance exacte de l'HSU soit une date approximative :
 
-·         Date de naissance exacte : saisir le jour, le mois et l'année
+· Date de naissance exacte : saisir le jour, le mois et l'année
 
-·         Date de naissance estimée : voir ci-dessous
+· Date de naissance estimée : voir ci-dessous
 {% endhint %}
 
-<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqxfeFIO0FrH5oFAZBV03%2Fimage.png?alt=media&#x26;token=06bf921a-c909-47a5-8967-bba0425729e6" alt=""><figcaption><p>Si l'HSU n'a que 11 mois </p></figcaption></figure></div>
+<div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FqxfeFIO0FrH5oFAZBV03%2Fimage.png?alt=media&#x26;token=06bf921a-c909-47a5-8967-bba0425729e6" alt=""><figcaption><p>Si l'HSU n'a que 11 mois</p></figcaption></figure></div>
 
 <div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FTQ1kri3FMn38AaT1SktH%2Fimage.png?alt=media&#x26;token=3fc89093-19e7-4e86-9f12-8acc426f80d8" alt=""><figcaption><p>Vous ne pouvez pas dépasser 11</p></figcaption></figure></div>
 
@@ -88,7 +96,7 @@ Combinaison d'années et de mois estimés : 18 mois peuvent être saisis comme 1
 
 <div align="left"><figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FlttEBg08xikWkQL3VlAb%2Fimage.png?alt=media&#x26;token=c613700b-7af4-4962-9c28-83ce2a88ed11" alt=""><figcaption><p>exemple : 1 an et 6 mois</p></figcaption></figure></div>
 
-#### Identifiant hérité&#x20;
+#### Identifiant hérité
 
 Si d'autres identifiants sont utilisés pour l'HSU – par exemple un identifiant précédent du système papier - vous pouvez le saisir dans les champs pertinents “Legacy Id”. Il peut être utilisé pour rechercher un HSU existant ultérieurement.
 
@@ -108,23 +116,23 @@ L'ID PMS sera également enregistré dans le système afin que le réceptionnist
 
 Ceci est un champ optionnel. Pour le moment, c'est un champ de texte libre. Un travail est en cours pour remplir ces champs avec des valeurs codées par pays :
 
-&#x20;![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FOvjYEvb5LBYSe1XnKPgm%2Fimage.png?alt=media\&token=955863a9-8298-4410-9f58-ea0807289646)
+![](https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FOvjYEvb5LBYSe1XnKPgm%2Fimage.png?alt=media\&token=955863a9-8298-4410-9f58-ea0807289646)
 
-·         Pays : niveau administratif 0 : = Aujourd'hui un texte libre et deviendra une liste déroulante de tous les pays
+· Pays : niveau administratif 0 : = Aujourd'hui un texte libre et deviendra une liste déroulante de tous les pays
 
-·         État/Province : niveau administratif 1 : = Aujourd'hui un texte libre et deviendra une liste déroulante de tous les états/provinces du pays sélectionné
+· État/Province : niveau administratif 1 : = Aujourd'hui un texte libre et deviendra une liste déroulante de tous les états/provinces du pays sélectionné
 
-·        Ville/Village : niveau administratif 2/3/4 : = Aujourd'hui un texte libre et deviendra une liste déroulante de toutes les villes/villages/quartiers de l'état/province sélectionné
+· Ville/Village : niveau administratif 2/3/4 : = Aujourd'hui un texte libre et deviendra une liste déroulante de toutes les villes/villages/quartiers de l'état/province sélectionné
 
-### &#x20;Recherche d'un HSU existant
+### Recherche d'un HSU existant
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FjNeP4AwRyOix4jhUuoiu%2Fimage.png?alt=media&#x26;token=89035406-fc0b-4b62-9b2f-63d70ec1f7b5" alt=""><figcaption><p>Rechercher un HSU existant</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 
 Cliquez sur l'icône _‘Trouver le dossier HSU’_ pour rechercher un usager du service de santé existant et accéder à son dossier.
 
 Vous serez amené à l'écran montré ci-dessous :
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FRqijwFuGXYtYK3ZHVJiT%2Fimage.png?alt=media&#x26;token=2ebaf0d0-3c63-4664-8210-3ec1ce25f2b4" alt=""><figcaption><p>Barre de recherche pour trouver un HSU existant</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
 
 #### Par numéro d'identification
 
@@ -146,7 +154,7 @@ Après avoir enregistré un nouvel HSU, l'utilisateur (réceptionniste) sera dir
 
 Le tableau de bord d'inscription au programme affiche dans la section « Programmes » tous les programmes de santé auxquels l'HSU est inscrit.
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F4O7Verot4ILUzEdE8pkK%2Fimage.png?alt=media&#x26;token=5535d114-1282-46b0-a72b-6b8a2457d5ec" alt=""><figcaption><p>Tableau de bord des programmes (pour l'inscription)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F8KYqbheLJgJz008cIUwJ%2Fimage.png?alt=media&#x26;token=70cf153e-c77f-44b8-b26c-acf70a40947d" alt=""><figcaption><p>Tableau de bord des programmes – cet HSU est uniquement inscrit au programme PRP</p></figcaption></figure>
 
@@ -160,7 +168,7 @@ Résumé d'enregistrement
 
 Pour accéder au résumé d'enregistrement, cliquez sur ‘_Résumé d'enregistrement’_ dans le ‘_Actions générales_
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FFeRtwLs29cHU7lk3QPHm%2Fimage.png?alt=media&#x26;token=891db91f-a34d-4af8-ae06-d6d7aae6df24" alt=""><figcaption><p> : Boîte à outils Actions générales – Résumé d'enregistrement</p></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FFeRtwLs29cHU7lk3QPHm%2Fimage.png?alt=media&#x26;token=891db91f-a34d-4af8-ae06-d6d7aae6df24" alt=""><figcaption><p>: Boîte à outils Actions générales – Résumé d'enregistrement</p></figcaption></figure>
 
 #### Modifier les sections – Résumé d'enregistrement
 
@@ -172,10 +180,9 @@ Apportez les modifications nécessaires au formulaire.
 
 Cliquez _‘Enregistrer le formulaire’_
 
-\
+\\
 
-
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FcScLeWggyTVwkYARovCp%2Fimage.png?alt=media&#x26;token=46799ce1-8e0f-4761-99d9-b197c6cebd92" alt=""><figcaption><p> : Modification du formulaire d'enregistrement via le Résumé d'enregistrement</p></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FcScLeWggyTVwkYARovCp%2Fimage.png?alt=media&#x26;token=46799ce1-8e0f-4761-99d9-b197c6cebd92" alt=""><figcaption><p>: Modification du formulaire d'enregistrement via le Résumé d'enregistrement</p></figcaption></figure>
 
 #### Modifier les sections – En-tête HSU
 
@@ -187,7 +194,7 @@ Apportez les modifications nécessaires en utilisant la liste du côté gauche e
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FB41dReNiD0hoqoNg95wr%2Fimage.png?alt=media&#x26;token=4c66e813-b429-44de-ab68-f36489633797" alt=""><figcaption><p>Sélectionner la section à mettre à jour et cliquer sur Enregistrer le formulaire</p></figcaption></figure>
 
-### Navigation du tableau de bord PRP &#x20;
+### Navigation du tableau de bord PRP
 
 Pour accéder au tableau de bord PRP, cliquez sur ‘_Tableau de bord PRP’_ dans le ‘_‘Actions générales’_ boîte à outils.
 
@@ -203,13 +210,13 @@ Le ‘_Tableau de bord PRP’_ affiche les informations collectées pendant l'é
 
 #### Démarrer une visite
 
-1\.       Pour démarrer une visite et commencer à accéder à un formulaire afin de pouvoir saisir des données au point de soins, cliquez sur _‘Démarrer la visite’_ à droite.
+1\. Pour démarrer une visite et commencer à accéder à un formulaire afin de pouvoir saisir des données au point de soins, cliquez sur _‘Démarrer la visite’_ à droite.
 
-2\.       Cliquez ‘_Confirmer’_.
+2\. Cliquez ‘_Confirmer’_.
 
-3\.       Vous serez dirigé vers la _‘Synthèse de la visite’_ page, où vous pouvez sélectionner le formulaire à compléter.
+3\. Vous serez dirigé vers la _‘Synthèse de la visite’_ page, où vous pouvez sélectionner le formulaire à compléter.
 
-Dans le flux de travail PRP, le premier formulaire à documenter est celui appelé : « Décision initiale après l'enregistrement ».&#x20;
+Dans le flux de travail PRP, le premier formulaire à documenter est celui appelé : « Décision initiale après l'enregistrement ».
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FZCIFzJarlfROgMe3ew9P%2Fimage.png?alt=media&#x26;token=ed2132be-73ed-479a-b837-494721557dcb" alt=""><figcaption><p>Démarrer une nouvelle visite le même jour où elle a eu lieu</p></figcaption></figure>
 
@@ -221,11 +228,11 @@ Après avoir complété tous les formulaires liés à cette visite et que l'épi
 
 ### Ajouter une visite passée
 
-1\.       Pour saisir des données rétrospectivement, cliquez sur ‘_Ajouter une visite passée’_.
+1\. Pour saisir des données rétrospectivement, cliquez sur ‘_Ajouter une visite passée’_.
 
-2\.       Sélectionnez une date.
+2\. Sélectionnez une date.
 
-3\.       Cliquez ‘_Confirmer’_.
+3\. Cliquez ‘_Confirmer’_.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FbsOJUCJzBe7F1fv0xxEn%2Fimage.png?alt=media&#x26;token=d5be8825-48ab-4e1c-8259-74675c169581" alt=""><figcaption><p>Ajouter une visite passée</p></figcaption></figure>
 
@@ -245,9 +252,9 @@ Dans le ‘_Tableau de bord PRP’_ , dans le ‘_Widget « Visites récentes’
 
 Vous serez dirigé vers la page ‘_Synthèse de la visite’_ pour cette date.
 
-·         Si vous sélectionnez une visite active, c.-à-d. la date d'aujourd'hui, la synthèse de la visite sera affichée automatiquement
+· Si vous sélectionnez une visite active, c.-à-d. la date d'aujourd'hui, la synthèse de la visite sera affichée automatiquement
 
-·         Si vous souhaitez voir / sélectionner une visite passée, vous devrez sélectionner la date de visite pertinente dans le menu à gauche.
+· Si vous souhaitez voir / sélectionner une visite passée, vous devrez sélectionner la date de visite pertinente dans le menu à gauche.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fh42idylInPcqBvGrK2rY%2Fimage.png?alt=media&#x26;token=96291853-0df7-493b-b5eb-96775a9cf0f9" alt=""><figcaption><p>Synthèse de visite – sélection d'une visite passée</p></figcaption></figure>
 
@@ -275,13 +282,13 @@ Cliquez sur l'option _‘Afficher les détails’_ pour afficher un résumé des
 
 La possibilité de modifier un formulaire dépend s'il a été validé ou non avant de l'enregistrer : si le formulaire est enregistré sans cocher la case « Validé par », il est encore modifiable mais n'impacte pas le processus du flux de travail. Il est en brouillon
 
-Cliquez sur l'icône  à côté du formulaire que vous souhaitez modifier.
+Cliquez sur l'icône à côté du formulaire que vous souhaitez modifier.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2F9yrVO5Wlpn0optQuTGei%2Fimage.png?alt=media&#x26;token=1be8f59b-5581-457a-98ff-43baade78b9e" alt=""><figcaption><p>Modification d'une rencontre (formulaire)</p></figcaption></figure>
 
 #### Modification d'une visite
 
-1\.     Cliquez ‘_Modifier la date’_.
+1\. Cliquez ‘_Modifier la date’_.
 
 2. Sélectionnez la date pertinente et cliquez sur ‘_Confirmer’._
 
@@ -289,11 +296,11 @@ Cliquez sur l'icône  à côté du formulaire que vous souhaitez modifier.
 
 Deux scénarios différents sont possibles :
 
-·         Scénario 1 – pas de visite passée et une seule visite active :
+· Scénario 1 – pas de visite passée et une seule visite active :
 
-o   vous pourrez modifier la date ;
+o vous pourrez modifier la date ;
 
-o   dans l'exemple ci-dessous, la visite du 25<sup>ème</sup> octobre doit être changée au 18<sup>ème</sup> octobre ;
+o dans l'exemple ci-dessous, la visite du 25<sup>ème</sup> octobre doit être changée au 18<sup>ème</sup> octobre ;
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FBTz1s4NreYmbQD16c2n8%2Fimage.png?alt=media&#x26;token=4142a90d-b3f2-4174-bead-44a90362370a" alt=""><figcaption><p>Modification d'une visite – scénario dans lequel il n'y a pas de visite passée et une visite active</p></figcaption></figure>
 
@@ -301,41 +308,41 @@ o 18 octobre est maintenant affiché ;
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FhFfTcVi9bwLo4RGL2iuo%2Fimage.png?alt=media&#x26;token=409cf7a7-4ee2-4af0-9195-8a309b34b6ea" alt=""><figcaption></figcaption></figure>
 
-·         Scénario 2 – visite passée plus une visite active :
+· Scénario 2 – visite passée plus une visite active :
 
-o   vous ne pouvez pas modifier la date de l'une ou l'autre visite ;
+o vous ne pouvez pas modifier la date de l'une ou l'autre visite ;
 
-o   vous devez :
+o vous devez :
 
-§  soit fusionner les deux visites
+§ soit fusionner les deux visites
 
-§  soit ajouter une autre visite passée puis la fusionner avec la nouvelle visite que vous venez de créer ;
+§ soit ajouter une autre visite passée puis la fusionner avec la nouvelle visite que vous venez de créer ;
 
-o   dans l'exemple ci-dessous, une deuxième visite passée, pour le 4 mars, est ajoutée puis enregistrée ;
+o dans l'exemple ci-dessous, une deuxième visite passée, pour le 4 mars, est ajoutée puis enregistrée ;
 
-o   cette visite doit maintenant être fusionnée avec la visite dont la date doit être modifiée (c.-à-d. le 2 mars) ;
+o cette visite doit maintenant être fusionnée avec la visite dont la date doit être modifiée (c.-à-d. le 2 mars) ;
 
-o  une fois les deux visites fusionnées, il sera possible de cliquer sur _‘Modifier la date’_ pour changer la date de l'une ou l'autre visite. (Veuillez noter que les dates de début et de fin de la visite doivent être les mêmes.)
+o une fois les deux visites fusionnées, il sera possible de cliquer sur _‘Modifier la date’_ pour changer la date de l'une ou l'autre visite. (Veuillez noter que les dates de début et de fin de la visite doivent être les mêmes.)
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FopULxfRelzeOtl9vtizy%2Fimage.png?alt=media&#x26;token=703b6278-acc9-420b-89a5-d4dbc6a0c8f0" alt=""><figcaption><p>Modification d'une visite – scénario avec visite passée et visite active</p></figcaption></figure>
 
 ### Impression de la synthèse de la visite d'un HSU
 
-1\.       Cliquez sur l'icône  à côté du formulaire que vous souhaitez imprimer.
+1\. Cliquez sur l'icône à côté du formulaire que vous souhaitez imprimer.
 
-2\.       Cliquez _‘Imprimer’_ en haut du formulaire.
+2\. Cliquez _‘Imprimer’_ en haut du formulaire.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FIjI8vgXP1C215oxCPFjU%2Fimage.png?alt=media&#x26;token=15db0511-6eb1-427f-8257-e1e121583b02" alt=""><figcaption><p>mode visualisation</p></figcaption></figure>
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FnttnxcXY0CnuLBFIDtMw%2Fimage.png?alt=media&#x26;token=d314aa2d-b958-4772-8bb7-9c2323cd0e8f" alt=""><figcaption><p>Imprimer </p></figcaption></figure>
+<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FnttnxcXY0CnuLBFIDtMw%2Fimage.png?alt=media&#x26;token=d314aa2d-b958-4772-8bb7-9c2323cd0e8f" alt=""><figcaption><p>Imprimer</p></figcaption></figure>
 
 ### Suppression de la synthèse de la visite d'un HSU
 
 #### Suppression d'une rencontre (un formulaire)
 
-1\.       Cliquez sur l'icône X à côté du formulaire que vous souhaitez supprimer.
+1\. Cliquez sur l'icône X à côté du formulaire que vous souhaitez supprimer.
 
-2\.       Cliquez ‘_‘Oui’_.
+2\. Cliquez ‘_‘Oui’_.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FoJPWGV21u0oKd5SjsnAn%2Fimage.png?alt=media&#x26;token=0be2f435-8319-48f6-98c9-ebd1a5dc4aa8" alt=""><figcaption><p>Option de suppression</p></figcaption></figure>
 
@@ -343,7 +350,7 @@ o  une fois les deux visites fusionnées, il sera possible de cliquer sur _‘Mo
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FkYC8VCGplAjHLPSJCli7%2Fimage.png?alt=media&#x26;token=a590be5e-31f3-4d0a-8fb5-707f9bd9b485" alt=""><figcaption><p>Suppression</p></figcaption></figure>
 
-## Formulaires du programme PRP       &#x20;
+## Formulaires du programme PRP
 
 Pour accéder au formulaire PRP, vous devez aller au « tableau de bord des formulaires PRP »
 

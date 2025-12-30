@@ -20,23 +20,27 @@ Après l'enregistrement d'un nouveau HSU, le **Réceptionniste** sera dirigé ve
 
 Le tableau de bord d'inscription au programme affiche dans la section «Programmes» tous les programmes de santé dans lesquels le HSU est inscrit
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FzeyvRmiq4yo4gkXjzw8l%2Fimage.png?alt=media&#x26;token=fd94c48d-80f0-41b6-9b59-4ad83d06d0fd" alt=""><figcaption><p>Tableau de bord des programmes (pour l'inscription)</p></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FESoiEwuT09tyr3iDBwlc%2Fimage.png?alt=media&#x26;token=2477ad78-2822-434b-801e-42eaac3edd93" alt=""><figcaption><p>Tableau de bord des programmes – ce HSU n'est inscrit que dans le programme PRP</p></figcaption></figure>
-
-
 
 #### Voir les programmes existants
 
 Pour accéder au tableau de bord des programmes, cliquez sur ‘_Tableau de bord des programmes’_ dans le ‘_Actions générales’_ boîte à outils.
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2Fu9jJmX5QawugIYa2NMjI%2Fimage.png?alt=media&#x26;token=5bfcef21-b58c-4045-948b-16565ba51e6b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 ## Résumé de l'enregistrement <a href="#ywvjhum2bcjsgckqxdo2r" id="ywvjhum2bcjsgckqxdo2r"></a>
 
 Pour accéder au résumé de l'enregistrement, cliquez sur ‘_Résumé de l'enregistrement’_ dans le ‘_Actions générales’_ boîte à outils.
 
-<figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FGe7AwGVZiSYuIQHfJZv3%2Fimage.png?alt=media&#x26;token=bb9abd7a-6552-4a1e-8dc0-33700a8e3c61" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 #### Modifier les sections – Résumé de l'enregistrement
 
@@ -44,9 +48,9 @@ Cliquez sur l'icône en haut du widget
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FMAzlMxUI6fa3hQXUsJV7%2Fimage.png?alt=media&#x26;token=be5b5f3e-3f0f-4b76-b511-df6c32c77bf7" alt=""><figcaption></figcaption></figure>
 
-1\.      Apportez les modifications nécessaires au formulaire.
+1\. Apportez les modifications nécessaires au formulaire.
 
-2. &#x20;Cliquez _«Enregistrer le formulaire»_.
+2. Cliquez _«Enregistrer le formulaire»_.
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FfcnudCQd209clykCpUNT%2Fimage.png?alt=media&#x26;token=266c3280-2894-4489-a6cb-bf993b47d917" alt=""><figcaption></figcaption></figure>
 
@@ -60,9 +64,7 @@ _Remarque : Vous pouvez accéder à la même fonction via l'en-tête du HSU_
 
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FulbocnP5Cd4cmFKb6SSq%2Fimage.png?alt=media&#x26;token=8652b25c-12e3-48df-acba-817f23986d5b" alt=""><figcaption></figcaption></figure>
 
-
-
-## &#x20;Tableau de bord de la visite&#x20;
+## Tableau de bord de la visite
 
 1. vous pouvez sélectionner la visite actuelle ou une visite passée.
 
@@ -70,7 +72,22 @@ _Remarque : Vous pouvez accéder à la même fonction via l'en-tête du HSU_
 
 2. Vous voyez ce qui a été modifié lors d'une autre rencontre.
 
-
-
 <figure><img src="https://2479359880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FnTWGcVv7ikvz7HIC0Dby%2Fuploads%2FiyPUGND9B21NP6IP4G2d%2Fimage.png?alt=media&#x26;token=6e3e509e-211e-43a8-b572-e7305449c0fc" alt=""><figcaption></figcaption></figure>
 
+3. AJOUTER UNE VISITE PASSEE
+
+<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
